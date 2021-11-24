@@ -65,7 +65,7 @@ module.exports = {
         nav: require('./nav/en'),
         sidebar: [
           {
-            title: 'Concepts',
+              title: 'Prequel',
             collapsable: false,
             children: [
               '/concepts/architecture',
@@ -80,14 +80,14 @@ module.exports = {
             ]
           },
           {
-            title: 'Metaverse and NFT',
+            title: 'Defintion',
             collapsable: false,
             children: [
               '/metaverse-and-nft'
             ]
           },
           {
-            title: 'Metaverse and IPFS',
+            title: 'Framework',
             collapsable: false,
             children: 
             [
@@ -95,24 +95,17 @@ module.exports = {
             ]
           },
           {
-            title: 'NFT Tutorials',
+            title: 'Buidl',
             collapsable: false,
             children: [
               '/nft-tutorials/'
             ]
           },
           {
-            title: 'IPFS Tutorials',
+            title: 'Resource',
             collapsable: false,
             children: [
               '/ipfs-tutorials/'
-            ]
-          },
-          {
-            title: 'Showcases',
-            collapsable: false,
-            children: [
-              '/showcases/'
             ]
           }
         ]
