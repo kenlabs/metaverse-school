@@ -24,6 +24,7 @@ strippedText = pageText.strip().encode('utf-8')
 
 # check links
 
+
 outputHeader = '### `' + markdownToTest + '`:'
 outputText = ""
 links = soup.find_all('a')
