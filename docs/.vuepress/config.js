@@ -1,6 +1,6 @@
 // .vuepress/config.js
 
-const DEPLOY_DOMAIN = 'https://metaverseschool.kencloud.com'
+const DEPLOY_DOMAIN = 'https://school.kencloud.com'
 const SPEEDCURVE_ID = process.env.SPEEDCURVE_ID || ''
 const COUNTLY_KEY = process.env.COUNTLY_KEY || ''
 const pageSuffix = '/'
@@ -37,11 +37,11 @@ module.exports = {
     keywords:
       'Metaverse, IPFS, NFT, KEN Labs',
     domain: DEPLOY_DOMAIN,
-    docsRepo: 'kenlabs/metaverseschool',
+    docsRepo: 'kenlabs/metaverse-school',
     docsDir: 'docs',
     docsBranch: 'main',
     feedbackWidget: {
-      docsRepoIssue: 'kenlabs/metaverseschool'
+      docsRepoIssue: 'kenlabs/metaverse-school'
     },
     editLinks: false,
     // page nav
@@ -68,22 +68,14 @@ module.exports = {
               title: 'Prequel',
             collapsable: false,
             children: [
-              '/concepts/architecture',
-              '/concepts/hardware',
-              '/concepts/network',
-              '/concepts/computation',
-              '/concepts/virtual-platform',
-              '/concepts/tool-and-standard',
-              '/concepts/payment',
-              '/concepts/content',
-              '/concepts/customer-ecosystem'
+              'Prequel'
             ]
           },
           {
             title: 'Defintion',
             collapsable: false,
             children: [
-              '/metaverse-and-nft'
+              '/Defintion'
             ]
           },
           {
@@ -91,21 +83,21 @@ module.exports = {
             collapsable: false,
             children: 
             [
-              '/metaverse-and-ipfs'
+              '/Framework'
             ]
           },
           {
             title: 'Buidl',
             collapsable: false,
             children: [
-              '/nft-tutorials/'
+              '/Buidl/'
             ]
           },
           {
             title: 'Resource',
             collapsable: false,
             children: [
-              '/ipfs-tutorials/'
+              '/Resource/'
             ]
           }
         ]

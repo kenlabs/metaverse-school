@@ -15,13 +15,13 @@ To build a local copy, run the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/kenlabs/metaverseschool.git
+   git clone https://github.com/kenlabs/metaverse-school.git
    ```
 
 1. Move into the `metaverseschool` folder and install the NPM dependencies:
 
    ```bash
-   cd metaverseschool
+   cd metaverse-school
    npm install
    ```
 
