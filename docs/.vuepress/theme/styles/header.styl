@@ -1,8 +1,8 @@
 .navbar {
 	width: 100%;
 	position: sticky;
-	background-color: $layoutBgColor;
-	border-bottom: none;
+	border-bottom: 1px solid $primaryColor;
+    background: $navBgColor;
 
 	.logo {
 		height: 2.5rem;
@@ -34,7 +34,7 @@
 }
 
 header.navbar .links {
-	background-color: $layoutBgColor;
+	background: transparent;
 }
 
 #algolia-search-input {
@@ -48,7 +48,7 @@ header.navbar .links {
 header.navbar .links input {
 	font-family: inherit;
 	border-radius: 0;
-	border: none;
+    border: none;
   	box-shadow:
 		1px 1px 0px 1px $secondaryColor,
 		-1px -1px 0px 1px $tertiaryColor;

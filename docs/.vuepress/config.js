@@ -65,7 +65,7 @@ module.exports = {
         nav: require('./nav/en'),
         sidebar: [
           {
-              title: 'Prequel',
+            title: 'Prequel',
             collapsable: false,
             children: [
               'Prequel'
@@ -90,7 +90,8 @@ module.exports = {
             title: 'Buidl',
             collapsable: false,
             children: [
-              '/Buidl/'
+              '/Buidl/',
+              'Buidl/Connecting the Metaverse with IPFS.md'
             ]
           },
           {
@@ -99,7 +100,7 @@ module.exports = {
             children: [
               '/Resource/'
             ]
-          }
+          },
         ]
       }
     },

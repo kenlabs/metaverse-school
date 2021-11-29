@@ -1,5 +1,7 @@
-
-
+---
+title: Connecting the Metaverse with IPFS
+description: Guide developers to connect the Metaverse with IPFS
+---
 https://www.youtube.com/watch?v=08zD9L3hBLg
 
 https://hackmd.io/@XR/motivation

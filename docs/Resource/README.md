@@ -1,3 +1,7 @@
+---
+title: Resource
+description: Useful resources in Metaverse world
+---
 https://www.matthewball.vc/the-metaverse-primer
 
 
