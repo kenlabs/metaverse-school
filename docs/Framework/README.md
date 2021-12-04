@@ -1,5 +1,10 @@
 
 
+---
+title: resource
+description: other related doc
+---
+
 https://www.matthewball.vc/all/forwardtothemetaverseprimer
 
 
@@ -14,4 +19,5 @@ https://medium.com/@web3scout/decentralized-metaverse-architecture-ed360bb5d7d9
 
 
 https://medium.com/building-the-metaverse/market-map-of-the-metaverse-8ae0cde89696
+
 https://medium.com/building-the-metaverse/the-metaverse-canon-reading-guide-9eb1b371b505

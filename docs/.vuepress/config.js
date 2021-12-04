@@ -75,7 +75,10 @@ module.exports = {
             title: 'Defintion',
             collapsable: false,
             children: [
-              '/Defintion'
+              '/Defintion',
+              '/OutlierVenture',
+              '/MatthewBall.vc'
+
             ]
           },
           {
@@ -83,6 +86,11 @@ module.exports = {
             collapsable: false,
             children: 
             [
+              '/Framework',
+              '/Framework',
+              '/Framework',
+              '/Framework',
+              '/Framework',
               '/Framework'
             ]
           },
@@ -91,7 +99,16 @@ module.exports = {
             collapsable: false,
             children: [
               '/Buidl/',
-              'Buidl/Connecting the Metaverse with IPFS.md'
+              '/Hardware Infrastructure/',
+              '/Software Backend/',
+              '/Software Backend/IPFS',
+              '/Software Backend/Filecoin',
+              '/Software Backend/Connecting the Metaverse with IPFS.md',
+              '/World Primitives & Rules/',
+              '/In-world Assets/',
+              '/End-user Hardware/',
+              '/End-user Software/',
+              '/Bridges/'
             ]
           },
           {
