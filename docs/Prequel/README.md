@@ -4,3 +4,6 @@ https://medium.com/the-challenge/state-of-the-metaverse-2021-9f032fed655b
 
 
 https://www.youtube.com/watch?v=08zD9L3hBLg
+
+
+https://futuristspeaker.com/future-trends/the-history-of-the-metaverse/
