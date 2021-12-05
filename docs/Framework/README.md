@@ -1,8 +1,6 @@
-
-
 ---
-title: resource
-description: other related doc
+title: Framework
+description: Framework
 ---
 
 https://www.matthewball.vc/all/forwardtothemetaverseprimer
