@@ -72,13 +72,12 @@ module.exports = {
             ]
           },
           {
-            title: 'Defintion',
+            title: 'Definition',
             collapsable: false,
             children: [
-              '/Defintion',
-              '/OutlierVenture',
-              '/MatthewBall.vc'
-
+              '/Definition/',
+              '/Definition/OutlierVenture/',
+              '/Definition/MatthewBall.vc/'
             ]
           },
           {
@@ -86,12 +85,7 @@ module.exports = {
             collapsable: false,
             children: 
             [
-              '/Framework',
-              '/Framework',
-              '/Framework',
-              '/Framework',
-              '/Framework',
-              '/Framework'
+              '/Framework/'
             ]
           },
           {
@@ -99,16 +93,16 @@ module.exports = {
             collapsable: false,
             children: [
               '/Buidl/',
-              '/Hardware Infrastructure/',
-              '/Software Backend/',
-              '/Software Backend/IPFS',
-              '/Software Backend/Filecoin',
-              '/Software Backend/Connecting the Metaverse with IPFS.md',
-              '/World Primitives & Rules/',
-              '/In-world Assets/',
-              '/End-user Hardware/',
-              '/End-user Software/',
-              '/Bridges/'
+              '/Buidl/Hardware Infrastructure/',
+              '/Buidl/Software Backend/',
+              '/Buidl/Software Backend/IPFS/',
+              '/Buidl/Software Backend/Filecoin/',
+              '/Buidl/Software Backend/Connecting the Metaverse with IPFS.md',
+              '/Buidl/World Primitives & Rules/',
+              '/Buidl/In-world Assets/',
+              '/Buidl/End-user Hardware/',
+              '/Buidl/End-user Software/',
+              '/Buidl/Bridges/'
             ]
           },
           {
