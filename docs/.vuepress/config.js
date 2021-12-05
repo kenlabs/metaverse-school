@@ -85,7 +85,8 @@ module.exports = {
             collapsable: false,
             children: 
             [
-              '/Framework/'
+              '/Framework/',
+              ['/Framework/networking.md', 'Networking']
             ]
           },
           {
