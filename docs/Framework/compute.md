@@ -1,3 +1,16 @@
+---
+title: Compute
+description: Introduction to compute
+---
+
+# Compute
+
+#### Estimating the Need for Greater Computing Power
+
+#### Where to Locate and Build up Compute
+
+
+#### Decentralized Compute
 
 Technically the original vision and definition of the Metaverse was a point in time when the blurring of a distinction between physical and digital happens. This has typically been thought of in the context of AR (Augmented Reality) and VR (Virtual Reality) otherwise known as Mixed Reality becoming ubiquitous.
 If we think of the metaverse as a far off destination we will almost definitely sleep walk into not addressing some fundamental design choices
