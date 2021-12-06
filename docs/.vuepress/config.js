@@ -85,8 +85,15 @@ module.exports = {
             collapsable: false,
             children: 
             [
-              '/Framework/',
-              ['/Framework/networking.md', 'Networking']
+              '/Framework/framework for the metaverse',
+              '/Framework/hardware',
+              '/Framework/networking',
+              '/Framework/compute',
+              '/Framework/virtual platforms',
+              '/Framework/interchange tools and standards',
+              '/Framework/payments, payment rails and blockchains',
+              '/Framework/content, services and asset businesses',
+              '/Framework/evolving user and business behaviors'
             ]
           },
           {
@@ -94,16 +101,28 @@ module.exports = {
             collapsable: false,
             children: [
               '/Buidl/',
-              '/Buidl/Hardware Infrastructure/',
-              '/Buidl/Software Backend/',
-              '/Buidl/Software Backend/IPFS/',
-              '/Buidl/Software Backend/Filecoin/',
-              '/Buidl/Software Backend/Connecting the Metaverse with IPFS.md',
-              '/Buidl/World Primitives & Rules/',
-              '/Buidl/In-world Assets/',
-              '/Buidl/End-user Hardware/',
-              '/Buidl/End-user Software/',
-              '/Buidl/Bridges/'
+              '/Buidl/Open Metaverse OS/',
+              '/Buidl/Open Metaverse OS/Hardware Infrastructure/',
+              '/Buidl/Open Metaverse OS/Software Backend/',
+              '/Buidl/Open Metaverse OS/Software Backend/IPFS/',
+              '/Buidl/Open Metaverse OS/Software Backend/Filecoin/',
+              '/Buidl/Open Metaverse OS/Software Backend/Connecting the Metaverse with IPFS.md',
+              '/Buidl/Open Metaverse OS/World Primitives & Rules/',
+              '/Buidl/Open Metaverse OS/In-world Assets/',
+              '/Buidl/Open Metaverse OS/End-user Hardware/',
+              '/Buidl/Open Metaverse OS/End-user Software/',
+              '/Buidl/Open Metaverse OS/Bridges/',
+              '/Buidl/Open Metaverse OS/',
+              '/Buidl/Open Metaverse OS/Peer-to-Peer Networks',
+              '/Buidl/Open Metaverse OS/Transaction Layer',
+              '/Buidl/Open Metaverse OS/Programmability Layer',
+              '/Buidl/Open Metaverse OS/Decentralised Finance',
+              '/Buidl/Open Metaverse OS/NFTs - Sovereign Virtual Goods',
+              '/Buidl/Open Metaverse OS/Decentralised Governance',
+              '/Buidl/Open Metaverse OS/Decentralised Cloud Services',
+              '/Buidl/Open Metaverse OS/Self-sovereign Identity',
+              '/Buidl/Open Metaverse OS/Agents',
+              '/Buidl/Open Metaverse OS/ - Wallets/Front End Applications Agents'
             ]
           },
           {
