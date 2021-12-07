@@ -1,5 +1,5 @@
 ---
-title: Open Metaverse OS
-description: Introduction to Web3 Toolbox
+title: Introduction
+description: Introduction to Open Metaverse OS
 ---
 https://medium.com/building-the-metaverse

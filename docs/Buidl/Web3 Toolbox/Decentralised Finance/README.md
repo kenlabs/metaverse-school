@@ -1,6 +1,6 @@
 ---
-title: NFTs - Sovereign Virtual Goods
-description: Introduction to NFTs - Sovereign Virtual Goods
+title: Decentralised Finance
+description: Introduction to Decentralised Finance
 ---
 
 # NFTs - Sovereign Virtual Goods
