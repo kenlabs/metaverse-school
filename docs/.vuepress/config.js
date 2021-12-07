@@ -112,17 +112,16 @@ module.exports = {
               '/Buidl/Open Metaverse OS/End-user Hardware/',
               '/Buidl/Open Metaverse OS/End-user Software/',
               '/Buidl/Open Metaverse OS/Bridges/',
-              '/Buidl/Open Metaverse OS/',
-              '/Buidl/Open Metaverse OS/Peer-to-Peer Networks',
-              '/Buidl/Open Metaverse OS/Transaction Layer',
-              '/Buidl/Open Metaverse OS/Programmability Layer',
-              '/Buidl/Open Metaverse OS/Decentralised Finance',
-              '/Buidl/Open Metaverse OS/NFTs - Sovereign Virtual Goods',
-              '/Buidl/Open Metaverse OS/Decentralised Governance',
-              '/Buidl/Open Metaverse OS/Decentralised Cloud Services',
-              '/Buidl/Open Metaverse OS/Self-sovereign Identity',
-              '/Buidl/Open Metaverse OS/Agents',
-              '/Buidl/Open Metaverse OS/ - Wallets/Front End Applications Agents'
+              '/Buidl/Web3 Toolbox/',
+              '/Buidl/Web3 Toolbox/Peer-to-Peer Networks',
+              '/Buidl/Web3 Toolbox/Transaction Layer',
+              '/Buidl/Web3 Toolbox/Programmability Layer',
+              '/Buidl/Web3 Toolbox/Decentralised Finance',
+              '/Buidl/Web3 Toolbox/NFTs - Sovereign Virtual Goods',
+              '/Buidl/Web3 Toolbox/Decentralised Governance',
+              '/Buidl/Web3 Toolbox/Decentralised Cloud Services',
+              '/Buidl/Web3 Toolbox/Self-sovereign Identity',
+              '/Buidl/Web3 Toolbox/Agents'
             ]
           },
           {
