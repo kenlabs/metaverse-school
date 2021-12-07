@@ -68,7 +68,7 @@ module.exports = {
             title: 'Prequel',
             collapsable: false,
             children: [
-              'Prequel'
+              '/Prequel/'
             ]
           },
           {

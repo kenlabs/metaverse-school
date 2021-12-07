@@ -2,15 +2,6 @@
 title: Prequel
 description: Prequel
 ---
-https://medium.com/building-the-metaverse/9-megatrends-shaping-the-metaverse-93b91c159375
-
-https://medium.com/the-challenge/state-of-the-metaverse-2021-9f032fed655b
-
-
-https://www.youtube.com/watch?v=08zD9L3hBLg
-
-
-https://futuristspeaker.com/future-trends/the-history-of-the-metaverse/
 
 # Brief History of the Metaverse
 
@@ -97,3 +88,14 @@ Also in April, the Solana blockchain dapp was introduced. In contrast to Ethereu
 
 #### 2020 – Alien Worlds
 This wildly popular dapp was created with a multi-metaverse interplanetary scenario that had NFT characters interacting in a decentralized autonomous organization to mine tokens and perform other tasks. By 2021 Alien Worlds had more than 2.5 million users, but its significance goes beyond that – the game has been built around critical lessons for teaching people about the principles of cryptocurrency and crypto-mining.
+
+
+https://medium.com/building-the-metaverse/9-megatrends-shaping-the-metaverse-93b91c159375
+
+https://medium.com/the-challenge/state-of-the-metaverse-2021-9f032fed655b
+
+
+https://www.youtube.com/watch?v=08zD9L3hBLg
+
+
+https://futuristspeaker.com/future-trends/the-history-of-the-metaverse/
