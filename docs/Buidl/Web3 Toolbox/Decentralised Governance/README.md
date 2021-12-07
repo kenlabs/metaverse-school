@@ -1,5 +1,5 @@
 ---
-title: Open Metaverse OS
-description: Introduction to Web3 Toolbox
+title: Decentralised Governance
+description: Introduction to Decentralised Governance
 ---
 https://medium.com/building-the-metaverse

@@ -1,6 +1,6 @@
 ---
-title: Programmability Layer
-description: Introduction to Programmability Layer
+title: Peer-to-Peer Networks
+description: Introduction to Peer-to-Peer Networks
 ---
 
-# Programmability Layer
+# Peer-to-Peer Networks
