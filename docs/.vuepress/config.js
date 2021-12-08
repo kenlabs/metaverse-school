@@ -101,7 +101,7 @@ module.exports = {
             title: 'Buidl',
             collapsable: false,
             children: [
-              '/buidl/',
+              ['/buidl/', 'Introduction'],
               {
                   title: 'Open Metaverse OS',
                   collapsable: false,

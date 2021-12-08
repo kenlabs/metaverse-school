@@ -1,5 +1,5 @@
 ---
-title: Buidl
+title: Introduction
 description: Introduction to Buidl
 ---
 
