@@ -1,12 +1,13 @@
 .navbar {
     background-color: $navBgColor;
-    background-image: linear-gradient(147deg, $navBgColor 0%, #000000 74%);
+    background-image: linear-gradient(147deg, $navBgColor 0%, $secondaryColor 74%);
     border: none;
 	width: 100%;
 	position: sticky;
 
 	.logo {
 		height: 2.5rem;
+        min-width: initial !important;
 		margin: 0;
 		padding: 1px 3px 0px 0;
 		vertical-align: top;
@@ -17,7 +18,7 @@
 		letter-spacing: -0.05rem;
 		background: url('/images/metaverseschool-logo-text.svg') no-repeat;
 		background-position: 0 2px;
-		text-indent: -99999px;
+        color: $offWhiteColor !important;
 		min-width: 220px;
 		min-height: 50px;
 		background-size: contain;
