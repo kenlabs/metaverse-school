@@ -39,7 +39,7 @@ module.exports = [
       color: '#3a0839'
     }
   ],
-  ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
+  ['link', { rel: 'shortcut icon', href: '/images/kenlogo.ico' }],
   ['meta', { name: 'msapplication-TileColor', content: '#3a0839' }],
   [
     'meta',
