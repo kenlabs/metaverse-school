@@ -3,12 +3,12 @@
   "short_name": "",
   "icons": [
     {
-      "src": "/metaverse.png",
+      "src": "/kenlogo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/metaverse.png",
+      "src": "/kenlogo.png",
       "sizes": "256x256",
       "type": "image/png"
     }

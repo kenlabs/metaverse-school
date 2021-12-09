@@ -30,7 +30,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    defaultImage: '/images/metaverse.png',
+    defaultImage: '/images/kenlogo.png',
     author: {
       name: 'Metaverse School'
     },
@@ -49,7 +49,7 @@ module.exports = {
     prevLinks: false,
     sidebarDepth: 3,
     // ui/ux
-    logo: '/images/metaverse.png',
+    logo: '/images/kenlogo.png',
     locales: {
       '/': {
         label: 'English',
