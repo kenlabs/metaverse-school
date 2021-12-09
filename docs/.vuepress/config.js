@@ -149,6 +149,7 @@ module.exports = {
     },
   },
   plugins: [
+    'social-share',
     [require('./plugins/vuepress-plugin-speedcurve'), { id: SPEEDCURVE_ID }],
     [require('./plugins/vuepress-plugin-countly'), {
       domain: DEPLOY_DOMAIN,
