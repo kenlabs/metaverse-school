@@ -6,6 +6,11 @@ const COUNTLY_KEY = process.env.COUNTLY_KEY || ''
 const pageSuffix = '/'
 
 const extendsNetworks = {
+  pinterest: {
+    sharer: 'https://pinterest.com/pin/create/button/?url=@url&media=@media&description=@title',
+    type: 'popup',
+    icon: '/images/pinterest.svg',
+  },
   linkedin: {
     sharer:
       'https://www.linkedin.com/shareArticle?mini=true&url=@url&title=@title&summary=@description',
