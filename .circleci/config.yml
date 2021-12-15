@@ -13,7 +13,9 @@ jobs:
       - run:
           name: Install dependencies
           command: |
+            export NODE_OPTIONS=--openssl-legacy-provider
             npm install
+            npm run docs:build
       - setup_remote_docker:
           docker_layer_caching: false
           version: 19.03.13
