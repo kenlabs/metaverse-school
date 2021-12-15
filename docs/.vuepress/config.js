@@ -241,12 +241,6 @@ module.exports = {
       }
     ],
     [
-      '@vuepress/html-redirect',
-      {
-        countdown: 0
-      }
-    ],
-    [
       'vuepress-plugin-container',
       {
         type: 'callout',
