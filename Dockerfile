@@ -1,8 +1,3 @@
-FROM node
+FROM nginx
 
-RUN mkdir /opt/web
-ADD . /opt/web/
-WORKDIR /opt/web
-RUN npm install
-
-CMD npm start
+COPY ./docs/.vuepress/dist /usr/share/nginx/html
