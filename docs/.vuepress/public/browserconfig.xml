@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/kenlogo.png"/>
+            <square150x150logo src="/images/kenlogo.png"/>
             <TileColor>#00aba9</TileColor>
         </tile>
     </msapplication>
