@@ -35,6 +35,16 @@ To build a local copy, run the following:
 1. Close the local server with `CTRL` + `c`.
 1. To restart the local server, run `npm start` from within the `metaverseschool` folder.
 
+### PR and preview
+
+Once you're happy with your local changes, please make a PR **against the `main` branch**. Including detailed notes on your PR - particularly screenshots to depict any changes in UI - will help speed up approval and deployment.
+
+A reviewer will be by shortly to have a look!
+
+## Maintainers
+
+This site's codebase is under active maintenance by members of the core team at [KEN Labs](https://kenlabs.org/).
+
 ## License
 
 All software code is copyright (c) Protocol Labs, Inc. under the **[MIT](LICENSE) license**. Other written documentation and content is copyright (c) Protocol Labs, Inc. under the [**Creative Commons Attribution-Share-Alike License**](https://creativecommons.org/licenses/by/4.0/).
