@@ -48,6 +48,7 @@ module.exports = {
     defaultImage: '/images/kenlogo.png',
     author: {
       name: 'Metaverse School'
+      twitter: '@KenLabs_Web3'
     },
     keywords:
       'Metaverse, IPFS, NFT, KEN Labs',
@@ -92,6 +93,7 @@ module.exports = {
             collapsable: false,
             children: [
               '/definition/',
+              '/definition/Blockspace/',
               '/definition/outlierventure/',
               '/definition/matthewball.vc/'
             ]
