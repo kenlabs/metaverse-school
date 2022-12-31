@@ -9,7 +9,7 @@ module.exports = [
     {
       rel: 'apple-touch-icon',
       sizes: '180x180',
-      href: '/images/kenlogo.png'
+      href: '/images/metaverse.png'
     }
   ],
   [
@@ -18,7 +18,7 @@ module.exports = [
       rel: 'icon',
       type: 'image/png',
       sizes: '32x32',
-      href: '/images/kenlogo.png'
+      href: '/images/metaverse.png'
     }
   ],
   [
@@ -27,7 +27,7 @@ module.exports = [
       rel: 'icon',
       type: 'image/png',
       sizes: '16x16',
-      href: '/images/kenlogo.png'
+      href: '/images/metaverse.png'
     }
   ],
   ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -39,7 +39,7 @@ module.exports = [
       color: '#3a0839'
     }
   ],
-  ['link', { rel: 'shortcut icon', href: '/images/kenlogo.ico' }],
+  ['link', { rel: 'shortcut icon', href: '/images/metaverse.ico' }],
   ['meta', { name: 'msapplication-TileColor', content: '#3a0839' }],
   [
     'meta',
