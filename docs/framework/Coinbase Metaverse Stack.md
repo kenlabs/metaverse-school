@@ -1,9 +1,9 @@
 ---
-title: Coinbase
+title: Coinbase Metaverse Stack
 description: How Coinbase thinks about the Metaverse
 ---
 
-# Framework from Coinbase
+# Coinbase Metaverse Stack
 
 Coinbase [internal presentation](https://www.coinbase.com/blog/how-coinbase-thinks-about-the-metaverse) about the Metaverse:
 

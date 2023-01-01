@@ -1,6 +1,6 @@
 ---
-title: Resource
-description: Useful resources in Metaverse world
+title: Building the Metaverse
+description: Building the Metaverse
 ---
 ## Web3 ELI5: What is Web3?
 

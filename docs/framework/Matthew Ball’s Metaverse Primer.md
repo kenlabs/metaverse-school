@@ -1,9 +1,9 @@
 ---
-title: Framework for the Metaverse
+title: Matthew Ball’s Metaverse Primer
 description: Introduction the framework for the metaverse
 ---
 
-# Framework for the Metaverse
+# Matthew Ball’s Metaverse Primer
 
 Matthew Ball is tracking the emergence of the Metaverse around eight core categories, which can be thought of as a stack (click each header for a dedicated essay).
 

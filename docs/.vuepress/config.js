@@ -67,100 +67,51 @@ module.exports = {
         nav: require('./nav/en'),
         sidebar: [
           {
-            title: 'Prequel',
+            title: 'prequel',
             collapsable: true,
             children: [
-              '/prequel/'
+              '/prequel/History',
+              '/prequel/Megatrends'
             ]
           },
           {
             title: 'definition',
             collapsable: true,
-            children: [
-              ['/definition/', 'Blockspace','outlierventure','matthewball.vc'],
-              {
-                title: 'Blockspace',
-                collapsable: true,
-                children: [
-                  '/definition/Blockspace/'
-                ]
-              },
-              {
-                title: 'outlierventure',
-                collapsable: true,
-                children: [
-                  '/definition/outlierventure/'
-                ]
-              },
-              {
-                title: 'matthewball.vc',
-                collapsable: true,
-                children: [
-                  '/definition/matthewball.vc/'
-                ]
-              }
-            ]
+            children:
+              [
+                '/definition/Introduction',
+                '/definition/Metaverse',
+                '/definition/Multiverse',
+                '/definition/Omniverse',
+                '/definition/Openverse'
+              ]
           },
           {
             title: 'framework',
             collapsable: true,
             children:
               [
-                '/framework/coinbase',
-                '/framework/framework-for-the-metaverse',
-                '/framework/hardware',
-                '/framework/networking',
-                '/framework/compute',
-                '/framework/virtual-platforms',
-                '/framework/interchange-tools-and-standards',
-                '/framework/payments-payment-rails-and-blockchains',
-                '/framework/content-services-and-asset-businesses',
-                '/framework/evolving-user-and-business-behaviors'
+                '/framework/Introduction',
+                '/framework/The Metaverse Value-Chain',
+                '/framework/OV Open Metaverse OS',
+                '/framework/Coinbase Metaverse Stack',
+                '/framework/Protocol Labs Metaverse Stack',
+                '/framework/Matthew Ball’s Metaverse Primer',
+                '/framework/Community-Driven Technical Capability Framework'
               ]
           },
           {
-            title: 'Buidl',
+            title: 'buidl',
             collapsable: true,
-            children: [
-              ['/buidl/', 'Introduction','Web3 Toolbox','Open Metaverse OS'],
-              {
-                title: 'Open Metaverse OS',
-                collapsable: true,
-                children: [
-                  '/buidl/open-metaverse-os/',
-                  '/buidl/open-metaverse-os/hardware-infrastructure/',
-                  '/buidl/open-metaverse-os/software-backend/',
-                  '/buidl/open-metaverse-os/software-backend/ipfs/',
-                  '/buidl/open-metaverse-os/software-backend/filecoin/',
-                  '/buidl/open-metaverse-os/software-backend/connecting-the-metaverse-with-ipfs.md',
-                  '/buidl/open-metaverse-os/world-primitives-and-rules/',
-                  '/buidl/open-metaverse-os/in-world-assets/',
-                  '/buidl/open-metaverse-os/end-user-hardware/',
-                  '/buidl/open-metaverse-os/end-user-software/',
-                  '/buidl/open-metaverse-os/bridges/'
-                ]
-              },
-              {
-                title: 'Web3 Toolbox',
-                collapsable: true,
-                children: [
-                  '/buidl/web3-toolbox/',
-                  '/buidl/web3-toolbox/peer-to-peer-networks/',
-                  '/buidl/web3-toolbox/transaction-layer/',
-                  '/buidl/web3-toolbox/programmability-layer/',
-                  '/buidl/web3-toolbox/decentralised-finance/',
-                  '/buidl/web3-toolbox/nfts-sovereign-virtual-goods/',
-                  '/buidl/web3-toolbox/decentralised-governance/',
-                  '/buidl/web3-toolbox/decentralised-cloud-services/',
-                  '/buidl/web3-toolbox/self-sovereign-identity/',
-                  '/buidl/web3-toolbox/agents/'
-                ]
-              }
-            ]
+            children:
+              [
+                '/buidl/The Web3 Toolbox',
+                '/buidl/Connecting the Metaverse with IPFS'
+              ]
           },
           {
             title: 'Reference',
-            collapsable: false,
+            collapsable: true,
             children: 
             [
               '/reference/metadata-schemas',
@@ -173,12 +124,14 @@ module.exports = {
             title: 'Resource',
             collapsable: true,
             children: [
-              '/resource/'
+              '/resource/',
+              '/resource/All Things Web',
+              '/resource/Building the Metaverse'
             ]
           },
           {
             title: 'Contribute',
-            collapsable: false,
+            collapsable: true,
             children: [
               '/contribute/'
             ]
