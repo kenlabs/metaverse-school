@@ -7,9 +7,9 @@ description: How we think about the Metaverse
 
 At Protocol Labs, we build protocols, tools, and services to improve the internet ([IPFS](http://ipfs.io/), [Filecoin](http://filecoin.io/), [libp2p](https://libp2p.io/), [nft.storage](http://nft.storage/) et al.). Our mission and our work in driving [NFT infrastructure, mainly storage](https://nft.storage/stats/) guided us naturally to explore the next evolution of the web — the Metaverse. Last year, we started a [team to focus on the Metaverse](http://metaverse.filecoin.io/). We set out to develop a perspective on how we can help drive the upward trajectory of the space. In line with our core values, we very much believe that the Metaverse should be open and interoperable. We detail some of our thoughts drawn from several discussions below.
 
-![](./images/metaverse.png)
+<img src="./images/metaverse.png" width="500">
 
-## Essential infrastructure to power the Metaverse
+### Essential infrastructure to power the Metaverse
 
 The Filecoin stack is open and resilient, built to store assets for multiple generations
 
@@ -45,8 +45,9 @@ How we as a community shape I² will determine the future.
 
 #### Principles of Infrastructure & Interaction
 
-![](./images/principles.png)**Infrastructure**, as the foundation, should be guided by the following principles:
+![](./images/principles.png)
 
+**Infrastructure**, as the foundation, should be guided by the following principles:
 - **Decoupled**: Infrastructure operates independently from a Metaverse space or experience
 - **Composable**: Infrastructure components, such as Shared Compute, Storage, Caching, and Interfaces, should be built in “modules” which can be built by multiple teams and put together easily. This is opposed to the strong monopolistic platform model established by Web2
 - **Resilient:** Free from outages or censorship, infrastructure can resist external influences

@@ -6,7 +6,7 @@
 
 	.logo {
 		height: 2.5rem;
-        min-width: initial !important;
+		min-width: initial !important;
 		margin: 0;
 		padding: 1px 3px 0px 0;
 		vertical-align: top;
@@ -17,7 +17,7 @@
 		letter-spacing: -0.05rem;
 		background: url('/images/metaverseschool-logo-text.svg') no-repeat;
 		background-position: 0 2px;
-        color: $offWhiteColor !important;
+        	color: $offWhiteColor !important;
 		min-width: 220px;
 		min-height: 50px;
 		background-size: contain;
@@ -49,7 +49,10 @@ header.navbar .links {
 header.navbar .links input {
 	font-family: inherit;
 	border-radius: 0;
-    border: none;
+	border: none;
+  	box-shadow:
+		1px 1px 0px 1px $secondaryColor,
+		-1px -1px 0px 1px $tertiaryColor;
 	color: $textColor;
 	margin-top: 0.1em;
 }
