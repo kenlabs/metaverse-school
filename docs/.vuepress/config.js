@@ -106,6 +106,7 @@ module.exports = {
             children:
               [
                 '/buidl/The Web3 Toolbox',
+                '/buidl/Opportunities in the Metaverse',
                 '/buidl/The Role of Identity in Connecting the Metaverse',
                 '/buidl/Connecting the Metaverse with IPFS'
               ]
