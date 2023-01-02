@@ -16,9 +16,13 @@ TODO: https://www.techtarget.com/searchcio/tip/Metaverse-vs-multiverse-vs-omnive
 
 https://initiatives.weforum.org/defining-and-building-the-metaverse/home
 
+### Eight Criteria for the open Metaverse
+
+TODO: https://medium.com/allthingsweb-blog/how-we-think-about-the-metaverse-374085b9e90
 
 
-## Understanding the Metaverse
+
+### Understanding the Metaverse
 
 To us, the Metaverse is an evolution of the internet. We believe people will say “I am in the Metaverse” when they spend a significant amount of time and money in a digital space, and may even have a job that pays them to do things in the digital space.
 
@@ -32,7 +36,7 @@ It must be an **open, composable stack and run on a massively-scaled, resilient 
 
 
 
-## Are there competing visions for the Metaverse?
+### Are there competing visions for the Metaverse?
 
 https://outlierventures.io/research/are-there-competing-visions-for-the-metaverse/
 

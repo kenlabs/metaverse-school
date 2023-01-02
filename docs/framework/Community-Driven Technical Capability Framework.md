@@ -5,19 +5,14 @@ description: How we think about the Metaverse
 
 # Community-Driven Technical Capability Framework
 
-At Protocol Labs, we build protocols, tools, and services to improve the internet ([IPFS](http://ipfs.io/), [Filecoin](http://filecoin.io/), [libp2p](https://libp2p.io/), [nft.storage](http://nft.storage/) et al.). Our mission and our work in driving [NFT infrastructure, mainly storage](https://nft.storage/stats/) guided us naturally to explore the next evolution of the web — the Metaverse. Last year, we started a [team to focus on the Metaverse](http://metaverse.filecoin.io/). We set out to develop a perspective on how we can help drive the upward trajectory of the space. In line with our core values, we very much believe that the Metaverse should be open and interoperable. We detail some of our thoughts drawn from several discussions below.
+### Novel 4-layer framework
 
+The metaverse landscape is structured along a 4-layer framework. It groups projects by type and technologies based on experiences, user capabilities and infrastructure. Each technology layer is split up into various components that are required to build Metaverse applications (mApps).
 
+The framework will evolve over time together with the landscape.
 
-> While the full Metaverse is years away, it will rest on a foundation that’s being built right now. 
-
->Like the internet today, the Metaverse will rely on hardware and infrastructure, tools and standards, and regulatory frameworks — most of which haven’t been fully developed yet.
-
-![framework-from-coinbase](./images/framework-from-coinbase.png)
-
-> But unlike today’s internet, there won’t just be one Metaverse. There will be many Metaverses, and they’ll be interconnected. That’s why it will be important for any Metaverse to be trustless — meaning people can interact directly without going through an intermediary — and permissionless — meaning anyone can participate without authorization from a governing body.
-
-> To achieve this, the Metaverse will rely on blockchain to transfer identity and ownership across virtual worlds, attestation to verify them, and payment rails that allow people buy, sell, and earn income within a decentralized economy.
+mscape.io - Community-driven metaverse landscape
+https://mscape.io/
 
 ### The Filecoin Stack
 
