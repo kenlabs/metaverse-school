@@ -7,7 +7,7 @@ description: The Metaverse Value-Chain
 
 TODO:https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7
 
-
+In the article on the [value-chain of the metaverse](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7), [Jon Radoff](https://medium.com/@jradoff?source=post_page-----8ae0cde89696--------------------------------) described the seven layers of the ecosystem. 
 
 ## Layer 1: Experience
 

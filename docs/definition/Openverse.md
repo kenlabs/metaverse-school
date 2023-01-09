@@ -5,11 +5,22 @@ description: Openverse
 # Openverse
 
 TODO: https://showcase.ethglobal.com/ethonline/openverse
+TODO: https://bigtechquestion.com/2022/01/03/online/what-is-openverse/
+https://pluriverse.world/about
+http://ericwycoffrogers.com/writings/2021/12/24/the-metaverse-must-be-a-pluriverse
 
 
-
-
-
+> We are now watching the emergence of the Open Metaverse, a common open economic layer built from shared open-source protocols, open infrastructure, and a single unifying yet open financial system. New business models, principles, and technologies are emerging through DeFi, NFTs, Decentralized Governance & Storage, Self-Sovereign Identity, and more.
+>
+> 
+> Web 3; a Web centered on user-centricity and the enablement of sovereign identity, data and wealth.
+> 
+> just as we predicted the convergence of blockchain tech with IoT, AI, VR & AR bringing the web cycle forward, we are seeing the convergence of Web 3 technologies becoming the building blocks of the Open Metaverse – composed of peer-to-peer network structures, distributed ledger technology, programmability, core innovations, and self-custody of assets and wealth. The evolving technologies in these building blocks will serve to fill in the gaps of existing Web 3 tech – user experience, performance, and cost and enable the true actualization of the Open Metaverse.
+> 
+> - https://outlierventures.io/announcing-diffusion-2022-the-biggest-open-metaverse-conference-coming-march-28th-30th/
+> 
+>   the objectives of Protocol Labs aligning perfectly with the framework laid down in the Open Metaverse OS
+> - https://outlierventures.io/why-we-are-collaborating-with-filecoin/
 # So why build in the Open Metaverse?
 
 https://outlierventures.io/research/so-why-build-in-the-open-metaverse/

@@ -30,9 +30,7 @@ The Filecoin stack allows storage and retrieval of the most important data. It i
 
 
 
-## Immortalize your data on Filecoin
-
-
+### Immortalize your data on Filecoin
 
 Many technologies across three layers: experiences, user capabilities, and infrastructure - are required to build the Metaverse.
 

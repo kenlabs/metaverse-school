@@ -1,5 +1,5 @@
 ---
-title: Connecting the Metaverse with IPFS
+title: WHY THE INTERNET NEEDS THE INTERPLANETARY FILE SYSTEM
 description: Connecting the Metaverse with IPFS
 ---
 

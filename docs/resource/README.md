@@ -2,6 +2,78 @@
 title: Resource
 description: Useful resources in Metaverse world
 ---
+## The Planet-scale Metaverse
+
+https://www.researchgate.net/project/The-Planet-scale-Metaverse
+
+
+
+Running Working Document for Pluriverse Artifact - Google Docs
+https://docs.google.com/document/d/1Tes7GTDx_cQNlTVwE6_jMFuLN1N3SQUzrA3dypYv3Nw/edit
+
+
+
+open workshop document: How might we realize the pluriverse? How might we make the pluriverse real? - Google Docs
+https://docs.google.com/document/d/1cWbH_yCwsRHyt9pFgKwHujOylje9rZq-KbZwa1CAwEo/edit
+
+
+
+## 在 Metaverse 遇见我
+https://a16z.com/2020/12/07/social-strikes-back-metaverse/
+
+
+
+Will the Metaverse Replace the Physical Office? | Future
+https://future.com/question/will-the-metaverse-replace-the-physical-office/
+
+
+
+Metaverse Land: What Makes Digital Real Estate Valuable - a16z crypto
+https://a16zcrypto.com/metaverse-real-estate-digital-land-value-to-users/
+
+Unlocking the Metaverse: New Opportunities in Games Infrastructure | Andreessen Horowitz
+https://a16z.com/2022/06/23/unlocking-the-metaverse-new-opportunities-in-games-infrastructure/
+
+
+
+Why infrastructure needs the metaverse | VentureBeat
+https://venturebeat.com/business/why-infrastructure-needs-the-metaverse/
+
+
+
+understanding - nabeelqu
+https://nabeelqu.co/
+
+
+
+
+
+The Metaverse Makers
+https://webaverse.ghost.io/the-metaverse-makers/
+
+A Declaration of the Interdependence of Cyberspace
+https://www.interdependence.online/about
+
+
+
+Web3 + WebXR Content Initiative - HackMD
+https://hackmd.io/WMKjXWtzTmSe-YvPm7ElPQ
+
+
+
+Outlier Ventures - State of The Open Metaverse 2021 2022 - 2022 Jan.pdf
+https://theblockchaintest.com/uploads/resources/Outlier%20Ventures%20-%20State%20of%20The%20Open%20Metaverse%202021%202022%20-%202022%20Jan.pdf
+
+metaverse.pdf
+https://nextrope.com/wp-content/themes/nextrope/assets/files/metaverse.pdf
+
+
+
+Moving Castles: Modular and Portable Multiplayer Miniverses
+https://trust.support/feed/moving-castles
+
+
+
 ## Web3 ELI5: What is Web3?
 
 https://messari.io/report/web3-eli5-what-is-web3

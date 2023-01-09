@@ -71,7 +71,8 @@ module.exports = {
             collapsable: true,
             children: [
               '/prequel/History',
-              '/prequel/Megatrends'
+              '/prequel/Megatrends',
+              '/prequel/Crypto Phases'
             ]
           },
           {
@@ -92,11 +93,13 @@ module.exports = {
             children:
               [
                 '/framework/Introduction',
+                '/framework/7 Essential Ingredients of a Metaverse',
                 '/framework/The Metaverse Value-Chain',
+                '/framework/Web3++: The Metaverse',
+                '/framework/Matthew Ball’s Metaverse Primer',
                 '/framework/OV Open Metaverse OS',
                 '/framework/Coinbase Metaverse Stack',
                 '/framework/Protocol Labs Metaverse Stack',
-                '/framework/Matthew Ball’s Metaverse Primer',
                 '/framework/Community-Driven Technical Capability Framework'
               ]
           },
@@ -107,6 +110,10 @@ module.exports = {
               [
                 '/buidl/The Web3 Toolbox',
                 '/buidl/Opportunities in the Metaverse',
+                '/buidl/Web 3.0 Virtual Cloud Economies',
+                '/buidl/Blockchain Middleware',
+                '/buidl/Metaverse Land',
+                '/buidl/Step Into the Metaverse',
                 '/buidl/The Role of Identity in Connecting the Metaverse',
                 '/buidl/Connecting the Metaverse with IPFS'
               ]
