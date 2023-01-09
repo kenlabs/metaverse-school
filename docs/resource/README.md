@@ -13,6 +13,10 @@ https://docs.google.com/document/d/1Tes7GTDx_cQNlTVwE6_jMFuLN1N3SQUzrA3dypYv3Nw/
 
 
 
+https://metaresearch.substack.com/p/coming-soon
+
+
+
 open workshop document: How might we realize the pluriverse? How might we make the pluriverse real? - Google Docs
 https://docs.google.com/document/d/1cWbH_yCwsRHyt9pFgKwHujOylje9rZq-KbZwa1CAwEo/edit
 
