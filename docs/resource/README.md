@@ -17,6 +17,16 @@ https://metaresearch.substack.com/p/coming-soon
 
 
 
+Into The Metaverse | Yonatan Raz-Fridman | Substack
+https://www.intometamedia.com/
+
+
+
+Welcome to the Metaverse - by Rahul Sanghi - Tigerfeathers
+https://tigerfeathers.substack.com/p/welcome-to-the-metaverse
+
+
+
 open workshop document: How might we realize the pluriverse? How might we make the pluriverse real? - Google Docs
 https://docs.google.com/document/d/1cWbH_yCwsRHyt9pFgKwHujOylje9rZq-KbZwa1CAwEo/edit
 
