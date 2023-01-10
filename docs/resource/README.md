@@ -11,11 +11,19 @@ https://www.researchgate.net/project/The-Planet-scale-Metaverse
 Running Working Document for Pluriverse Artifact - Google Docs
 https://docs.google.com/document/d/1Tes7GTDx_cQNlTVwE6_jMFuLN1N3SQUzrA3dypYv3Nw/edit
 
+What is the Metaverse? An Explanation and In-Depth Guide
+https://www.techtarget.com/whatis/feature/The-metaverse-explained-Everything-you-need-to-know
 
+How deep learning will ignite the metaverse in 2023 and beyond | VentureBeat
+https://venturebeat.com/virtual/how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond/
+
+Protocol Labs: Advancing Technology for the Benefit of Humanity - Internet Society
+https://www.internetsociety.org/about-internet-society/organization-members/stories/protocol-labs/
+
+Why the Internet Needs the InterPlanetary File System - IEEE Spectrum
+https://spectrum.ieee.org/peer-to-peer-network
 
 https://metaresearch.substack.com/p/coming-soon
-
-
 
 Into The Metaverse | Yonatan Raz-Fridman | Substack
 https://www.intometamedia.com/
