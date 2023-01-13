@@ -70,6 +70,7 @@ module.exports = {
             title: 'prequel',
             collapsable: true,
             children: [
+              '/prequel/Timeline',
               '/prequel/History',
               '/prequel/Megatrends',
               '/prequel/Crypto Phases'

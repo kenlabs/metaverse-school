@@ -4,6 +4,11 @@ description: Openverse
 ---
 # Openverse
 
+Open Metaverse : The next big thing for NFT’s and Web 3.0
+https://www.bowtiedmetaverse.com/p/open-metaverse-the-next-big-thing
+
+
+
 TODO: https://showcase.ethglobal.com/ethonline/openverse
 TODO: https://bigtechquestion.com/2022/01/03/online/what-is-openverse/
 https://pluriverse.world/about
