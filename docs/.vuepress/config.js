@@ -85,6 +85,7 @@ module.exports = {
                 '/definition/Introduction',
                 '/definition/Metaverse vs. Multiverse vs. Omniverse',
                 '/definition/Open vs. Closed - The Competing Visions',
+                '/framework/Web3++: The Metaverse',
                 '/definition/Perspectives on the Metaverse'
               ]
           },
@@ -95,7 +96,6 @@ module.exports = {
               [
                 '/framework/Introduction',
                 '/framework/The Metaverse Value-Chain',
-                '/framework/Web3++: The Metaverse',
                 '/framework/Matthew Ball’s Metaverse Primer',
                 '/framework/OV Open Metaverse OS',
                 '/framework/Coinbase Metaverse Stack',
