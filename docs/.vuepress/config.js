@@ -85,7 +85,7 @@ module.exports = {
                 '/definition/Introduction',
                 '/definition/Metaverse vs. Multiverse vs. Omniverse',
                 '/definition/Open vs. Closed - The Competing Visions',
-                '/framework/Web3++: The Metaverse',
+                '/definition/Web3++: The Metaverse',
                 '/definition/Perspectives on the Metaverse'
               ]
           },
