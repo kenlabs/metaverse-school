@@ -94,7 +94,6 @@ module.exports = {
             children:
               [
                 '/framework/Introduction',
-                '/framework/7 Essential Ingredients of a Metaverse',
                 '/framework/The Metaverse Value-Chain',
                 '/framework/Web3++: The Metaverse',
                 '/framework/Matthew Ball’s Metaverse Primer',
