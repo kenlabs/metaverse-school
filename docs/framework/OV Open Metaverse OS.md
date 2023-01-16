@@ -11,43 +11,13 @@ https://outlierventures.io/research/the-open-metaverse-os/
 
 https://outlierventures.io/why-we-are-collaborating-with-filecoin/
 
+So how ready is Web 3, and consequently an Open Metaverse OS, for prime time? Well, on the one hand the Web 3 ecosystem is thriving with several nascent technologies that can enable many aspects of an Open Metaverse, and could and is being deployed in virtual worlds right now, albeit in an incremental fashion. But on the other it’s still significantly behind on several measures such as performance and cost when compared to Web 2, which has had decades to mature and where the benefits of economies of scale have been achieved by platform monopolys. 
 
+Equally, Web 3 technology has instead optimised primarily for high degrees of decentralisation and transaction security rather than and sometimes at the expense of enabling smooth, real-time interactions, and its applications for more 2D web based experiences on desktops and mobiles. As a consequence, user experience in Web 3 has to date been poor and required a high degree of technical literacy due to both the radically different security model of self custody and the nascency of the industry; with frictionless user experience of Web 3 technologies within gaming engines even further away. This narrative gradually changes as we observe the world of Web3 and crypto technologies being deployed within gaming and VR environments at at growing rate. This provides further proof of a generational shift away from Web 2 platforms. 
 
-### Defining the Metaverse
+Therefore, the Open Metaverse OS is best understood as an evolving collection of highly composable technologies that will increasingly, but selectively, be used to make aspects of an Open Metaverse possible as it seeks to serve a greater global population across several use cases and environments. It is also meant as an invitation and inspiration for teams to build those components that don’t exist yet, or aren’t ready for the needs and sheer scale of ambition we have for The Open Metaverse. 
 
-Technically the original vision and definition of The Metaverse was a point in time when the blurring of a distinction between physical and digital happens. This has typically been thought of in the context of AR (Augmented Reality) and VR (Virtual Reality) otherwise known as Mixed Reality becoming ubiquitous.
-
-However, we believe it’s important we think of it not as a destination but a journey or process.
-
-This is because it’s important to acknowledge the beginnings of the Metaverse are already here and if we think of it as a far off destination we will sleep walk into not addressing some fundamental design choices and potentially replicate or deepen what is broken about the Web today.
-
-It seems one of the defining characteristics of a metaverse was that somehow it was an economic system independent of, and enjoys supremacy to, old fiat based economies controlled by nation states.
-
-If we look at Facebook’s efforts to launch its own digital currency with Libra (which would have extended to Oculus), because it is a highly centralised and fiat based company, it has been aggressively constrained and in effect neutered as a genuine disruptive and sovereign crypto-currency.
-
-It could be considered partially true some games platforms are so big they are closed micro-economies, with their own currencies which they control centrally and value systems, like experience points systems, in-game items (skins) and marketplaces, where significant amounts of the wealth are held and traded.
-
-But the reality is only a few even let you transact in and out of their closed platform using fiat but even more importantly, wealth is not directly transferable between these microeconomics into a virtual meta economy with its own sovereign currencies.
-
-What’s more you can’t generally borrow against virtual wealth to buy physical assets, putting digital natives at an economic disadvantage, where 63% of gamers said they would actually spend more on skins if they had real world value.
-
-We propose ultimately we believe the defining characteristic of a true Metaverse is that it needs its own economy and currencies native to it, where value can be earnt, spent, lent, borrowed or invested interchangeably in both a physical or virtual sense and most importantly without the need for a government.
-
-### Competing Multiverses
-
-However, in the paper we first explore two versions of The Metaverse we observe emerging: one dominated by closed platforms and Big Tech like Facebook / Oculus and the other built on open protocols leveraging blockchains like Decentraland. Where its possible to assess the degree of comparative openness across;
-
-how much a platform embraces open source principles with their code and data, how closed a virtual economy is (within / across their proprietary games), the extent they control the monetary & fiscal policy of underlying economy, how it interacts with fiat based systems, and if they allow transferability of value outside their ecosystem. We also believe there is a Low-fi vs Hi-Fi spectrum based on the hardware required to experience a virtual world which we propose should continue to be maintained in order to be as inclusive and onboard as many people out of the old economy and into The Open Metaverse.
-
-### Web 3, a stack for an Open Metaverse
-
-We lay out the idea that there are a set of convergent technologies which allow for a common operating system for an **Open Metaverse** that sit between the hardware, application software and user. And because of it’s open source characteristics and on-chain transferability of assets through NFTs, makes digital assets and their metadata persistent and perpetual. In this sense **The** **Open Metaverse OS** makes the virtual worlds that build on it in part or as a whole pregnant with important Web 3 principles around user centricity, decentralisation and sovereignty which creates an unstoppable nature to its success.
-
-### The Web 3 Toolbox
-
-We breakdown exactly how Web 3, its design principles, protocols and standards form a toolbox for the entrepreneurs & architects in the Metaverse which we describe as **The Web3 Toolbox** for The Open Metaverse, and propose they will become interchangeable terms, increasingly being understood to be one and the same thing.
-
-![img](https://outlierventures.io/wp-content/uploads/2021/02/Screenshot-2021-02-05-at-18.07.49.png)
+As it stands, the Open Metaverse OS is concentrated on the critical lower layers of the stack, including non negotiable features such as user-sovereign identity and assets, in world economics and bridges into and out of its economy, and between each themselves leaving the intricacies of gaming engines, 3D modelling toolchains, and rendering stacks to the primarily centralized world. However, over time we expect the Open Metaverse OS to eat further downwards to decentralise those aspects as well. 
 
 ### Building in the Metaverse
 
@@ -60,10 +30,6 @@ We propose a way to approach this is to look at the anatomy of any given instanc
 ### The Open Metaverse OS
 
 TODO :https://outlierventures.io/research/closer-look-at-the-open-metaverse-os/
-
-https://outlierventures.io/wp-content/uploads/2021/08/OV-Metaverse-OS_V6.pdf
-
-
 
 We address the question: is the Open Metaverse OS ready for prime time? With our view being that Web 3 technology has been optimised primarily for high degrees of decentralisation and transaction security rather than and sometimes at the expense of enabling smooth, real-time interactions. And its applications for more 2D web based experiences on desktops and mobiles. As a consequence user experience in Web 3 to date has to date been poor but that this is changing as increasingly the world of Web 3 and crypto is it’s self converging with new environments like gaming and VR there is a generational shift away from Web 2 platforms.
 
@@ -128,5 +94,3 @@ However, we warn The Open Metaverse can not be misunderstood to be a panacea for
 We invite you to [read the full paper](https://outlierventures.io/wp-content/uploads/2021/08/OV-Metaverse-OS_V6.pdf) and feedback back to us your thoughts and consider this paper as a first pass at trying to make sense of the Metaverse. We look forward to discussing and iterating on it with you and would like to thank and acknowledge all of the contributors that helped us arrive at this initial understanding.
 
 Finally, we look forward to seeing you in the Metaverse; and hopefully an increasing more open one!
-
-JB

@@ -34,6 +34,28 @@ https://initiatives.weforum.org/defining-and-building-the-metaverse/home
 
 
 
+### Defining the Metaverse (OV)
+
+Technically the original vision and definition of The Metaverse was a point in time when the blurring of a distinction between physical and digital happens. This has typically been thought of in the context of AR (Augmented Reality) and VR (Virtual Reality) otherwise known as Mixed Reality becoming ubiquitous.
+
+However, we believe it’s important we think of it not as a destination but a journey or process.
+
+This is because it’s important to acknowledge the beginnings of the Metaverse are already here and if we think of it as a far off destination we will sleep walk into not addressing some fundamental design choices and potentially replicate or deepen what is broken about the Web today.
+
+It seems one of the defining characteristics of a metaverse was that somehow it was an economic system independent of, and enjoys supremacy to, old fiat based economies controlled by nation states.
+
+If we look at Facebook’s efforts to launch its own digital currency with Libra (which would have extended to Oculus), because it is a highly centralised and fiat based company, it has been aggressively constrained and in effect neutered as a genuine disruptive and sovereign crypto-currency.
+
+It could be considered partially true some games platforms are so big they are closed micro-economies, with their own currencies which they control centrally and value systems, like experience points systems, in-game items (skins) and marketplaces, where significant amounts of the wealth are held and traded.
+
+But the reality is only a few even let you transact in and out of their closed platform using fiat but even more importantly, wealth is not directly transferable between these microeconomics into a virtual meta economy with its own sovereign currencies.
+
+What’s more you can’t generally borrow against virtual wealth to buy physical assets, putting digital natives at an economic disadvantage, where 63% of gamers said they would actually spend more on skins if they had real world value.
+
+We propose ultimately we believe the defining characteristic of a true Metaverse is that it needs its own economy and currencies native to it, where value can be earnt, spent, lent, borrowed or invested interchangeably in both a physical or virtual sense and most importantly without the need for a government.
+
+
+
 #### What is the difference between the internet and the metaverse?
 
 The internet is a network of billions of computers, millions of servers and other electronic devices. Once online, internet users can communicate with each other, view and interact with websites, and buy and sell goods and services.
