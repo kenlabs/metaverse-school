@@ -14,7 +14,7 @@ This immersive virtual world that Metaverse aims to bring to us will not just be
 
 While the concept is not fully evolved yet, it is certain that new-age technologies such as AR/VR/MR, IoT, AI, 5G and Blockchain will become an enabling force to create a full-blown interconnected virtual world. It is no wonder that companies around the globe have placed big bets on it. 
 
-### The timeline of the Metaverse 
+### The timeline of the Metaverse
 
 #### Incubation
 

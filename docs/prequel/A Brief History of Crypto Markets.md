@@ -1,5 +1,5 @@
 ---
-title: Crypto Phases
+title: A Brief History of Crypto Markets
 description: A Brief History of Crypto Markets
 ---
 

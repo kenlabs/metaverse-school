@@ -71,10 +71,10 @@ module.exports = {
             collapsable: true,
             children: [
               '/prequel/Introduction',
-              '/prequel/Timeline',
-              '/prequel/History',
-              '/prequel/Megatrends',
-              '/prequel/Crypto Phases'
+              '/prequel/The History of the Metaverse',
+              '/prequel/9 Megatrends Shaping the Metaverse',
+              '/prequel/A Brief History of Crypto Markets',
+              '/prequel/The State of the Metaverse Today'
             ]
           },
           {
@@ -83,10 +83,9 @@ module.exports = {
             children:
               [
                 '/definition/Introduction',
-                '/definition/Metaverse',
-                '/definition/Multiverse',
-                '/definition/Omniverse',
-                '/definition/Openverse'
+                '/definition/Metaverse vs. Multiverse vs. Omniverse',
+                '/definition/Open vs. Closed - The Competing Visions',
+                '/definition/Perspectives on the Metaverse'
               ]
           },
           {
@@ -117,7 +116,8 @@ module.exports = {
                 '/buidl/Metaverse Land',
                 '/buidl/Step Into the Metaverse',
                 '/buidl/The Role of Identity in Connecting the Metaverse',
-                '/buidl/Connecting the Metaverse with IPFS'
+                '/buidl/Connecting the Metaverse with IPFS',
+                '/buidl/Microsoft Metaverse: Products, Services, Tech, and Much More'
               ]
           },
           {

@@ -1,5 +1,5 @@
 ---
-title: Megatrends
+title: 9 Megatrends Shaping the Metaverse
 description: 9 Megatrends Shaping the Metaverse
 ---
 
