@@ -157,3 +157,21 @@ https://medium.com/building-the-metaverse/the-experiences-of-the-metaverse-2126a
 
 
 https://www.slideshare.net/jradoff/building-the-metaverse-248941223
+
+
+
+Web3.0创作者经济报告：CreatorFi的发展现状和想象空间
+
+https://www.theblockbeats.info/report
+
+https://image.theblockbeats.info/report/Web3.0%E5%88%9B%E4%BD%9C%E8%80%85%E7%BB%8F%E6%B5%8E%E6%8A%A5%E5%91%8A_v2.pdf
+
+
+
+
+
+metaverse podcast - Outlier Ventures
+https://outlierventures.io/metaverse-podcast/
+
+
+

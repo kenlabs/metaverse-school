@@ -85,7 +85,7 @@ module.exports = {
                 '/definition/Introduction',
                 '/definition/Metaverse vs. Multiverse vs. Omniverse',
                 '/definition/Open vs. Closed - The Competing Visions',
-                '/definition/Web3++: The Metaverse',
+                '/definition/Web3 vs. Metaverse',
                 '/definition/Perspectives on the Metaverse'
               ]
           },
@@ -99,8 +99,7 @@ module.exports = {
                 '/framework/Matthew Ball’s Metaverse Primer',
                 '/framework/OV Open Metaverse OS',
                 '/framework/Coinbase Metaverse Stack',
-                '/framework/Protocol Labs Metaverse Stack',
-                '/framework/Community-Driven Technical Capability Framework'
+                '/framework/Protocol Labs Metaverse Stack'
               ]
           },
           {
@@ -116,7 +115,8 @@ module.exports = {
                 '/buidl/Step Into the Metaverse',
                 '/buidl/The Role of Identity in Connecting the Metaverse',
                 '/buidl/Connecting the Metaverse with IPFS',
-                '/buidl/Microsoft Metaverse: Products, Services, Tech, and Much More'
+                '/buidl/Microsoft Metaverse: Products, Services, Tech, and Much More',
+                '/buidl/Community-Driven Technical Capability Framework'
               ]
           },
           {

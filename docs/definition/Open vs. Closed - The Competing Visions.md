@@ -206,6 +206,14 @@ What is more, in 2020 we started a decicated token launch program called Ascent 
 
 
 
+> ### Competing Multiverses
+>
+> However, in the paper we first explore two versions of The Metaverse we observe emerging: one dominated by closed platforms and Big Tech like Facebook / Oculus and the other built on open protocols leveraging blockchains like Decentraland. Where its possible to assess the degree of comparative openness across;
+>
+> how much a platform embraces open source principles with their code and data, how closed a virtual economy is (within / across their proprietary games), the extent they control the monetary & fiscal policy of underlying economy, how it interacts with fiat based systems, and if they allow transferability of value outside their ecosystem. We also believe there is a Low-fi vs Hi-Fi spectrum based on the hardware required to experience a virtual world which we propose should continue to be maintained in order to be as inclusive and onboard as many people out of the old economy and into The Open Metaverse.
+>
+> https://outlierventures.io/research/the-open-metaverse-os/
+
 ### Eight Criteria for the open Metaverse
 
 TODO: https://medium.com/allthingsweb-blog/how-we-think-about-the-metaverse-374085b9e90

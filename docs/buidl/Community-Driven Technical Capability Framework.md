@@ -1,6 +1,6 @@
 ---
 title: Community-Driven Technical Capability Framework
-description: How we think about the Metaverse
+description: Community-Driven Technical Capability Framework
 ---
 
 # Community-Driven Technical Capability Framework
@@ -18,7 +18,7 @@ https://mscape.io/
 
 The Filecoin stack allows storage and retrieval of the most important data. It is a set of modular components to build an open, composable Metaverse. The modularity provides flexibility for teams to pick and choose the components they need.
 
-![](/Users/taoshengshi/code/go/src/github.com/kenlabs/metaverse-school/docs/framework/images/filecoin-stack.png)
+![](./images/filecoin-stack.png)
 
 * NFT.storage is designed for NFT developers who want free, multi-generational, decentralized storage on IPFS and Filecoin.https://nft.storage/
 * Web3.Storage is a general-purpose Filecoin & IPFS storage service with familiar and simple interfaces offering production-level storage and retrieval that is reliable and performant. https://web3.storage/

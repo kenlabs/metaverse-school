@@ -5,11 +5,57 @@ description: How we think about the Metaverse
 
 # OV Open Metaverse OS
 
-https://outlierventures.io/research/the-open-metaverse-os/
-
 >  the objectives of Protocol Labs aligning perfectly with the framework laid down in the Open Metaverse OS
 
 https://outlierventures.io/why-we-are-collaborating-with-filecoin/
+
+### Building in the Metaverse
+
+Were you to be using this toolbox to build an entirely new instance within the Metaverse (such as a virtual world), or looking to evolve an existing Web 2 platform, you would be presented with a set of design decisions and trade-offs at several levels of your stack between open / shared or closed / gated and proprietary. You might reasonably elect for an open solution at one level and closed at another, either permanently or temporarily based both on the immediate needs of your business and its stakeholders (like shareholders), users, or a philosophical principle. In the end, there will always be a tension to be imperfectly resolved. 
+
+A way to approach this is to look at the anatomy of any given instance of the Metaverse as a platform at its various levels of the stack as we have outlined below.
+
+![img](https://outlierventures.io/wp-content/uploads/2021/02/Screenshot-2021-02-05-at-18.07.37.png)
+
+#### User persona:
+the identity and properties of end users, including their name, avatar, ownership of assets, and reputation.
+
+#### End-user hardware and software:
+
+the hardware devices and software through which end users experience the world, including VR / AR headsets, PCs, gaming consoles, and client software.
+#### In-world assets:
+the assets that exist within the virtual world.
+
+#### Physical (virtual):
+the space of which the world is composed, such as sections and parcels. The objects that can exist within it, such as buildings, furniture, vehicles, wearables, collectibles, and avatars as a special case.
+
+#### Economics:
+economic elements of the world including in-world currency, financial instruments, and marketplaces.
+
+#### Content:
+content that can be introduced into the world, including media such as images, audio and video,and structured data assets.
+
+#### World primitives and rules:
+how does the world work? The model for user identity, ownership, and reputation. The mechanics and physics of the world. Can users fly? Run? How fast? Can objects be stacked on top of each other? Attached to buildings? Programmability and agents - in what ways can elements of the world be automated - and can autonomous digital agents interact with the world?
+
+#### Software backend:
+the backend components that make the world work.
+
+#### Hardware infrastructure:
+the hardware on which the backend components of the world run. Servers in data center, cloud services, networking.
+
+#### Bridges:
+ways in which the world can connect to external systems and environments. 
+
+#### To digital worlds:
+using shared layers for assets and economics, external programmability via APIs, teleporting to different virtual environments.
+
+#### To the physical world:
+including AR based activities such as in Pokemon Go, and digital elements that have a physical counterpart, such as physical redemption for digital assets.
+
+Each of these elements can exist in any virtual world, in some form or another, open or closed.Many centralized virtual worlds have in-game currencies, some have forms of in-game financial instruments, for example mortgages in Animal Crossing.
+
+### The Open Metaverse OS
 
 So how ready is Web 3, and consequently an Open Metaverse OS, for prime time? Well, on the one hand the Web 3 ecosystem is thriving with several nascent technologies that can enable many aspects of an Open Metaverse, and could and is being deployed in virtual worlds right now, albeit in an incremental fashion. But on the other it’s still significantly behind on several measures such as performance and cost when compared to Web 2, which has had decades to mature and where the benefits of economies of scale have been achieved by platform monopolys. 
 
@@ -17,7 +63,29 @@ Equally, Web 3 technology has instead optimised primarily for high degrees of de
 
 Therefore, the Open Metaverse OS is best understood as an evolving collection of highly composable technologies that will increasingly, but selectively, be used to make aspects of an Open Metaverse possible as it seeks to serve a greater global population across several use cases and environments. It is also meant as an invitation and inspiration for teams to build those components that don’t exist yet, or aren’t ready for the needs and sheer scale of ambition we have for The Open Metaverse. 
 
-As it stands, the Open Metaverse OS is concentrated on the critical lower layers of the stack, including non negotiable features such as user-sovereign identity and assets, in world economics and bridges into and out of its economy, and between each themselves leaving the intricacies of gaming engines, 3D modelling toolchains, and rendering stacks to the primarily centralized world. However, over time we expect the Open Metaverse OS to eat further downwards to decentralise those aspects as well. 
+
+
+> Is the Open Metaverse OS ready for prime time? With our view being that Web 3 technology has been optimised primarily for high degrees of decentralisation and transaction security rather than and sometimes at the expense of enabling smooth, real-time interactions. And its applications for more 2D web based experiences on desktops and mobiles. As a consequence user experience in Web 3 to date has to date been poor but that this is changing as increasingly the world of Web 3 and crypto is it’s self converging with new environments like gaming and VR there is a generational shift away from Web 2 platforms.
+>
+> We propose therefore **The Open Metaverse OS** is best understood as an evolving collection of highly composable technologies that will increasingly, but selectively, be used to make aspects of a the Metaverse progressively more open.
+
+![img](https://outlierventures.io/wp-content/uploads/2021/02/Screenshot-2021-02-05-at-18.07.23.png)
+
+As it stands, the Open Metaverse OS is concentrated on the critical lower layers of the stack, including non negotiable features such as user-sovereign identity and assets, in world economics and bridges into and out of its economy, and between each themselves leaving the intricacies of gaming engines, 3D modelling toolchains, and rendering stacks to the primarily centralized world. However, over time we expect the Open Metaverse OS to eat further downwards to decentralise those aspects as well.
+
+### An Oppenness Framework
+
+This way of thinking about the Open Metaverse OS also allows a framework through which to assess the openness or, otherwise, design choices and trade-offs made by a given instance of the Metaverse including; is the code open source, are the assets portabile, is the data platform proprietary or user controlled, who can create value, and the degree of UGC versus platform made and how can it be monetized.
+
+![img](https://outlierventures.io/wp-content/uploads/2021/02/Screenshot-2021-02-05-at-17.57.17.png)
+
+
+
+It is important to stress, however, it is unlikely openness is absolute and its choices binary, but rather on a spectrum. And even within those virtual worlds and platforms we could classify as the most ‘open,’ there will be significant nuance, often driven by technical limitations both of being an early adopter as well as dependencies on underlying protocols like Ethereum which require workarounds for improved usability comprising what happens on-chain, impacting ‘openness.’ 
+
+For example, it seems Decentraland is the only Metaverse project thta has a fully open source approach but still takes a more restrictive approach to avatars and wearables. E.g. like Cryptovoxels, it doesn’t store avatar files on-chain, nor is their system available to outside avatar models and wearable minting is curated. 
+
+
 
 ### Building in the Metaverse
 
@@ -47,50 +115,7 @@ We suggest a way of thinking about an Open Metaverse OS is also as a framework t
 
 We find it important to stress throughout, like ‘decentralisation’, it is unlikely openness is absolute and its choices are not binary but rather on a spectrum. And even within those virtual worlds and platforms, we could classify as the most ‘open’ there will be significant nuance, often driven by technical limitations both of being an early adopter as well as dependencies on underlying protocols like Ethereum which require workarounds for improved usability comprising what happens on-chain, impacting ‘openness’.
 
-### So why build in the Open Metaverse?
 
-We address why even build or integrate a virtual world or good with The Open Metaverse OS at all? Especially, when compared to a more convenient closed and centralised approach, with so many trade-offs and limitations to mass adoption?
 
-We explain why we believe there is a general direction of travel towards open standards in The Metaverse even by what you might at first glance regard as it’s closed participants with Open 3D object media standards: and Metaverse Web Browsers.
-
-We explore the importance of principles of self sovereignty, sovereignty of identity and associated digital wealth (including assets and increasingly data) based on the concept of user centricity: where a user takes precedence over any given platform. Where some may argue the user in aggregate is the platform. In this context we believe virtual worlds become the interface to create, trade or experience virtual goods and services which are portable and not restricted to a single platform.
-
-And propose this is a powerful economic driver and a fundamental paradigm shift away from the Closed Metaverse and its business models we see dominate the Web today. When creations, wealth and assets can have a life ‘off platform’ and be exchanged and become infinitely interchangeable with one another, freely in open markets, they grow in liquidity and consequently value, simply because more value can be exchanged between itself without limitation. Something we propose you could consider as a form of ‘value squared’.
-
-We suggest we can also regard different virtual worlds, open or closed, as slices of a larger whole. Where users can and will by design interact with and be part of one or more of these worlds. And whilst a single world could outgrow all others and become a significant part of The Multiverse they do not enjoy the same defensible ‘moats’ seen in Web 2 of locking users and their data into their platforms and holding them ransom.
-
-Therefore we explain it is more likely virtual worlds in The Open Metaverse are increasingly interoperable and interconnected to the point it will be hard to distinguish them as separate but just rather different instances of a whole.
-
-![img](https://outlierventures.io/wp-content/uploads/2021/02/Screenshot-2021-02-05-at-17.57.40.png)
-
-### The empty world problem
-
-We also address that when comparing The Open Metaverse to its closed cousin that it is largely full of empty worlds. The number of daily active users across all platforms is still estimated to be in the low thousands and is almost irrelevant when compared with Fortnite alone which has 350m+ monthly users.
-
-We ask the question how can open virtual worlds first catch up and equal the content and rich experiences of today’s dominant virtual world and gaming platforms? And propose in the same way crypto-currency exchanges like Coinbase and Binance brought crypto generally to millions of retail investors through the sale and exchange of ERC20s and ICOs in 2017 driving media attention and a virtuous hype cycle so will NFT platforms only much more so.
-
-As well as how LiDAR technology which now allows anybody with the latest iPhone, to mass render the physical world, translate it into machine readable 3D models and convert them into tradable NFTs which could be uploaded into open virtual worlds very quickly populating them with avatars, wearables, furniture, and even whole buildings and streets.
-
-And how because they machine readable they can leverage open source standards like Pixar’s USD, NVIDIA’s MDL, Khronos Group and NVIDIA’s Omniverse to further be fed into AI to spit out infinite variations which again can be better monetised in global and open markets than any one closed platform.
-
-We discuss why we believe this will dramatically reduce the time and cost to produce games or whole virtual worlds and economies whilst also tapping into a global workforce of millions of creators allowing seamless and decentralised collaboration well beyond the capabilities of a single gaming studio, record label or virtual platform.
-
-### Humanity’s greatest economic experiment
-
-We propose The Open Metaverse, pregnant with Web 3 principles, will allow innovators to experiment in an open and permissionless experiment with its underlying economics, as well as the rules of the game that underpin it both at the protocol layer but also within each virtual world itself. And that each experiment can be done in parallel to the other; in concert and / or direct competition.
-
-We discuss how this can create entirely new wealth in a purely virtual sense but which puts bread on the table and roofs over people’s heads. And whilst play-to-earn is nothing new it is now going mainstream where ‘play as work’ and innumerable variations including; hold to play, share or curate to earn and play for keeps, could become the primary income for hundreds of millions of people as a form of financial emancipation rather than digital feudalism.
-
-### Top down regulatory forces
-
-Finally, we address in combination an increasing top down mandate by governments to limit the power of social platforms like Facebook and other various Web 2 platform monopolies from an antitrust perspective but also from a Data Trade and abuse motive create an additional and powerful force to unbundle platforms.
-
-And that once regulators come to terms with what cryptocurrencies mean and the impact to their fiat-based economies will be, in the end, they will realise their success is both inevitable but also beneficial bringing about a form of open, permissionless hyper-competition both technically but also in financial services and inclusion which are undoubtedly in the interests of consumers.
-
-However, we warn The Open Metaverse can not be misunderstood to be a panacea for the world’s ills nor a utopia without its problems.
-
-### In Conclusion
-
-We invite you to [read the full paper](https://outlierventures.io/wp-content/uploads/2021/08/OV-Metaverse-OS_V6.pdf) and feedback back to us your thoughts and consider this paper as a first pass at trying to make sense of the Metaverse. We look forward to discussing and iterating on it with you and would like to thank and acknowledge all of the contributors that helped us arrive at this initial understanding.
-
-Finally, we look forward to seeing you in the Metaverse; and hopefully an increasing more open one!
+The Open Metaverse OS - Outlier Ventures
+https://outlierventures.io/research/the-open-metaverse-os/
