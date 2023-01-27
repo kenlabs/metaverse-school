@@ -1,9 +1,20 @@
 ---
-title: Microsoft Metaverse Products, Services, Tech, and Much More
-description: Microsoft Metaverse Products, Services, Tech, and Much More
+title: The Metaverse Builders
+description: The Metaverse Builders
 ---
 
-# Microsoft Metaverse: Products, Services, Tech, and Much More
+# The Metaverse Builders
+
+https://outlierventures.io/research/the-web-3-toolbox/
+
+Metaverse 的市场地图。 在我关于……价值链的文章中 通过乔恩·拉多夫 | 构建元宇宙 | 中等的
+https://medium.com/building-the-metaverse/market-map-of-the-metaverse-8ae0cde89696
+
+
+
+
+
+## Microsoft Metaverse: Products, Services, Tech, and Much More
 
 ## **Key Points**
 
@@ -182,3 +193,15 @@ Yes! Microsoft is one of the largest tech companies investing heavily in the Met
 [Microsoft Metaverse; Learn About Microsoft’s Metaverse Strategy (metamandrill.com)](https://metamandrill.com/microsoft-metaverse/)
 
 [The Microsoft Metaverse Is Officially Coming In 2022 | IS News (influentialsoftware.com)](https://www.influentialsoftware.com/microsoft-metaverse-is-coming/#:~:text=The Microsoft metaverse is coming to Microsoft Teams in early,to communicate in mixed reality.)
+
+
+
+
+
+## Further Reading
+
+[How Web3 Founders Can Get the Most Out of an Accelerator Program](https://www.entrepreneur.com/science-technology/how-web3-founders-can-get-the-most-out-of-an-accelerator/442307)
+
+Trust and risk considerations for the metaverse: PwC
+https://www.pwc.com/us/en/tech-effect/emerging-tech/metaverse-trust-and-risk-considerations.html
+

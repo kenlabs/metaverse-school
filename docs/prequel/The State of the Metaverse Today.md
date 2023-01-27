@@ -16,7 +16,7 @@ Then Microsoft shocked the world by announcing its intention to [purchase Activi
 
 It’s clear many tech companies are now on a path to build a next generation, immersive internet. But who will get there first, and what form will it take?
 
-### The metaverse still means different things to different people 
+## The metaverse still means different things to different people 
 
 Many people are still struggling to comprehend exactly what the metaverse is and what promise it will deliver. On a conceptual level, the metaverse has been positioned as the next generation internet that provides a way for us to make our physical lives seamlessly integrate with our virtual lives, creating real-time immersive experiences. However, given it doesn’t refer to a specific technology, people find it very hard to fully visualize the potential of this future social interaction and internet platform. It’s understandable – imagine talking about today’s Internet in the 1970s; while the foundation was there, it would have been hard to envision the applications and experiences we are accustomed to today. 
 
@@ -24,7 +24,7 @@ The metaverse will be a combination of virtual reality (VR) and augmented realit
 
 What’s certain is that the metaverse will be a new paradigm where our digital and online lives converge. How that will exactly happen is yet to unfold. 
 
-### Defining the architectural tenets of the metaverse 
+## Defining the architectural tenets of the metaverse 
 
 [Jon Radoff,](https://en.wikipedia.org/wiki/Jon_Radoff) entrepreneur and game designer, has provided one of the best visions of the architectural components and layers of the metaverse. The [seven layers](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7) he describes — Experience, Discovery, Creator Economy, Spatial Computing, Decentralization, Human Interface, and Infrastructure — create an end-to-end value chain for the metaverse. Experience dematerializes our physical space to unleash a graphical space and social immersion, where content is created not only by people but dynamically from interactions and feeds. Discovery is the mechanism that enables people to find sources of information around new experiences. NFT’s are rudimentary examples of this. 
 
@@ -32,7 +32,7 @@ The creator economy contains all the technologies creators will use to create ex
 
 Most of the components of this layered architecture are here today, albeit some still in an emerging state of maturity, which means elements of the metaverse may actually be realized sooner than expected. 
 
-### Content creators fuel the metaverse experience 
+## Content creators fuel the metaverse experience 
 
 The metaverse will be fueled by numerous content creators that will construct virtual environments such as concert venues, casinos, theme parks, sports arenas, etc. using digital assets and content. 
 
@@ -42,7 +42,7 @@ However, more importantly in the metaverse, these creators will own their audien
 
 The barrier to entry will be significantly lowered as artists will be able to create environments and performances directly without relying on the large distribution companies that control the industry today.
 
-### NFTs become the vehicle of distribution 
+## NFTs become the vehicle of distribution 
 
 NFTs (non-fungible tokens) are a new class of digital assets, which are unique, cannot be copied, and are associated with specific ownership rights. An NFT is stored in the blockchain and acts as a certificate of ownership around a digital asset such as a video, photo, music file, digital art or any other type of collectible. An NFT can also be a ticket to a concert or sporting event with an embedded, personalized access like a specific time to have a meet and greet with an artist. 
 
@@ -56,7 +56,7 @@ NFT’s role in the metaverse will expand by leveraging smart contracts for tran
 
 NFTs are still in the early phases of stabilization and have some critical shortfalls to overcome, but they will soon move beyond collectibles and will start to represent a more diverse set of financial instruments, such as insurance, stock options, loans, and real estate. 
 
-### Gaming is the foundational platform 
+## Gaming is the foundational platform 
 
 Some elements of the metaverse have been evident for a while, with the gaming industry building foundational components for many years. 
 
@@ -72,7 +72,7 @@ Minecraft’s foundational flexibility is also paving the way for other use case
 
 So while tech companies scramble to define and create the new metaverse, the game platforms may get there first.
 
-### The music industry pioneered the use of avatars 
+##  The music industry pioneered the use of avatars 
 
 The live music industry was one of the first to embrace digital avatars. 
 
@@ -82,7 +82,7 @@ In an extreme example, [Hatsune Miku](https://en.wikipedia.org/wiki/Hatsune_Miku
 
 The metaverse creates a significant opportunity for the music industry. Musical content and live concerts will be streamed, creating new revenue streams. And there will be new merchandising concepts and digital memorabilia in this virtual world. Additionally, the metaverse will connect users across diverse geographical segments, allowing families and friends to experience musical content together in a virtual forum. 
 
-### Brands are beginning to embrace the metaverse
+##  Brands are beginning to embrace the metaverse
 
 Several brands are beginning to experiment with the metaverse. Nike launched [Nikeland](https://www.roblox.com/nikeland), a virtual world made in partnership with Roblox that integrates sport and play into a unified experience. Real life motions translate to the virtual world to provide movements in a variety of sports and games. Nike is looking to connect with younger generations through a gaming and virtual reality experience. 
 
@@ -98,7 +98,7 @@ Baidu launched its first metaverse-related app back in December 2021, [Xirang](h
 
 While many of these applications are experiential, they will begin to provide users a glimpse into how experiences in the metaverse are beginning to take shape. 
 
-### Metaverse is a catalyst for the future, but not the exact future 
+## Metaverse is a catalyst for the future, but not the exact future 
 
 We are on a journey to create the next generation of the internet that will have a more decentralized architecture, giving control back to users. And while the current applications and concepts of the metaverse are nascent, the next decade will be the golden era of development of the metaverse. Today’s metaverse is a mood board for the future rather than a final architecture. 
 
@@ -106,6 +106,6 @@ When you look back historically at major tech trends, it’s never exactly what 
 
 
 
-refer: https://venturebeat.com/business/what-you-need-to-know-about-the-state-of-the-metaverse-today/
+## Further Reading
 
-*Frank Palermo is the executive vice president at [Virtusa’s Global Digital Business](http://www.virtusadigital.com/), where he is responsible for technology practices in UX, mobility, social, cloud, analytics, big data, and IoT.*
+* [What you need to know about the state of the metaverse today](https://venturebeat.com/business/what-you-need-to-know-about-the-state-of-the-metaverse-today/)

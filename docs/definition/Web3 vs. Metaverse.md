@@ -182,3 +182,38 @@ At first, it was really hard for me to think about use cases of the Metaverse as
 But the Metaverse is not only for fun. Think of the possibilities it opens for work. What happens if you add a third dimension to Google Drive, or Zoom? No more *“I wish I had a whiteboard to show you what I mean”*. You and your colleagues could be in the same space sharing a whiteboard and brainstorming as if you were in the same room.
 
 If I had to summarize the Metaverse in a sentence it would be: **“the front-end to a 3D-version of the Web”**. Will we reach this? We’ll see, what it is clear is that many of the web3 modules required to build the promise of the Metaverse are here to stay.
+
+
+
+
+
+## **Web3 & Metaverse: Where do they fit each other?**
+
+Many of us might be confused about how Metaverse and [Web 3.0](https://www.queppelin.com/what-is-web-3/) are related. The answer to this is simple. 
+
+Metaverse is a platform where content is created and consumed. Anyone can create content for anyone. On the other hand, Web3 is an iteration or version of the web that will infuse decentralization into the Metaverse. Hence, when creators create content in the Metaverse, they can monetize it at their convenience.
+
+Further, Web 3 allows users of the Metaverse to own their data and have full control over its utilization.
+
+There are three major components of Web 3 (the next version of web) –
+
+**Blockchain**
+
+It is a distributed ledger system that offers immutable protection to the data stored in it. It is highly reliable, robust, and near-impossible to tamper with. With blockchain, users can store their data with complete protection.
+
+**Digital assets**
+
+These assets are issued on a blockchain. They are used to represent value, portability, ownership, and permanence. This facilitates the exchange of value between Metaverse dwellers without intermediation.
+
+**Smart contracts**
+
+They are self-executing protocols that contain conditional programming code. Once the pre-defined conditions are met, they get executed automatically. This introduces automation to all the processes across the board.
+
+
+
+## Further Reading
+
+[Web3++: The Metaverse. What is all the fuss about this thing… | by Alfonso de la Rocha | Medium](https://adlrocha.medium.com/web3-the-metaverse-8c1f9f0efb40)
+
+Chain Reactions: How Creators, Web3, and the Metaverse Intersect
+https://digitalnative.substack.com/p/chain-reactions-how-creators-web3

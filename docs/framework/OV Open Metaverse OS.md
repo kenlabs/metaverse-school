@@ -9,7 +9,7 @@ description: How we think about the Metaverse
 
 https://outlierventures.io/why-we-are-collaborating-with-filecoin/
 
-### Building in the Metaverse
+## Building in the Metaverse
 
 Were you to be using this toolbox to build an entirely new instance within the Metaverse (such as a virtual world), or looking to evolve an existing Web 2 platform, you would be presented with a set of design decisions and trade-offs at several levels of your stack between open / shared or closed / gated and proprietary. You might reasonably elect for an open solution at one level and closed at another, either permanently or temporarily based both on the immediate needs of your business and its stakeholders (like shareholders), users, or a philosophical principle. In the end, there will always be a tension to be imperfectly resolved. 
 
@@ -55,6 +55,8 @@ including AR based activities such as in Pokemon Go, and digital elements that h
 
 Each of these elements can exist in any virtual world, in some form or another, open or closed.Many centralized virtual worlds have in-game currencies, some have forms of in-game financial instruments, for example mortgages in Animal Crossing.
 
+
+
 ### The Open Metaverse OS
 
 So how ready is Web 3, and consequently an Open Metaverse OS, for prime time? Well, on the one hand the Web 3 ecosystem is thriving with several nascent technologies that can enable many aspects of an Open Metaverse, and could and is being deployed in virtual worlds right now, albeit in an incremental fashion. But on the other it’s still significantly behind on several measures such as performance and cost when compared to Web 2, which has had decades to mature and where the benefits of economies of scale have been achieved by platform monopolys. 
@@ -73,7 +75,9 @@ Therefore, the Open Metaverse OS is best understood as an evolving collection of
 
 As it stands, the Open Metaverse OS is concentrated on the critical lower layers of the stack, including non negotiable features such as user-sovereign identity and assets, in world economics and bridges into and out of its economy, and between each themselves leaving the intricacies of gaming engines, 3D modelling toolchains, and rendering stacks to the primarily centralized world. However, over time we expect the Open Metaverse OS to eat further downwards to decentralise those aspects as well.
 
-### An Oppenness Framework
+
+
+## An Oppenness Framework
 
 This way of thinking about the Open Metaverse OS also allows a framework through which to assess the openness or, otherwise, design choices and trade-offs made by a given instance of the Metaverse including; is the code open source, are the assets portabile, is the data platform proprietary or user controlled, who can create value, and the degree of UGC versus platform made and how can it be monetized.
 
@@ -87,35 +91,6 @@ For example, it seems Decentraland is the only Metaverse project thta has a full
 
 
 
-### Building in the Metaverse
+## Further Reading
 
-We propose were you to be using this toolbox to build an entirely new instance within the Metaverse (such as a virtual world), or looking to evolve an existing Web 2 platform, you would be presented with a set of design decisions and trade-offs at several levels of your stack between open / shared or closed / gated and proprietary. And that you might reasonably elect for an open solution at one level and closed at another either permanently or temporarily based both on the immediate needs of your business and its stakeholders (like shareholders), users or a philosophical principle. In the end there will always be a tension to be imperfectly resolved.
-
-We propose a way to approach this is to look at the anatomy of any given instance of the metaverse as a platform at its various levels of the stack using a consistent framework which we called **The Anatomy of a Virtual World**.
-
-![img](https://outlierventures.io/wp-content/uploads/2021/02/Screenshot-2021-02-05-at-18.07.37.png)
-
-### The Open Metaverse OS
-
-TODO :https://outlierventures.io/research/closer-look-at-the-open-metaverse-os/
-
-We address the question: is the Open Metaverse OS ready for prime time? With our view being that Web 3 technology has been optimised primarily for high degrees of decentralisation and transaction security rather than and sometimes at the expense of enabling smooth, real-time interactions. And its applications for more 2D web based experiences on desktops and mobiles. As a consequence user experience in Web 3 to date has to date been poor but that this is changing as increasingly the world of Web 3 and crypto is it’s self converging with new environments like gaming and VR there is a generational shift away from Web 2 platforms.
-
-We propose therefore **The Open Metaverse OS** is best understood as an evolving collection of highly composable technologies that will increasingly, but selectively, be used to make aspects of a the Metaverse progressively more open.
-
-![img](https://outlierventures.io/wp-content/uploads/2021/02/Screenshot-2021-02-05-at-18.07.23.png)
-
-### An Openness Framework
-
-We suggest a way of thinking about an Open Metaverse OS is also as a framework through which to assess the openness or otherwise, design choices and trade-offs made by a given instance of the metaverse including such as; is the code open source, are the assets portabile, is the data platform proprietary or user controlled, who can create value, and the degree of UGC vs platform made and how can it be monetized.
-
- 
-
-![img](https://outlierventures.io/wp-content/uploads/2021/02/Screenshot-2021-02-05-at-17.57.17.png)
-
-We find it important to stress throughout, like ‘decentralisation’, it is unlikely openness is absolute and its choices are not binary but rather on a spectrum. And even within those virtual worlds and platforms, we could classify as the most ‘open’ there will be significant nuance, often driven by technical limitations both of being an early adopter as well as dependencies on underlying protocols like Ethereum which require workarounds for improved usability comprising what happens on-chain, impacting ‘openness’.
-
-
-
-The Open Metaverse OS - Outlier Ventures
-https://outlierventures.io/research/the-open-metaverse-os/
+[The Open Metaverse OS - Outlier Ventures](https://outlierventures.io/research/the-open-metaverse-os/)

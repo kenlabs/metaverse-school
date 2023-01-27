@@ -170,8 +170,10 @@ https://image.theblockbeats.info/report/Web3.0%E5%88%9B%E4%BD%9C%E8%80%85%E7%BB%
 
 
 
-metaverse podcast - Outlier Ventures
-https://outlierventures.io/metaverse-podcast/
+[metaverse podcast - Outlier Ventures](https://outlierventures.io/metaverse-podcast/)
 
 
+
+Nokia: Gen Z and the metaverse
+https://onestore.nokia.com/asset/212750
 

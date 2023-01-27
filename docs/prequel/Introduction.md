@@ -2,7 +2,7 @@
 title: Introduction
 description: Introduction
 ---
-### Introduction
+# Introduction
 
 Metaverse has become ae buzzword in the tech industry. Not a single day goes by without a mention of it in the media, especially around investments, startups building components, new platforms being announced and large companies entering this world of digital engagement. There is undeniably a huge momentum of an almost real 3D virtual world, and the clarion call was perhaps Facebook rebranding itself as Meta which will perhaps be remembered as a red letter moment in the evolution of the Metaverse.
 
@@ -14,7 +14,15 @@ This immersive virtual world that Metaverse aims to bring to us will not just be
 
 While the concept is not fully evolved yet, it is certain that new-age technologies such as AR/VR/MR, IoT, AI, 5G and Blockchain will become an enabling force to create a full-blown interconnected virtual world. It is no wonder that companies around the globe have placed big bets on it. 
 
-### The timeline of the Metaverse
+> Web1 brought us online, Web2 allowed online communities to flourish, Web3 is allowing communities to own and build the platforms. We can think of this paradigm shift as the emergence of crypto cloud economies with the metaverse as the central part of that trend.
+
+
+
+> The Metaverse is arguably as big a shift in online communication as the telephone or the internet. Within the next few decades its applications will exceed our wildest imaginations. Perhaps the greatest opportunity it presents is to bring together people from all walks of life and foster a civil digital society. In 2021, that new society will begin to emerge for real.
+
+ ——*David Baszucki, an inventor and the CEO and Founder of Roblox* [The Metaverse is coming | WIRED UK](https://www.wired.co.uk/article/metaverse)
+
+## The timeline of the Metaverse
 
 #### Incubation
 
@@ -32,19 +40,27 @@ The detailed timeline of the Metaverse is shown in Fig. blew.
 
 ![](./images/timeline.jpg)
 
+Refer:[Metaverse: Survey, Applications, Security, and Opportunities](https://arxiv.org/pdf/2210.07990.pdf)
 
 
-### 5 Thecnologies Shaping the Metaverse
+
+## 5 Thecnologies Shaping the Metaverse
 
 Recent technology advancements and the emergence of the tech-savvy Gen Z is expected to speed up the adoption of the Metaverse. Factors that are significantly contributing to this growing trend are:
 
 * Pandemic and the shift to hybrid work arrangements
+
 * Consumerization of AR/VR headsets
+
 * High-Speed networks Advances in AI, IoT, and Cloud Infrastructure
+
 * Shift in customer preferences towards digital asset investments and virtual experiences
+
 * Evolution of Web 3.0
 
-### 9 Megatrends Shaping the Metaverse
+  
+
+## 9 Megatrends Shaping the Metaverse
 
 Jon Radoff, founder of Beamable, has identified 9 [megatrends](https://en.wikipedia.org/wiki/Megatrend) — exponential shifts that are already underway on a global scale — and how they will shape the future of the metaverse. Most of the megatrends are a blend of both **technology** and **social change**.
 
@@ -62,7 +78,7 @@ Jon Radoff, founder of Beamable, has identified 9 [megatrends](https://en.wikipe
 
 
 
-### Development Stages of Metaverse
+## Development Stages of Metaverse
 
 At Deloitte we see the development of the metaverse through four stages: infancy stage, early stage, mature stage and final stage. Currently, a variety of digital and intelligent concepts have appeared in the industry, which can be regarded as the infancy of metaverse. The next 5-10 years are expected to witness the early development of the metaverse as the relevant technologies mature and the concept of the metaverse strengthens.
 
@@ -74,13 +90,11 @@ At Deloitte we see the development of the metaverse through four stages: infancy
 
 
 
-TODO:
+## Further Reading
 
-The Case for the Metaverse
+* [The Case for the Metaverse](https://events.bizzabo.com/filaustin/agenda/session/903534)
+* [Metaverse: Survey, Applications, Security, and Opportunities](https://arxiv.org/pdf/2210.07990.pdf)
+* [Metaverse for Wireless Systems: Vision, Enablers, Architecture, and Future Directions](https://arxiv.org/pdf/2207.00413.pdf)
 
-Web1 brought us online, Web2 allowed online communities to flourish, Web3 is allowing communities to own and build the platforms. We can think of this paradigm shift as the emergence of crypto cloud economies with the metaverse as the central part of that trend.
-https://events.bizzabo.com/filaustin/agenda/session/903534
-
-Metaverse: Survey, Applications, Security, and Opportunities
-https://arxiv.org/pdf/2210.07990.pdf
-
+Welcome to the Metaverse - by Rahul Sanghi - Tigerfeathers
+https://tigerfeathers.substack.com/p/welcome-to-the-metaverse

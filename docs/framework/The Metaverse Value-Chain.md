@@ -5,9 +5,27 @@ description: The Metaverse Value-Chain
 
 # The Metaverse Value-Chain
 
-TODO:https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7
+TODO：
+
+
+
+The Metaverse Value-Chain. Trillions of dollars are pouring into… | by Jon Radoff | Building the Metaverse | Medium
+https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7
+
+
 
 In the article on the [value-chain of the metaverse](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7), [Jon Radoff](https://medium.com/@jradoff?source=post_page-----8ae0cde89696--------------------------------) described the seven layers of the ecosystem. 
+
+Metaverse 101: Understanding the Seven Layers of the Metaverse - Holonext
+https://holonext.com/metaverse-101-understanding-the-seven-layers/
+
+
+
+The value chain of this market, from the experiences that people seek out to the enabling technologies that make it possible. 
+
+
+
+![Seven Layers of the Metaverse: Experience, Discovery, Creator Economy, Spatial Computing, Decentralization, Human Interface, Infrastructure](https://miro.medium.com/max/1400/0*W7d2kJ2UjzeDkc9Q)
 
 ## Layer 1: Experience
 
@@ -146,8 +164,4 @@ Enabling the untethered functionality, high performance, and miniaturization req
 ### The Value Chain of the Open Metaverse
 https://www.notboring.co/p/the-value-chain-of-the-open-metaverse
 
-
-
-### Value creation in the metaverse 
-https://www.mckinsey.com/~/media/mckinsey/business%20functions/marketing%20and%20sales/our%20insights/value%20creation%20in%20the%20metaverse/Value-creation-in-the-metaverse.pdf
 

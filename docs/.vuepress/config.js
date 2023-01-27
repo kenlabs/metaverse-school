@@ -103,32 +103,26 @@ module.exports = {
               ]
           },
           {
+            title: 'primitives',
+            collapsable: true,
+            children: [
+              '/primitives/',
+              '/primitives/Layers of Computing in the Metaverse',
+              '/primitives/Connecting the Metaverse with IPFS',
+              '/primitives/The Role of Identity in Connecting the Metaverse',
+              '/primitives/NFTs and Their Role in The Metaverse'
+            ]
+          },
+          {
             title: 'buidl',
             collapsable: true,
             children:
               [
-                '/buidl/The Web3 Toolbox',
+                '/buidl/Value Creation in the Metaverse',
                 '/buidl/Opportunities in the Metaverse',
-                '/buidl/Web 3.0 Virtual Cloud Economies',
-                '/buidl/Blockchain Middleware',
-                '/buidl/Metaverse Land',
-                '/buidl/Step Into the Metaverse',
-                '/buidl/The Role of Identity in Connecting the Metaverse',
-                '/buidl/Connecting the Metaverse with IPFS',
-                '/buidl/Microsoft Metaverse: Products, Services, Tech, and Much More',
-                '/buidl/Community-Driven Technical Capability Framework'
+                '/buidl/The Metaverse Toolbox',
+                '/buidl/The Metaverse Builders',
               ]
-          },
-          {
-            title: 'Reference',
-            collapsable: true,
-            children: 
-            [
-              '/reference/metadata-schemas',
-              '/reference/nft-marketplaces',
-              '/reference/recommended-tools',
-              '/reference/featured-sites'
-            ]
           },
           {
             title: 'Resource',
@@ -136,7 +130,8 @@ module.exports = {
             children: [
               '/resource/',
               '/resource/All Things Web',
-              '/resource/Building the Metaverse'
+              '/resource/Building the Metaverse',
+              '/resource/Reed Smith Guide to the Metaverse'
             ]
           },
           {

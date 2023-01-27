@@ -9,7 +9,7 @@ At Protocol Labs, we build protocols, tools, and services to improve the interne
 
 <img src="./images/metaverse.png" width="500">
 
-### Essential infrastructure to power the Metaverse
+## Essential infrastructure to power the Metaverse
 
 The Filecoin stack is open and resilient, built to store assets for multiple generations
 
@@ -35,15 +35,15 @@ Spaces are built on top of interaction and the underlying infrastructure where w
 
 On top of spaces and interactions layer, creators will build experiences for people to enjoy and applications that help to fulfil tasks. These things will be the activities of the Metaverse like gaming, social interactions, or work.
 
-### The importance of Infrastructure & Interactions
+## The importance of Infrastructure & Interactions
 
-#### Infrastructure and Interaction is crucial for the open Metaverse
+### Infrastructure and Interaction is crucial for the open Metaverse
 
 The Infrastructure and Interactions layers (we call them I²) are important. While spaces and experiences may remain discrete or gated (some may say “closed”), what’s perhaps more important is that one can *interact freely* from space to space, and developers can *build a variety of spaces and applications freely*. A parallel in the physical world would be this: while I may not be able to enter each venue that exists on this planet (“space”), I can bring my cloth, identity, backpack, etc. (“digital assets”) wherever I go. If I wish to create an event (“experience”), such as holding my 21st birthday party, I have easy, composable tools to do so. If we can do all this without relying on central intermediaries, we will ensure user empowerment in the Metaverse, just like we would expect in the physical world.
 
 How we as a community shape I² will determine the future.
 
-#### Principles of Infrastructure & Interaction
+### Principles of Infrastructure & Interaction
 
 ![](./images/principles.png)
 
@@ -61,7 +61,7 @@ Secondly, here are some principles we think are relevant for the **Interactions*
 - **Interoperable Interactions**: Interactions are built on open standards which enable interoperability and prevent lock-ins
 - **Privacy**: Interactions are only known to the involved parties
 
-### Use cases for IPFS & Filecoin in the Metaverse
+## Use cases for IPFS & Filecoin in the Metaverse
 
 Protocol Labs has the mission to drive breakthroughs in computing to push humanity forward. Already today, different protocols, infrastructure and tools exist that power the decentralised web:
 
@@ -76,13 +76,18 @@ IPFS and Filecoin can be used today in the infrastructure and interaction layer,
 ### The Filecoin stack offers unique benefits to build an open Metaverse
 
 ![](./images/benefit-of-filecoin-stack.png)
-#### Resilience
+* Resilience
+
 Free from outages or censorship, Filecoin is a decentralized network without a single point-of-failure.
-#### Availability
+* Availability
+
 Data remains available over time thanks to the Filecoin incentive structure, making it the perfect place to store your most important assets and backups.
-#### Competitive Prices
+* Competitive Prices
+
 Prices for storage and retrieval are determined by supply and demand, where providers compete based on their storage, reliability, and speed.
-#### Programmable Storage
+* Programmable Storage
+
 Smart contract enables compute - directly where data is stored. This allows for new use cases like permissions on assets, new Metaverse mechanics or data DAOs.
-#### Decoupled
+* Decoupled
+
 Infrastructure is detached from any project or developer, allowing digital assets exist for multiple generations.

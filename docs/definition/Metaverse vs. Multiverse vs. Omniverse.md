@@ -6,9 +6,6 @@ description:  Metaverse vs. Multiverse vs. Omniverse
 
 TODO: 
 
-The Metaverse: What It Is, Where to Find it, and Who Will Build It — MatthewBall.vc
-https://www.matthewball.vc/all/themetaverse
-
 
 
 ###  Metaverse vs. Multiverse vs. Omniverse
@@ -16,8 +13,6 @@ https://www.matthewball.vc/all/themetaverse
 Refer: https://mention.com/en/blog/metaverse-multiverse-omniverse/
 
 https://optymize.io/blog/metaverse-vs-multiverse-key-differences-and-comparison/
-
-
 
 Metaverse, Multiverse, and Omniverse; all three concepts are connected to each other but have very different features altogether. These concepts enable the idea of connectivity, massive data handling, data transfer, etc but also separate entities of operations from each other. However, there are factors that are increasing the popularity of these concepts and these factors are increasing digital connectivity of users from all over the world, the demand for more comfortable technologies, the demand for increasing virtual techs, and more. These increasing demands are resulting in an increasing amount of data and thus, the requirement for better connectivity is increasing as well.
 
@@ -33,21 +28,15 @@ To put it in short, Metaverse is a replica of the real universe that you get to 
 
 The above statistics by [Statista](https://www.statista.com/statistics/1280565/global-market-cap-metaverse-facebook-gaming/) show that Web 2.0 Metaverse had the largest market capitalization by October 2021. With a whopping 14.8 trillion USD market capitalization, the margin was way higher than the capitalization of other leading Metaverse segments like gaming and eSports, and Facebook (Meta).
 
-
-
 #### What is Multiverse?
 
 As the name suggests, Multiverse is a combination of two words- Multiple + Universes. Thus, Multiverse simply means a collection of multiple universes that you can theorize, explore, or experience. In the real world, the Multiverse term is used to describe many fictional universes but in the context of technologies, the meaning slightly differs. In the technological world, there are several platforms that are referred to as various universes. For instance, social media platforms are one universe, and gaming platforms are the other universe. Just like that, you have one universe called eCommerce platforms and another universe where you order food from.
 
 Multiverse is a simple concept to understand. Whatever you do in your video games will not impact your social media content. But some games like Uno provide you with the ability to share your gaming achievements on your social media platforms. That is how you transfer data between two different universes. But because both universes are part of a single Multiverse, it is possible to do that. However, you can not forget that even after being a part of the single Multiverse, both universes have their own set of rules and regulations that are not going to impact one another.
 
-
-
 #### What is Omniverse?
 
 Omniverse is a concept that consists of everything from Multiverses to Metaverses. It is the largest existing concept in the technological world that includes all elements of Multiverses and Metaveverses. The concept allows connecting all Metaverses and Multiverses for better data transfer, technology sharing, collaborations, communications, group projects, remote working, etc. So, in short, it is the largest amount of data collected under a single universe that keeps increasing in parallel as the number of Multiverses and Metaverses increases.
-
-
 
 #### Difference between Metaverse, Multiverse, and Omniverse
 
@@ -167,4 +156,78 @@ We believe the Metaverse will consist of **interconnected spaces in which humans
 It must be an **open, composable stack and run on a massively-scaled, resilient infrastructure that enables real-time interactions**.
 
 
+
+# Metaverse vs Multiverse vs Omniverse: Which Is Here To Stay?
+
+https://phemex.com/blogs/metaverse-vs-multiverse-vs-omniverse
+
+
+
+With the growth of niche sub-industries like **[GameFi](https://phemex.com/academy/what-is-gamefi)** and **SocialFi**, we’re starting to see the beginning of what [**Web3** ](https://phemex.com/blogs/web-3-0)will enable. As boundaries of digital reality begin to blur, it’s important to draw and explain lines between such emerging orders. This article will take a closer look at three such concepts: the metaverse, multiverse, and omniverse.
+
+![metaverse-vs-multiverse-vs-omniverse](https://img.phemex.com/wp-content/uploads/2022/06/17095650/metaverse-vs-multiverse-vs-omniverse.jpg)
+
+## Metaverse vs Multiverse
+
+The metaverse was first coined by Neal Stephenson in a science fiction novel that details the concept of a shared, virtual space where people can interact with each other and with digital representations of themselves (avatars). In many ways, the metaverse is similar to the Internet today.
+
+However, to understand the **[metaverse](https://phemex.com/academy/what-is-the-metaverse-crypto)**, one must know it’s different from the Internet in that it isn’t limited to a device or screen, and will instead be incorporated into the world around us in immersive ways.
+
+## Metaverse vs Virtual Reality
+
+There have been heavy comparisons between the metaverse and VR, but while the metaverse is a digital space, VR is a simulated reality. In other words, VR creates an artificial environment that mimics the real world, while the metaverse is its own independent space separate from the physical world.
+
+## Metaverse vs Augmented Reality
+
+AR is an enhanced version of the physical world. It adds digital information on top of the real world. For example, a user can use AR to see directions superimposed on the street in front of them. The metaverse, on the other hand, is a completely separate digital space.
+
+## What Is The Multiverse?
+
+The multiverse is a collection of multiple universes – each with its own set of laws and rules. To put this into context, this would be akin to an individual’s activity on social media taking place in one universe while their activity on a gaming platform takes place in another.
+
+The key element at play here is that universes within the multiverse aren’t necessarily connected to each other. There are limited options for transferring data or information between universes, with each one existing independent of the others.
+
+Where the metaverse promotes a unified and interconnected approach, the multiverse champions a privacy-focused, secure, yet fragmented experience. Web2 is quite similar to a multiverse system, with many siloed platforms that are disconnected from each other.
+
+## What Is The Omniverse?
+
+The omniverse is the sum of all universes — both real and imagined. This includes everything from the universe to parallel universes and fictional universes. Essentially, it’s the ultimate reality.
+
+## What Are The Differences?
+
+### Infinite vs. Finite
+
+The main difference between all these terms is that the omniverse is infinite, whereas the metaverse and multiverse are finite. The omniverse also contains an infinite number of universes, while the metaverse and multiverse each contain a finite number.
+
+### Concepts
+
+Another key difference is that the metaverse and multiverse are both man-made concepts, whereas the omniverse is a natural concept. The metaverse and multiverse are created by people through their actions and interactions in digital space. The omniverse, on the other hand, has always existed — it’s the sum total of all reality.
+
+The metaverse and multiverse can be viewed as two sides of the same coin i.e., different ways of looking at the same thing. The metaverse is a unified, interconnected space, while the multiverse is a collection of disparate universes. The omniverse, on the other hand, is the sum of all realities – both within the metaverse and the multiverse.
+
+## What Are The Similarities?
+
+### Every interaction leaves a digital trace
+
+The three concepts all technically include virtual realities created by people through their interactions in digital space. This means that every interaction performed in the metaverse, multiverse, or omniverse leaves a digital trace.
+
+### An endless array of possibilities
+
+Another similarity is that all three concepts are open-ended and ever-expanding. As concepts, the metaverse, multiverse, and omniverse are all constantly growing and evolving. Additionally, all three concepts contain an infinite number of possibilities. The metaverse, multiverse, and omniverse each offer an endless array of possibilities for exploration and discovery.
+
+### User identity
+
+Lastly, all three concepts are connected with user identity. This means that one’s activity in one universe will be linked with one’s activity in another. For example, if an individual plays a game on one platform, their avatar will be the same as the one they use on another platform. Similarly, if someone makes a purchase on one website, their digital user identity will be linked with that purchase in one way or another.
+
+## The Current Scenario
+
+The industry’s in a ‘metaverse race’ where every major enterprise is competing to create its own corner of the metaverse. Some of the most prominent players include Meta, Google, and Microsoft.
+
+**[NFTs](https://phemex.com/academy/what-are-non-fungible-tokens-nfts)** are considered as an experimental investment with massive potential, but these digital assets are the key differentiating feature among users in the metaverse era. The major use cases of NFTs include gaming, digital art, and collectibles. [**NFTs in the metaverse**](https://phemex.com/academy/what-is-metaverse-nft) play an important role in the rapidly growing crypto economy.
+
+The biggest challenge for metaverse builders to overcome is the lack of platform interoperability. Currently, each platform exists in its own silo with no connection to the others. This fragmentation is a major hindrance to the metaverse’s growth.
+
+## Conclusion
+
+The metaverse era is still in its early stages, and it remains to be seen how it will develop over time. However, one thing is certain – as a concept, the metaverse is here to stay.
 

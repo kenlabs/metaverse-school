@@ -8,6 +8,7 @@ TODO: https://medium.com/building-the-metaverse/9-megatrends-shaping-the-metaver
 TODO: https://www.youtube.com/watch?v=VG87A54cSAc
 
 ## Virtual Mainstreaming
+
 People increasingly regard the virtual world to be as real as the physical world.
 
 In the physical world, trust is how relationships and institutions function. It is the basis of how businesses flourish within legal systems, how our money market continues to operate, and a form of measure for our connections. Trust has made each of these systems scalable.
@@ -24,6 +25,7 @@ Online bullying, abuse, cheating in games, and cheating in relationships, will a
 Products alone will not solve these problems. It will also take education, training, virtual literacy, and supportive communities and understanding parents.
 
 ## Low-code Platforms
+
 Low-code and no-code application platforms (LCAP) provide higher-level abstractions (such as visual scaffolding and drag-and-drop tooling) to replace the hand-coding of processes, logic and applications.
 
 The most obvious benefit of this trend is that non-programmers can do some of the work that programmers previously did. However, this doesn’t fully capture the impact, or why companies are adopting these platforms.
@@ -45,6 +47,7 @@ Get your Transformers from Hasbro via Shopify. No “enterprise” commerce need
 The metaverse will increasingly be built by a wider population of creators and supported by a deeper catalog of plug-in applications and logic.
 
 ## Machine Intelligence
+
 Machines are doing more of the jobs that were previously done by human beings. This includes domains sometimes called deep learning, machine learning, and artificial intelligence.
 
 We live in a world where advertising messages, merchandising and online engagement is tuned by learning algorithms. We are in the early innings of natural language processing and image recognition. In the physical world, we’re tantalizingly close to applications such as autonomous vehicles.
@@ -65,6 +68,7 @@ Agents powered by our preferences and interests will surface the information we 
 And virtual beings will increasingly populate the worlds we visit.
 
 ## Rise of Cybernetics
+
 Cybernetics have already arrived. They are not as evenly distributed nor as developed and amazing as they will be in the future.
 
 Cybernetics is about the integration of human sensory and motor systems with computers. Existing examples draw upon videogame input/output devices, wearables, mobile phone accelerometers, and VR headsets.
@@ -86,6 +90,7 @@ The consequence? The metaverse will not simply be a place we go into. The metave
 And the convergence of wearable and mobile technology is not simply one of technology: it is a social change. It will change the organization of our homes, our public transit, our neighborhoods and our workplaces. It will change how you meet people, order a meal, discover the world, and collaborate on projects.
 
 ## Challenges by Open Systems
+
 The original intent of the Internet was a highly distributed, decentralized network of interoperable computers and applications.
 
 The Internet today is dominated by several very large platforms that act as gatekeepers and tollbooths.
@@ -125,6 +130,7 @@ Network effects already paved the way for on-chain data feeds (oracles) that can
 This is just the beginning of the possibilities when you unleash assets, data and programmable contracts into the open Internet.
 
 ## Walled Garden Ecosystems
+
 Walled Gardens — and I use this term with love because gardens can be beautiful and organized — benefit from all of the other megatrends that impact the metaverse.
 
 Not every application or every world will be open. Sometimes permission, integration, curation, and control are desirable features of a platform or application. Roblox would never have become popular had it not been for the ensemble of these features.

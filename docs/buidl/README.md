@@ -7,6 +7,11 @@ description: Introduction to Buidl
 
 
 
+Applying the Metaverse | November 2022 | Communications of the ACM
+https://cacm.acm.org/magazines/2022/11/265839-applying-the-metaverse/fulltext
+
+
+
 
 
 Web3 Breakdown: DAOs
@@ -182,3 +187,18 @@ https://arxiv.org/pdf/2203.05471.pdf
 
 Who will own the metaverse?. The business of building the… | by Marko Balabanovic | Digital Catapult | Medium
 https://medium.com/digital-catapult/who-will-own-the-metaverse-48c2912d7aae
+
+
+
+
+
+```
+'/buidl/Web 3.0 Virtual Cloud Economies',
+'/buidl/Blockchain Middleware',
+'/buidl/Metaverse Land',
+'/buidl/Step Into the Metaverse',
+'/buidl/The Role of Identity in Connecting the Metaverse',
+'/buidl/Connecting the Metaverse with IPFS',
+'/buidl/Microsoft Metaverse: Products, Services, Tech, and Much More',
+'/buidl/Community-Driven Technical Capability Framework'
+```

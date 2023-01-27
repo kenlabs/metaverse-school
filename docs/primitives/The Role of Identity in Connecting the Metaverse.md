@@ -13,6 +13,9 @@ TODO: https://chriswere.com/decentralized-identity-is-failing-us-welcome-to-the-
 
 
 
+HashKey DID and Decentralised Identifiers: The Key to Realising Web 3.0
+https://www.hashkey.com/en/insights/hashkey-did-and-decentralised-identifiers-the-key-to-realising-web-3-0
+
 
 
 APAC Digital Identity unConference

@@ -1,6 +1,6 @@
 ---
-title: Welcome to Metaverse School
-description: Metaverse School is open-source community education in Metaverse space.
+title: Resource
+description: Helpful resource material for Metaverse builders.
 ---
  # Welcome to Metaverse School
 
