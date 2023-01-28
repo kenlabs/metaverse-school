@@ -12,33 +12,7 @@ TODO:https://hackmd.io/@XR/motivation#Motivation
 
 
 
-How IPFS is building a new internet from the ground up
-https://www.protocol.com/ipfs-new-internet
 
-
-
-Kitsumon Blends the Best of Metaverse Gaming with Content-Addressability | IPFS Blog & News
-https://blog.ipfs.tech/2022-07-15-ecosystem-highlight-kitsumon/
-
-
-
-What is the relationship between Metaverse and NFT and IPFS? - iNEWS
-https://inf.news/en/tech/2f2a9cc66f9d127c5c1b66ac4913e8d0.html
-
-
-
-IPFS is an important part of the development of Metaverse and NFT?How does IPFS participate? - iMedia
-https://min.news/en/tech/c3365c453bde3fea4808b57cf11d1669.html
-
-
-
-IPFS in the Metaverse
-https://filebase.com/blog/ipfs-in-the-metaverse
-
-
-
-Metaverse explained | Nokia
-https://www.nokia.com/about-us/newsroom/articles/metaverse-explained/
 
 ### Network driving the metaverse
 
