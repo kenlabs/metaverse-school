@@ -106,8 +106,8 @@ module.exports = {
             title: 'primitives',
             collapsable: true,
             children: [
-              '/primitives/',
-              '/primitives/Layers of Computing in the Metaverse',
+              '/primitives/Introduction',
+              '/primitives/Computation in Metaverse',
               '/primitives/Storage - The Cornerstone of the Metaverse Ecosystem',
               '/primitives/The Role of Identity in Connecting the Metaverse',
               '/primitives/NFTs and Their Role in The Metaverse'
