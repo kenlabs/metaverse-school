@@ -108,7 +108,7 @@ module.exports = {
             children: [
               '/primitives/',
               '/primitives/Layers of Computing in the Metaverse',
-              '/primitives/IPFS & Filecoin - The Cornerstone of the Metaverse Ecosystem',
+              '/primitives/Storage - The Cornerstone of the Metaverse Ecosystem',
               '/primitives/The Role of Identity in Connecting the Metaverse',
               '/primitives/NFTs and Their Role in The Metaverse'
             ]

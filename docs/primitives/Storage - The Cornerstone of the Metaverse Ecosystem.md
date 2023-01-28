@@ -1,9 +1,9 @@
 ---
-title: IPFS & Filecoin - The Cornerstone of the Metaverse Ecosystem
-description: IPFS & Filecoin - The Cornerstone of the Metaverse Ecosystem
+title: Storage - The Cornerstone of the Metaverse Ecosystem
+description: Storage - The Cornerstone of the Metaverse Ecosystem
 ---
 
-# IPFS & Filecoin - The Cornerstone of the Metaverse Ecosystem
+# Storage - The Cornerstone of the Metaverse Ecosystem
 
 The COVID-19 pandemic has prompted many people to shift their social, entertainment, and even dining, shopping,work and other activities from the real world to online execution. The boundary between the real world and the virtual world is gradually blurred, and the era of metaverse is quietly coming. The maturity of blockchain technology has provided the metaverse with core technologies such as computing, storage and network, while the maturity of DeFi economic model has brought new innovative and open value carriers like cryptocurrency and NFT to the metaverse.
 
@@ -125,19 +125,19 @@ In fact, our current storage systems are absolutely drowning in data, with [79 z
 
 What’s more: this number is expected to double within 5 years. Now, this begs the question…
 
-### Where is all this data being stored?
+#### Where is all this data being stored?
 
 Even though these numbers paint a picture of an internet too big to fathom, the reality it’s just a handful of companies providing all of the storage, Google, Amazon, Facebook, and IBM, to name a few. There are a number of reasons why this is not ideal, and it all revolves around our tricky old friend, centralization.
 
-### Server Outages Mean Unreliable Storage
+#### Server Outages Mean Unreliable Storage
 
 For starters, let’s talk outages. Outages are common in Web2. If you were to Google “social media outages and why they happen”, you’ll be greeted with a variety of reasons ranging from technical changes to hacker attacks. Even simple errors can cause an outage: for example, [one well-intentioned command from an engineer](https://www.theguardian.com/technology/2021/oct/05/what-caused-facebook-whatsapp-instagram-outage) recently disconnected Facebook from its 3.5 billion users for over 6 hours. Well, that’s what happens when so much data is controlled by a single authority — small mistakes can cause major disruptions to millions of users and businesses.
 
-### Centralized Structures Can be Censored
+#### Centralized Structures Can be Censored
 
 If outages weren’t enough, you also have into the issue of censorship. If a website talks about something controversial that people with big wallets don’t want others to talk about, it can be promptly “dealt” with by the provider, in other words – switched off. Since everyone knows where the data for the site is hosted, it’s easy for governments AND hackers to target such websites.
 
-### Digital Storage is a Commodity
+#### Digital Storage is a Commodity
 
 And finally, we have the basic issue of supply and demand. With more and more things going digital, internet storage is in limited supply, meaning the price of data storage is likely to inflate. Think that won’t happen for a long time? [Google Cloud’s proposed ](https://techcrunch.com/2022/03/14/inflation-is-real-google-cloud-raises-its-storage-prices/)price increase says otherwise.
 
@@ -201,7 +201,9 @@ However, if you participate in decentralized storage networks, you can potential
 
 As the internet and data grow, [decentralization will no longer be an option – it’ll be a necessity](https://www.ledger.com/academy/crypto/why-decentralization-matters#:~:text=Decentralization tends to promote transparency,in a completely public ledger). And judging by the growth of projects like Filecoin, we’re not far from that reality.
 
-## Using IPFS to Create a Metaverse
+## Use Cases
+
+### Using IPFS to Create a Metaverse
 
 Leverage the decentralized IPFS network to scale content storage management for a Metaverse implementation.
 - Manage all assets storage and remove S3 dependency  
@@ -212,24 +214,25 @@ Leverage the decentralized IPFS network to scale content storage management for 
 
 [Using IPFS to Create a Metaverse by Agustina Aldasoro | Devcon Bogotá - YouTube](https://youtu.be/ZW84OsSQBZI)
 
-## Filecoin and Monaverse: A high-end Metaverse/NFT Platform
+### Filecoin and Monaverse: A high-end Metaverse/NFT Platform
 
 Monaverse is a new metaverse contender that focused on high-end, professionally built metaverse environments. A quick look at Monaverse and Decentraland - their pros and cons -- and why Proof-of-Storage projects are likely to do well regardless of who wins the race towards the most popular metaverse.
 
 [Watch Video](https://www.youtube.com/watch?v=UyTCWUywBQE)
 
-## The Case for the Metaverse 
+### The Case for the Metaverse 
 
 Web1 brought us online, Web2 allowed online communities to flourish, Web3 is allowing communities to own and build the platforms. We can think of this paradigm shift as the emergence of crypto cloud economies with the metaverse as the central part of that trend. Forkast's Angie Lau talks with the author of Grayscale's seminal metaverse report.
 
 [FIL Austin 22 | The Case for the Metaverse - YouTube](https://www.youtube.com/watch?v=2VVoK1GvTRw)
 
-## Evaluating the Decentralisation of Filecoin
+### Evaluating the Decentralisation of Filecoin
+
 Web3 is progressively decentralising many Internet services with the introduction of the blockchain, from social networks to online trading. Filecoin is a Web3 storage marketplace implemented on top of the Interplanetary File System that aims at decentralising storage by rewarding users who pledge storage to the system. Clients form deals with storage miners, who store deals on the Filecoin blockchain for transparency and auditability. Storage miners can also obtain extra rewards when they mine a block. In this paper, we show that although Filecoin aims at complete decentralisation, the rewarding system acts as the opposite. We download a dataset composed of approximately 47M messages and expose that most of the blocks are created by the same few storage miners, who are also the ones that pledge more storage. A detailed analysis of the identity of the miners shows that they belong to cloud companies, that have a lot of extra storage resources. The effect observed is due to the fact that storage miners are able to commit all the extra storage to the system, even when there are no deals in them. We also see that this effect is further intensified by recent updates to Filecoin, which let storage miners update committed storage to deal-containing storage effortlessly.
 
 [Evaluating the Decentralisation of Filecoin](https://dicg-workshop.github.io/2022/papers/guidi.pdf)
 
-## Connecting the Metaverse with IPFS 
+### Connecting the Metaverse with IPFS 
 
 Learn more at [https://hackmd.io/@XR/motivation](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmhOa1o4dXBaWEpKdXlMVEszVW1GMTZYWGNoUXxBQ3Jtc0ttQ1ZXMEJMT05Yc21ZUXFFYVFPaU1OX28yTUtjMTMwbGppWlBpNUpQTVZwWG85SzdQcWg2bURUQWJDbVMyaHRiREc3QVhmRGVMbFRhY0pVZF90ejBIM0plVzlYY0ZtdGREN04zY3R4WExETDBGNEh2VQ&q=https%3A%2F%2Fhackmd.io%2F%40XR%2Fmotivation&v=08zD9L3hBLg)
 
