@@ -154,6 +154,9 @@ https://medium.com/building-the-metaverse/the-experiences-of-the-metaverse-2126a
 
 
 
+## The Metaverse Live! - Twitter Conversation Series - YouTube
+https://www.youtube.com/playlist?list=PLeUqTqQawKgSZ1lARQYE7XwxmpFCCU0pU
+
 
 
 https://www.slideshare.net/jradoff/building-the-metaverse-248941223

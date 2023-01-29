@@ -159,9 +159,6 @@ The infrastructure layer includes the technology that enables our devices, conne
 
 Enabling the untethered functionality, high performance, and miniaturization required by the next generation of mobile devices, smartglasses, and wearables will require increasingly powerful and tinier hardware:[ semiconductors that are imminently dropping to 3nm processes and beyond](https://semiengineering.com/making-chips-at-3nm-and-beyond/); microelectromechanical systems[ (MEMS) that enable tiny sensors](https://www.semi.org/en/blogs/technology-trends/augmenting-reality-with-mems-sensors); and[ compact, long-lasting batteries](https://www.pocket-lint.com/gadgets/news/130380-future-batteries-coming-soon-charge-in-seconds-last-months-and-power-over-the-air).
 
+## Further Reading
 
-
-### The Value Chain of the Open Metaverse
-https://www.notboring.co/p/the-value-chain-of-the-open-metaverse
-
-
+[Not Boring | The Value Chain of the Open Metaverse](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse)

@@ -7,8 +7,6 @@ description: Introduction the framework for the metaverse
 
 Matthew Ball is tracking the emergence of the Metaverse around eight core categories, which can be thought of as a stack (click each header for a dedicated essay).
 
-https://www.matthewball.vc/all/forwardtothemetaverseprimer
-
 ## [Framework for the Metaverse](https://www.matthewball.vc/all/forwardtothemetaverseprimer)
 
 [![Framework for the Metaverse](https://images.squarespace-cdn.com/content/v1/5d8e9007bc3d0e18a4c49673/1624908542984-Y0NQLNEPG42IR99GR6UD/Capture.PNG?format=500w)](https://www.matthewball.vc/all/forwardtothemetaverseprimer)
@@ -80,3 +78,7 @@ The role of evolving user + business behaviors in the Metaverse. Part IX of ‘T
 Observable changes in consumer and business behaviors (including spend and investment, time and attention, decision-making and capability) which are either directly associated with the Metaverse, or otherwise enable it or reflect its principles and philosophy. These behaviors almost always seem like ‘trends’ (or, more pejoratively, ‘fads’) when they initially appear, but later show enduring global social significance.
 
 (You’ll note ‘crypto’ or ‘blockchain technologies’ are not a category. Rather, they span and/or drive several categories, most notably compute, interchange tools and standards, and payments — potentially others as well.)
+
+## Further Reading
+
+[Framework for the Metaverse — MatthewBall.vc](https://www.matthewball.vc/all/forwardtothemetaverseprimer)

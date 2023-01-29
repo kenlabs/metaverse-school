@@ -16,3 +16,10 @@ Coinbase [internal presentation](https://www.coinbase.com/blog/how-coinbase-thin
 > But unlike today’s internet, there won’t just be one Metaverse. There will be many Metaverses, and they’ll be interconnected. That’s why it will be important for any Metaverse to be trustless — meaning people can interact directly without going through an intermediary — and permissionless — meaning anyone can participate without authorization from a governing body.
 
 > To achieve this, the Metaverse will rely on blockchain to transfer identity and ownership across virtual worlds, attestation to verify them, and payment rails that allow people buy, sell, and earn income within a decentralized economy.
+
+
+
+## Further Reading
+
+[How Coinbase thinks about the Metaverse - Blog](https://www.coinbase.com/blog/how-coinbase-thinks-about-the-metaverse)
+

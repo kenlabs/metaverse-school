@@ -241,7 +241,13 @@ For more information on IPFS
 - visit the project website: [https://ipfs.io](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE02RHYySnFIR0FfaklHYXB6Rm5jRjliSlVNZ3xBQ3Jtc0tsaWNhWERjT2RINW1OMVl3NHhnUmpBeGhJRmdycG9iTVRTbFo5ZWxDS29reUwwSjNlX0pvbkw5YWx6WTV6THJxZ3lya280ZWdyaXN0WDlUYnFjTm8xNXlEMU9TN2lCN21DTlNDNHBqRlJWRHAtZFdNYw&q=https%3A%2F%2Fipfs.io%2F&v=08zD9L3hBLg) 
 - or follow IPFS on Twitter: [https://twitter.com/IPFS](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHBzMDVkWmd6TjVyX2FWQzk2NVE2LWt6NlB3UXxBQ3Jtc0tud1Z1a2x0ZzZnU2hkUl9uNzc3YUlrWldPTDVvMHg2d0JlNFdjM3JuUF9uYklGaTd6ZFhzd0NtWEJoTVRXU3JwT0tvcnhkcnRTdG1RYklIVUhJSVRtR05XQmVSSDVIWDVJeXFGV2RmSzYySnR4akc4cw&q=https%3A%2F%2Ftwitter.com%2FIPFS&v=08zD9L3hBLg) 
 
-## Reference
+### How to Build In the Metaverse, with Juan Benet of Protocol Labs
+
+For this episode of The Metaverse Live, we're joined by Juan Benet, founder of open-source R&D lab, Protocol Labs. In just under 30 minutes, Juan presents a keynote on the Metaverse, Web 3 building blocks, and how you can decentralize storage (and more) through the power of Filecoin. 
+
+[Watch the video](https://youtu.be/n0PSd0MM4EE)
+
+## Further Reading
 
 [A decentralized storage network for humanity's most important information | Filecoin](https://filecoin.io/)
 

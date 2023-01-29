@@ -76,18 +76,29 @@ IPFS and Filecoin can be used today in the infrastructure and interaction layer,
 ### The Filecoin stack offers unique benefits to build an open Metaverse
 
 ![](./images/benefit-of-filecoin-stack.png)
-* Resilience
+
+**Resilience**
 
 Free from outages or censorship, Filecoin is a decentralized network without a single point-of-failure.
-* Availability
+
+**Availability**
 
 Data remains available over time thanks to the Filecoin incentive structure, making it the perfect place to store your most important assets and backups.
-* Competitive Prices
+
+**Competitive Prices**
 
 Prices for storage and retrieval are determined by supply and demand, where providers compete based on their storage, reliability, and speed.
-* Programmable Storage
+
+**Programmable Storage**
 
 Smart contract enables compute - directly where data is stored. This allows for new use cases like permissions on assets, new Metaverse mechanics or data DAOs.
-* Decoupled
+
+**Decoupled**
 
 Infrastructure is detached from any project or developer, allowing digital assets exist for multiple generations.
+
+## Further Reading
+
+[How we think about the Metaverse | All Things Web](https://medium.com/allthingsweb-blog/how-we-think-about-the-metaverse-374085b9e90)
+
+[Talk: Building the Metaverse with IPFS at BuildQuest Summit 2022 | by Jonas Jetschni | All Things Web | Medium](https://medium.com/allthingsweb-blog/talk-building-the-metaverse-with-ipfs-at-buildquest-summit-55536f7e3dd)

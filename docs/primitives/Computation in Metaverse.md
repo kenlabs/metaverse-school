@@ -140,7 +140,7 @@ Most of the computing is done at this layer and fog layer to reduce the burden o
 
 ![Characteristics 3 Layers of Computation in Metaverse](https://i0.wp.com/metaversetroop.com/wp-content/uploads/2022/05/Characteristics-3-Layers-of-Computation-in-Metaverse.webp?resize=896%2C672&ssl=1) 
 
-## Reference
+## Further Reading
 
 [Computation in metaverse](https://metaversetroop.com/computation-in-metaverse/)
 
