@@ -1,5 +1,5 @@
 ---
-title: The Role of Identity in Connecting the Metaverse
+title: Identity
 description: The Role of Identity in Connecting the Metaverse
 ---
 
@@ -19,15 +19,13 @@ Identities in the Metaverse will allow people to move freely across space and bu
 
 This critical role of identity can be depicted in a fully interconnected Metaverse stack. As explained in this [article](https://medium.com/allthingsweb-blog/the-role-of-identity-in-connecting-the-metaverse-1a3d89323025) , the Metaverse will have four layers, including infrastructure, interaction, space, and applications .
 
-```
-1/ Foundations. The underlying infrastructure of the Metaverse, including protocols and blockchains, compute, storage, information flow, regulations, and standards.
-
-2/ Primitive Functions. The mechanisms of interaction that enable someone to express themself, prove who they are, transact, show what they own, and communicate with others. Identity is a core
-
-3/ Interconnected Spaces. The ‘worlds’ in which we will engage and interact. It can be in 2D or 3D and be rendered on a screen, VR or AR headset.
-
-4/ Apps & Experiences. The real tasks and interactions people will do, purposeful and relating to their lives, in a space, using some or multiple primitive functions to interact with objects or agents.
-```
+> 1/ Foundations. The underlying infrastructure of the Metaverse, including protocols and blockchains, compute, storage, information flow, regulations, and standards.
+>
+> 2/ Primitive Functions. The mechanisms of interaction that enable someone to express themself, prove who they are, transact, show what they own, and communicate with others. Identity is a core
+>
+> 3/ Interconnected Spaces. The ‘worlds’ in which we will engage and interact. It can be in 2D or 3D and be rendered on a screen, VR or AR headset.
+>
+> 4/ Apps & Experiences. The real tasks and interactions people will do, purposeful and relating to their lives, in a space, using some or multiple primitive functions to interact with objects or agents.
 
 In addition to basic payment, communication, and ownership functions, "identity" provides a key raw capability for creating experiences and applications that allow us to express ourselves, prove who we are, and transact . In general, this has many similarities to decentralized identity and is one of the hallmarks of Web3 across the board.
 
@@ -67,3 +65,4 @@ It includes three key aspects - avatars, credentials and personal data; and requ
 [APAC Digital Identity unConference](https://www.apacdigitalid.org/)
 
 TODO: https://chriswere.com/decentralized-identity-is-failing-us-welcome-to-the-web3-mullet-890cf0a4c8c8
+

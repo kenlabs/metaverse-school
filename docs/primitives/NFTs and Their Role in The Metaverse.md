@@ -1,5 +1,5 @@
 ---
-title: NFTs and Their Role in The Metaverse
+title: NFT
 description: NFTs and Their Role in The Metaverse
 ---
 
@@ -194,3 +194,4 @@ NFTs have a lot of potential in the metaverse. They provide a way to represent o
 [NFT Pros and Cons: What Companies Need to Know](https://www.pillsburylaw.com/images/content/1/5/153618/ppt-slides-nft-webinar.pdf)
 
 [The Experiences of the Metaverse. In previous articles I’ve shared the… | by Jon Radoff | Building the Metaverse | Medium](https://medium.com/building-the-metaverse/the-experiences-of-the-metaverse-2126a7899020)
+

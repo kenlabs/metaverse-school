@@ -1,5 +1,5 @@
 ---
-title: Storage - The Cornerstone of the Metaverse Ecosystem
+title: Storage
 description: Storage - The Cornerstone of the Metaverse Ecosystem
 ---
 

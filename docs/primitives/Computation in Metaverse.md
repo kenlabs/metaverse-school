@@ -1,5 +1,5 @@
 ---
-title: Computation in Metaverse
+title: Computation
 description: Computation in Metaverse
 ---
 

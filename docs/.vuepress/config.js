@@ -109,8 +109,11 @@ module.exports = {
               '/primitives/Introduction',
               '/primitives/Computation in Metaverse',
               '/primitives/Storage - The Cornerstone of the Metaverse Ecosystem',
+              '/primitives/Connecting the Metaverse with Bridges',
               '/primitives/The Role of Identity in Connecting the Metaverse',
-              '/primitives/NFTs and Their Role in The Metaverse'
+              '/primitives/Carry Your Reputation Across Metaverse',
+              '/primitives/NFTs and Their Role in The Metaverse',
+              '/primitives/MetaFi - DeFi for the Metaverse'
             ]
           },
           {
