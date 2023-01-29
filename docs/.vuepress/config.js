@@ -113,7 +113,8 @@ module.exports = {
               '/primitives/The Role of Identity in Connecting the Metaverse',
               '/primitives/Carry Your Reputation Across Metaverse',
               '/primitives/NFTs and Their Role in The Metaverse',
-              '/primitives/MetaFi - DeFi for the Metaverse'
+              '/primitives/MetaFi - DeFi for the Metaverse',
+              '/primitives/Metaverse-DAO - A Superior Combination and Solution'
             ]
           },
           {
