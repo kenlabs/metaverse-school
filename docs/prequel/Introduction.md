@@ -98,3 +98,6 @@ At Deloitte we see the development of the metaverse through four stages: infancy
 
 Welcome to the Metaverse - by Rahul Sanghi - Tigerfeathers
 https://tigerfeathers.substack.com/p/welcome-to-the-metaverse
+
+Welcome to the metaverse: part two - Bristows
+https://www.bristows.com/news/welcome-to-the-metaverse-part-two/

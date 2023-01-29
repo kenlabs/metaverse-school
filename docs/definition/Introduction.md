@@ -71,31 +71,42 @@ Tech Target:
 
 ## Further Reading
 
-* [What is the Metaverse? An Explanation and In-Depth Guide](https://www.techtarget.com/whatis/feature/The-metaverse-explained-Everything-you-need-to-know)
-* [The Metaverse: What It Is, Where to Find it, and Who Will Build It — MatthewBall.vc](https://www.matthewball.vc/all/themetaverse)
-* [Metaverse Security: Issues, Challenges and a Viable ZTA Model](https://www.mdpi.com/2079-9292/12/2/391)
-* [A Metaverse: Taxonomy, Components, Applications, and Open Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9667507)
-* [Metaverse for Wireless Systems: Vision, Enablers, Architecture, and Future Directions](https://arxiv.org/pdf/2207.00413.pdf)
+[What is the Metaverse? An Explanation and In-Depth Guide](https://www.techtarget.com/whatis/feature/The-metaverse-explained-Everything-you-need-to-know)
 
-What is the Metaverse? Here's Why It Matters | Time
-https://time.com/6116826/what-is-the-metaverse/
+[The Metaverse: What It Is, Where to Find it, and Who Will Build It — MatthewBall.vc](https://www.matthewball.vc/all/themetaverse)
 
-Metaverse: Survey, Applications, Security, and Opportunities
-https://arxiv.org/pdf/2210.07990.pdf
+[Metaverse Security: Issues, Challenges and a Viable ZTA Model](https://www.mdpi.com/2079-9292/12/2/391)
 
-A Survey on Metaverse: Fundamentals, Security, and Privacy
-https://arxiv.org/pdf/2203.02662.pdf
+[A Metaverse: Taxonomy, Components, Applications, and Open Challenges](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9667507)
 
-How your business can benefit from the metaverse: PwC
-https://www.pwc.com/us/en/tech-effect/emerging-tech/demystifying-the-metaverse.html
+[Metaverse for Wireless Systems: Vision, Enablers, Architecture, and Future Directions](https://arxiv.org/pdf/2207.00413.pdf)
 
-The Metaverse: What It Is, Where to Find it, and Who Will Build It — MatthewBall.vc
-https://www.matthewball.vc/all/themetaverse
+[What is the Metaverse? Here's Why It Matters | Time](https://time.com/6116826/what-is-the-metaverse/)
 
-Metaverse: Data Privacy and Ownership - Michelman & Robinson
-https://www.mrllp.com/metaverse-data-privacy-ownership/
+[Metaverse: Survey, Applications, Security, and Opportunities](https://arxiv.org/pdf/2210.07990.pdf)
 
+[A Survey on Metaverse: Fundamentals, Security, and Privacy](https://arxiv.org/pdf/2203.02662.pdf)
 
+[How your business can benefit from the metaverse: PwC](https://www.pwc.com/us/en/tech-effect/emerging-tech/demystifying-the-metaverse.html)
 
-德勤的元宇宙白皮书中文版
-http://www.chinatft.org/static/temimg/415848.pdf
+[Metaverse: Data Privacy and Ownership - Michelman & Robinson](https://www.mrllp.com/metaverse-data-privacy-ownership/)
+
+[德勤的元宇宙白皮书中文版](http://www.chinatft.org/static/temimg/415848.pdf)
+
+[The Seven Rules of the Metaverse. A framework for the coming immersive… | by Tony Parisi | Metaverses | Medium](https://medium.com/meta-verses/the-seven-rules-of-the-metaverse-7d4e06fa864c)
+
+[Meet Me in the Metaverse _ Accenture](https://s3.amazonaws.com/tld-documents.llnassets.com/0035000/35482/meet%20me%20in%20the%20metaverse.pdf)
+
+[Metaverse: a practical review | Thoughtworks](https://www.thoughtworks.com/insights/articles/metaverse-practical-review)
+
+[Avatars: Thoughts on the Metaverse](https://www.pwccn.com/en/tmt/avatars-thoughts-on-the-metaverse-mar2022.pdf)
+
+[Metaverse: What Is It And How Can Businesses Take Advantage Of It?](https://reputationup.com/en/metaverse-for-businesses/)
+
+[Welcome to the metaverse: part one - Bristows](https://www.bristows.com/news/welcome-to-the-metaverse-part-one/)
+
+[Confluence of Metaverse and DLT](https://www.cgi.com/sites/default/files/2022-11/20221101-cgi-whitepaper-metaverse-nl.pdf)
+
+[Blockchain-Research-No.204-The-Economics-of-Metaverse-1.pdf](https://www.hashkey.com/viewerjs-0.5.8/documents/en/blockchain_research/Blockchain-Research-No.204-The-Economics-of-Metaverse-1.pdf)
+
+[METAVERSE AND MONEY: Decrypting the Future](https://www.citifirst.com.hk/home/upload/citi_research/AZRC7.pdf)
