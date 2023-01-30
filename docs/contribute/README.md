@@ -1,16 +1,16 @@
 ---
-title: Write for NFT School
-description: Learn how to contribute content to the NFT School site and make the global NFT developer community better for everyone.
+title: Write for Metaverse School
+description: Learn how to contribute content to the Metaverse School site and make the global Metaverse developer community better for everyone.
 ---
-# Contribute to NFT School
+# Contribute to Metaverse School
 
-Thank you for your interest in contributing to NFT School! As an open-source project, this site relies on people like you to suggest, create, and improve content to make the NFT developer experience better for everyone.
+Thank you for your interest in contributing to Metaverse School! As an open-source project, this site relies on people like you to suggest, create, and improve content to make the Metaverse developer experience better for everyone.
 
 **To get started, check the GitHub repo to see what existing [content request issues](https://github.com/protocol/nft-website/issues?q=is%3Aissue+is%3Aopen+label%3Atopic%2Fdesign-content) are looking for writers** — or if you'd like to add something completely new, [open an issue](https://github.com/protocol/nft-website/issues/new?assignees=&labels=need%2Ftriage&template=content-or-feature-suggestion.md&title=%5BCONTENT+REQUEST%5D+%28add+your+title+here%21%29) to suggest new content. Once you've got a project in mind, the guidelines below can help you create  content that's clear, compelling, and valuable to the reader.
- 
+
 ## Types of content
 
-Content on NFT School falls into four categories, all designed to help readers understand topics but each taking a slightly different approach to doing so:
+Content on Metaverse School falls into four categories, all designed to help readers understand topics but each taking a slightly different approach to doing so:
 - [Concept guides](#concept-guides)
 - [Tutorials](#tutorials)
 - [How-tos](#how-tos)
@@ -20,7 +20,7 @@ Content on NFT School falls into four categories, all designed to help readers u
 
 **Concept guides** are written with the intent to inform and explain something. Unlike tutorials or how-tos, they don't contain any steps or actions that the reader has to perform _right now_ in order to succeed.
 
-Because concept guides often deal with challenging topics, including diagrams or other visualizations can make them significantly more helpful for the reader. When writing a concept guide for NFT School, please use the following basic structure for consistency with other concept guides:
+Because concept guides often deal with challenging topics, including diagrams or other visualizations can make them significantly more helpful for the reader. When writing a concept guide for Metaverse School, please use the following basic structure for consistency with other concept guides:
 
 1. Introduction to the concept you're about to explain.
 2. What the concept is.
@@ -42,7 +42,7 @@ How-tos are short (aim for 2-10 minutes reading time), process-oriented, and tea
 
 Because how-tos are so goal-oriented, they are often the content used most frequently by novices. Keep this in mind, and create as simple of content as possible; you can always point the reader to more complex material that they can explore if they wish.
 
-When writing a how-to for NFT School, please use the following basic structure:
+When writing a how-to for Metaverse School, please use the following basic structure:
 
 1. What we're about to do.
 2. The steps we need to do.
@@ -56,13 +56,13 @@ Reference materials are often in list, tabular, or a similar form, so think care
 
 ## Grammar, formatting, and style
 
-Below is a summary of grammatical and style guidance for creating content for NFT School. Adhering to the guidelines below helps make content on the site consistent, professional, and easy to uderstand and use.
+Below is a summary of grammatical and style guidance for creating content for Metaverse School. Adhering to the guidelines below helps make content on the site consistent, professional, and easy to uderstand and use.
 
 ### Grammar and spelling
 
 #### American English
 
-For the sake of consistency, NFT School uses American English spelling. Some basic rules for converting other styles of English into American English:
+For the sake of consistency, Metaverse School uses American English spelling. Some basic rules for converting other styles of English into American English:
 
 1. Swap the `s` for a `z` in words like _categorize_ and _pluralize_.
 2. Remove the `u` from words like _color_ and _honor_.
@@ -78,23 +78,23 @@ Follow each list of three or more items with a comma `,`:
 
 #### Acronyms
 
-If you have to use an acronym, spell the full phrase first and include the acronym in parentheses `()` the first time it is used in a document. Exception: This generally isn't necessary for commonly encountered acronyms like _NFT_.
+If you have to use an acronym, spell the full phrase first and include the acronym in parentheses `()` the first time it is used in a document. Exception: This generally isn't necessary for commonly encountered acronyms like _Metaverse_.
 
 > virtual vachine (VM), decentralized web (DWeb).
 
 ### Formatting
 
-NFT School follows the _GitHub Flavored Markdown_ syntax. This way, readers have the option to view articles on either the main NFT School website or [its GitHub repo](https://github.com/protocol/nft-website).
+Metaverse School follows the _GitHub Flavored Markdown_ syntax. This way, readers have the option to view articles on either the main Metaverse School website or [its GitHub repo](https://github.com/protocol/nft-website).
 
 We use the rules set out in the [VSCode Markdownlint](https://github.com/DavidAnson/vscode-markdownlint) extension. You can import these rules into any text editor like Vim or Sublime. All rules are listed [within the Markdownlint repository](https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md).
 
 #### Relative links
 
-If you include internal (relative) links to other content on NFT School, please link to them using full relative paths (e.g. use `../` for climbing a directory) and specifying the file's full name (e.g. `awesome-tutorial.md#subheading`). This ensures that users who read NFT School content directly in-repo on GitHub's web UI are able to follow relative links correctly.
+If you include internal (relative) links to other content on Metaverse School, please link to them using full relative paths (e.g. use `../` for climbing a directory) and specifying the file's full name (e.g. `awesome-tutorial.md#subheading`). This ensures that users who read Metaverse School content directly in-repo on GitHub's web UI are able to follow relative links correctly.
 
 ### Text style
 
-In addition to the [rules](https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md) found within the [Markdownlinter extension](https://github.com/DavidAnson/vscode-markdownlint), NFT School also observes the following style guidelines.
+In addition to the [rules](https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md) found within the [Markdownlinter extension](https://github.com/DavidAnson/vscode-markdownlint), Metaverse School also observes the following style guidelines.
 
 #### Titles
 

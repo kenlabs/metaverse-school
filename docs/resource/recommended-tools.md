@@ -4,9 +4,9 @@ description: A helpful, handy guide to recommended tools for NFT developers.
 ---
 # Recommended tools
 
-Below, you'll find a variety of tools intended to make NFT development quicker and easier. This list is an ongoing work in progress, so check back periodically for new material and resources!
+Below, you'll find a variety of tools intended to make Metaverse development quicker and easier. This list is an ongoing work in progress, so check back periodically for new material and resources!
 
-**Do you have favorite tools or services to recommend to the global NFT community? As with all of NFT School, contributions are welcome — just [edit this page](https://github.com/protocol/nft-website/edit/main/docs/reference/recommended-tools.md) on GitHub and make a PR.**
+**Do you have favorite tools or services to recommend to the global NFT community? As with all of Metaverse School, contributions are welcome — just [edit this page](https://github.com/protocol/nft-website/edit/main/docs/reference/recommended-tools.md) on GitHub and make a PR.**
 
 ## Online integrated development environments (IDEs)
 

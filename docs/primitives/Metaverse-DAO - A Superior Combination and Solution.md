@@ -127,3 +127,7 @@ Antier is one such DAO Development services provider that has the biggest pool o
 
 [Exploring the Combination of DAO and the Metaverse](https://blockchain.oodles.io/blog/combination-metaverse-and-dao/)
 
+[WHAT IS DAO IN METAVERSE? METAVERSE TROOP](https://metaversetroop.com/dao-in-metaverse/)
+
+
+
