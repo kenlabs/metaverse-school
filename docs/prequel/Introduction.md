@@ -92,12 +92,12 @@ At Deloitte we see the development of the metaverse through four stages: infancy
 
 ## Further Reading
 
-* [The Case for the Metaverse](https://events.bizzabo.com/filaustin/agenda/session/903534)
-* [Metaverse: Survey, Applications, Security, and Opportunities](https://arxiv.org/pdf/2210.07990.pdf)
-* [Metaverse for Wireless Systems: Vision, Enablers, Architecture, and Future Directions](https://arxiv.org/pdf/2207.00413.pdf)
+[The Case for the Metaverse](https://events.bizzabo.com/filaustin/agenda/session/903534)
 
-Welcome to the Metaverse - by Rahul Sanghi - Tigerfeathers
-https://tigerfeathers.substack.com/p/welcome-to-the-metaverse
+[Metaverse: Survey, Applications, Security, and Opportunities](https://arxiv.org/pdf/2210.07990.pdf)
 
-Welcome to the metaverse: part two - Bristows
-https://www.bristows.com/news/welcome-to-the-metaverse-part-two/
+[Metaverse for Wireless Systems: Vision, Enablers, Architecture, and Future Directions](https://arxiv.org/pdf/2207.00413.pdf)
+
+[Welcome to the Metaverse - by Rahul Sanghi - Tigerfeathers](https://tigerfeathers.substack.com/p/welcome-to-the-metaverse)
+
+[Welcome to the metaverse: part two - Bristows](https://www.bristows.com/news/welcome-to-the-metaverse-part-two/)

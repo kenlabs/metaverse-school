@@ -5,87 +5,17 @@ description: The History of the Metaverse
 
 # The History of the Metaverse
 
-The term 'metaverse' has only recently gained currency, but its history is long. Learn about the technologies that gave rise to a concept many believe will change civilization.
+The metaverse is the collective assortment of byte-based alternatives to features of the physical, atomized world. The metaverse is in our future with or without our permission. We’ve taken too many steps in that direction already to stop it.
 
-### Introduction
+And as we noted just a few weeks ago, while many people think of the metaverse as some version of the dystopian movie, Ready Player One, the bulk of the metaverse will have far more utilitarian value.
 
-The buzz around the metaverse continues to grow, sparked by the social media giant Facebook rebranding itself as Meta and amplified by company after company [marketing its version of a metaverse experience](https://www.techtarget.com/whatis/feature/Marketing-in-the-metaverse-What-marketers-need-to-know).
+To understand where all of this is headed, it’s instructive to look back and put in context the significant steps we’ve already taken down the virtual metaverse road.
 
-While the term [metaverse](https://www.techtarget.com/whatis/feature/The-metaverse-explained-Everything-you-need-to-know) has only recently gained currency, the concept of an immersive, 3D internet that will transform how people live their lives has been around for decades. This article takes readers though a history of the metaverse, with an emphasis on the technology breakthroughs that gave rise to it.
+History and future are one continuum with no beginning or endpoints. At any given time, we can see how today’s breakthroughs and future trends are building on top of the framework of previous discoveries. Whether we knew it at the time, the historical steps I’ll lay out below were critical in the formation and future of the metaverse. It’s very clear in hindsight.
 
-At present, the metaverse is largely unbuilt, and there are [competing visions of what the metaverse will be like](https://www.techtarget.com/searchcio/tip/Metaverse-vs-multiverse-vs-omniverse-Key-differences) and which technologies will power it. But broadly speaking, the metaverse will likely include a blend of virtual reality (VR) and augmented reality ([AR](https://www.techtarget.com/whatis/definition/augmented-reality-AR)) experiences. It may also use new decentralized finance technologies like [blockchains](https://www.techtarget.com/searchcio/feature/Top-9-blockchain-platforms-to-consider) and non-fungible tokens (NFTs) to harmonize commerce and interoperability across platforms.
+So, let’s look back 40 years or so to get a fresh perspective on this metaverse trajectory. I selected 1991 as a beginning point, the advent of the internet. But we could just as easily establish a similar timeline that leads up to that important breakthrough, too.
 
-The metaverse will likely comprise numerous [3D](https://www.techtarget.com/whatis/definition/3-D-three-dimensions-or-three-dimensional) worlds, many of them aimed at consumers and some, like the so-called industrial metaverse and infrastructure metaverse, designed to transform how work gets done. The latter implementations might be built on the centralized services already running on the large cloud platforms enterprises use and emerging platforms like [Nvidia's Omniverse](https://www.techtarget.com/searchenterpriseai/news/252525158/Nvidia-unveils-Omniverse-Cloud-for-metaverse-applications).
-
-While it is [early days for the metaverse](https://www.techtarget.com/searchcio/feature/The-Metaverse-Standards-Forum-What-you-need-to-know), and there are fundamental technical barriers to be removed, there is a growing consensus that it will happen and will arrive with a big bang.
-
-"It is clear that it is one of the most highly anticipated technology evolutions of the coming decade," said Dave Wright, chief innovation officer at ServiceNow.
-
-Wright believes businesses need to plan for two vital shifts as they plan for this evolution. The first is how they will manage the flow of [work within the metaverse](https://www.techtarget.com/searchcio/tip/How-will-the-metaverse-affect-the-future-of-work). The second is how they will manage the flow of assets and work between virtual and physical worlds.
-
-Revisiting the history of the metaverse can help inform these plans.
-
-### Technology that has contributed to the metaverse: An annotated timeline
-
-![History of the metaverse.](https://cdn.ttgtmedia.com/rms/onlineimages/history_of_the_metaverse-f_mobile.png)
-
-
-
-Here are some of the most significant technology developments shaping the current visions of the metaverse, with commentary from experts:
-
-1938 -- French poet and playwright Antonin Artaud uses the term *virtual reality* in his collection of essays, *The Theater and its Double*. He paints a vision of how characters, objects and images can be orchestrated to create rich, immersive worlds.
-
-1962 -- American filmmaker Morton Heilig builds the Sensorama, a machine that simulates the experience of riding a motorcycle through New York City via a 3D movie, vibrating chair, fan and smells. "The Sensorama was by far the ultimate advancement which laid the groundwork for what the immersive virtual environment could become," said John Licata, vice president and chief innovation foresight strategist at SAP New Venture Technologies Future Hub.
-
-1984 -- American computer scientist, musician and virtual reality pioneer Jaron Lanier founds VPL Research, Inc. The firm developed one of the first VR headsets and data gloves. It creates demonstrations of how virtual reality could be deployed for commercial and artistic endeavors. "While there's a host of prior thinking and experiments (including a great 1965 paper by Ivan Sutherland imagining an 'Ultimate Display' that recognizably describes this sci-fi staple), Jaron Lanier's VPL Research started to commercialize goggles and gloves to facilitate augmented reality and virtual reality interactions," said Alex Weishaupl, managing director with Protiviti Digital.
-
-1989 -- English computer scientist Tim Berners-Lee lays the groundwork for the World Wide Web while at CERN. This was a radical upgrade to existing text-based sharing services like Gopher and proprietary bulletin board systems. Berners-Lee's invention open-sourced both a client and server for a linked network of web pages with text, graphics and audio.
-
-1992 -- American sci-fi writer Neal Stephenson coins the term *metaverse* in his book *Snow Crash*, which depicts dystopian future world where rich people escape into an alternative 3D, connected reality. The alternative reality starts out as a single 65,536 km road circling an artificial globe and expands from there as people buy, build and renovate virtual real estate. In this vision, there is just one world that everyone connects through. People are responsible for their own avatars, which range from highly artistic customized creations to cheap commodity offerings from Walmart nicknamed "Clints" and "Brandys."
-
-1993 -- Israeli computer scientist Moni Naor and American computer scientist Cynthia Dwork invent proof-of-work techniques to deter spam and denial-of-service attacks. The software requires participants to solve a complex cryptographic challenge that is easy to verify. The basic concepts are later formalized and become the basis of Bitcoin.
-
-2003 -- Linden Lab unveils Second Life, a shared 3D virtual space that allows users to explore, interact with others, build things and exchange virtual goods. The virtual space set the stage for what a shared virtual world could look like and has continued to grow throughout the present, with over 70 million registered Second Life accounts. "Major organizations like IBM, Coca-Cola, and others invested significant effort in figuring out how this 3-D platform could foster customer interactions and employee experiences, which are themes we see trialed again in the metaverse of today," Weishaupl said.
-
-2006 -- Roblox allows users to create and play massively multiplayer games developed by other users. Users could try out their new ideas for a game, and the platform provided the infrastructure to scale the most successful ones rapidly. The Roblox platform also allows users to create and sell new items. Adoption took off during the Covid-19 pandemic, and the platform now has over 200 million users.
-
-2007 -- Google augments Maps with Street View, which allows people to explore a virtual representation of the real world at scale. "Beyond the cool immersive-ness of the product itself, Google showed there are clever, easy ways of creating large, complex digital twins of physical environments for users to explore," Weishaupl said.
-
-2009 -- Satoshi Nakamoto (a pseudonym) mints the first Bitcoin and launches the first public blockchain using a proof-of-work algorithm. It slowly grows into the most valuable cryptocurrency, demonstrating the potential for decentralized ledgers to protect trade at scale. Wild speculation drives interest in various alternative cryptocurrencies and research on new ways to implement decentralized markets outside the control of any one party.
-
-2010 -- The gacha video game model is introduced. Players play toy vending machines (*gachas*) to earn currency and in-game rewards through a combination of luck and skill.
-
-2011 -- Ernest Cline publishes futuristic novel *Ready Player One*. Set in the 2040s, humanity finds escape in a shared virtual world called OASIS, which boasts having the world's most stable currency. Steven Spielberg directs the movie version in 2018, popularizing the idea of a shared virtual world.
-
-2012 -- Israeli entrepreneur Yoni Assia introduces Colored Coins in a 2012 blog post titled "bitcoin 2.X (aka Colored Bitcoin) - initial specs." This lays the foundation for a novel way to create, buy, sell and own assets on top of a public blockchain.
-
-2012 -- American entrepreneur Palmer Luckey launches the Oculus on Kickstarter as the first low-cost 3D hardware for the masses.
-
-2014 -- Facebook buys Oculus and helps scale the 3D infrastructure to support it.
-
-2014 -- Americans Kevin McCoy, an artist, and Anil Dash, a tech entrepreneur, create the first non-fungible token, a unique cryptographically secured virtual asset. This opens the door for experimentation in virtual art, concert tickets and new play-to-earn experiences. "The fast growth and general acceptance of the paradigm was a critical milestone for the metaverse," said Frank Palermo, executive vice-president and head of technology at Virtusa, a digital engineering consultancy.
-
-2015 -- Canadian programmer Vitalik Buterin and English computer scientist Gavin Wood launch Ethereum, which includes features for building decentralized apps on a blockchain. "Ethereum introduced a practical take on smart contracts, which is the foundation for offerings like NFTs and the ability to 'own' assets in a distributed environment," Weishaupl said.
-
-2016 -- Pokémon GO introduces the world to AR games overlaid on the real world. Players use their phones to find, capture and battle virtual creatures associated with physical locations.
-
-2016 -- The DAO, an early decentralized autonomous organization for raising VC funds, launches on top of the Ethereum blockchain. Hackers siphon off a third of its funds a month after it launches. This kills the company, but the idea inspires new models for collectively buying assets and running organizations.
-
-2018 -- Video play-to-earn game Axie Infinity, developed by Vietnamese studio Sky Mavis, popularizes the use of NFTs integrated into the Ethereum blockchain. It peaks at over 2.7 million users at the height of the pandemic in 2021, with the highest combined value of all play-to-earn games. Hackers steal around $600 million in 2022.
-
-2019 -- Epic Games's Fortnite becomes the most popular shared virtual world ever, with over 250 million active users. The company enhances the platform to support other virtual games and experiences. In 2020, rapper Travis Scott performs a virtual concert that attracts more than 12 million participants. Epic later integrates the platform into popular enterprise apps for geographic information systems, design and infrastructure.
-
-2021 -- Facebook's parent company rebrands itself as Meta and promulgates an upbeat and expansive vision for the metaverse. The renamed company subsequently invests over $10 billion to develop new hardware, software and services to support this new world. This helps galvanize interest in the term *metaverse* as companies of all shapes and sizes begin connecting their existing offerings to the metaverse. Google search rankings for the term skyrocket.
-
-2021 -- Microsoft introduces Mesh as a new platform that promises to synchronize virtual collaboration. The company touts how metaverse experiences via Mesh could improve enterprise workflows for meetings, construction and making movies.
-
-2022 -- Siemens and Nvidia partner on the industrial metaverse. The new term builds on Nvidia's Omniverse collaborative engineering environment and Siemen's comprehensive platform of [digital twin](https://www.techtarget.com/searcherp/definition/digital-twin) tools for aerospace, healthcare, manufacturing, automotive and energy industries. "Photorealistic, physics-based digital twins embedded in the industrial metaverse offer enormous potential to transform our economies and industries by providing a virtual world where people can interact and collaborate to solve real-world problems," said Roland Busch, president and CEO of Siemens AG.
-
-
-
-TODO: https://futuristspeaker.com/future-trends/the-history-of-the-metaverse/
-
-
+Why are these milestones considered elemental to the emergence of the metaverse? Each one adds an element of structure, capability, and, yes, reality within that virtual, parallel world – a metaverse many would consider safer and more democratic than our physical universe.
 
 ## 1991 – Birth of the Internet
 
@@ -176,3 +106,12 @@ This wildly popular dapp was created with a multi-metaverse interplanetary scena
 The evolution of various kinds of enabling technology and new features in the metaverse over the last few years has been incredible. But not as amazing as it will be beyond 2021.
 
 In fact, in the future, there will be few if any aspects of society – including government, business, churches, entertainment, dating, politics, and even war – that will remain unchanged with the evolving Metaverse. It will have an especially profound effect on the way we educate ourselves and our children in the years ahead.
+
+## Further Reading
+
+[A Short History Of The Metaverse | Bernard Marr](https://bernardmarr.com/a-short-history-of-the-metaverse/)
+
+[History of the Metaverse Explained | TechTarget](https://www.techtarget.com/searchcio/tip/History-of-the-metaverse-explained)
+
+[The History of the Metaverse](https://futuristspeaker.com/future-trends/the-history-of-the-metaverse/)
+

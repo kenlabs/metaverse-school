@@ -7,6 +7,10 @@ description: 9 Megatrends Shaping the Metaverse
 TODO: https://medium.com/building-the-metaverse/9-megatrends-shaping-the-metaverse-93b91c159375
 TODO: https://www.youtube.com/watch?v=VG87A54cSAc
 
+What are the social and technological trends that are affecting what the metaverse is becoming?  In this video I cover: virtual mainstreaming (digital identity); walled garden ecosystems and the challenges by open standards like OpenXR and WASM; machine intelligence / AI; the rise of cybernetics (VR, AR, brain-computer interfaces, etc.); low code and no code platforms; simulating reality; accelerating distributed networks; blockchain adoption. 
+
+Some of the specific tech and companies covered includes: Unity, Unreal, Facebook, Roblox, GPT-3, AR, VR, neural interfaces, video games, ethereum, smart contracts, 5G, 6G, cloud computing, edge computing.
+
 ## Virtual Mainstreaming
 
 People increasingly regard the virtual world to be as real as the physical world.
@@ -168,3 +172,9 @@ Data will also come from an exponentially-increasing number of feeds from the ph
 We won’t simply have an Internet of Things — we’ll have an Internet of Everything — integrated with predictive analytics, AI and real-time visualization.
 
 These innovations will enable a metaverse that can layer over and predict the real-world — while also powering the next generation of games based on actual physics — more beautiful and immersive than anything experienced thus far.
+
+## Further Reading
+
+[9 Megatrends Shaping the Metaverse | by Jon Radoff | Building the Metaverse | Medium](https://medium.com/building-the-metaverse/9-megatrends-shaping-the-metaverse-93b91c159375)
+
+[9 Megatrends Shaping the Metaverse - YouTube](https://www.youtube.com/watch?v=VG87A54cSAc)

@@ -108,4 +108,4 @@ When you look back historically at major tech trends, it’s never exactly what 
 
 ## Further Reading
 
-* [What you need to know about the state of the metaverse today](https://venturebeat.com/business/what-you-need-to-know-about-the-state-of-the-metaverse-today/)
+[What you need to know about the state of the metaverse today](https://venturebeat.com/business/what-you-need-to-know-about-the-state-of-the-metaverse-today/)
