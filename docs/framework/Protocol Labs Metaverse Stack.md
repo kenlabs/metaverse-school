@@ -1,6 +1,6 @@
 ---
 title: Protocol Labs Metaverse Stack
-description: How we think about the Metaverse
+description: Protocol Labs Metaverse Stack
 ---
 
 # Protocol Labs Metaverse Stack

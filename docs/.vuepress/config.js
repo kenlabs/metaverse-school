@@ -97,8 +97,8 @@ module.exports = {
                 '/framework/Introduction',
                 '/framework/The Metaverse Value-Chain',
                 '/framework/Matthew Ball’s Metaverse Primer',
-                '/framework/OV Open Metaverse OS',
                 '/framework/Coinbase Metaverse Stack',
+                '/framework/OV Open Metaverse OS',
                 '/framework/Protocol Labs Metaverse Stack'
               ]
           },

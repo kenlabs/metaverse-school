@@ -1,7 +1,6 @@
 ---
 title: The State of the Metaverse Today
 description: The State of the Metaverse Today
-
 ---
 
 # The State of the Metaverse Today

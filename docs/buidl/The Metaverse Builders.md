@@ -205,3 +205,7 @@ Yes! Microsoft is one of the largest tech companies investing heavily in the Met
 Trust and risk considerations for the metaverse: PwC
 https://www.pwc.com/us/en/tech-effect/emerging-tech/metaverse-trust-and-risk-considerations.html
 
+TODO: https://a16zcrypto.com/metaverse-real-estate-digital-land-value-to-users/
+
+https://grayscale.com/wp-content/uploads/2021/12/Grayscale-Decentraland.pdf
+

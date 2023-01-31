@@ -5,25 +5,23 @@ description: The Metaverse Value-Chain
 
 # The Metaverse Value-Chain
 
-TODO：
+The metaverse is probably one of the most controversial and intriguing topics these days. The hype around this one single word is astounding. When Mark Zuckerberg announced the name-change of Facebook into Meta, it sent the social media into a frenzy. In October alone, an estimated 2.62 million searches were made about the term.
 
+Even though it first appeared in Neal Stephenson’s novel, Snow Crash, twenty years ago; it wasn’t until 2021 that we seriously started thinking about the metaverse. Up until 2021, almost no one had thought that such a fiction-esque idea had the possibility of becoming real. 
 
+Now, everyone in the tech industry is trying to come up with their own explanation of the metaverse. The gamers are claiming that it already exists in their platforms. According to them; Roblox, Second Life, Fortnite and Minecraft are the best examples of the metaverse.
 
-The Metaverse Value-Chain. Trillions of dollars are pouring into… | by Jon Radoff | Building the Metaverse | Medium
-https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7
+Meanwhile, others believe we still have years to enter this [new era of the internet](https://holonext.com/how-to-exist-in-meatverse/). They think that the developing technologies of 5G,[ augmented reality](https://holonext.com/top-ar-trends-to-follow-in-2022/), artificial intelligence, the cloud and big data will eventually combine into the metaverse. 
 
+At the moment, we still haven’t reached a conclusion about this alternative digital world. Because of this, when Jon Radoff came up with a rather simplistic and a systematic explanation of the metaverse, it became an instant hit among Web 3.0 enthusiasts. His seven layered model is simplistic and is already being used in many online publications. 
 
+> In the article on the [value-chain of the metaverse](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7), [Jon Radoff](https://medium.com/@jradoff?source=post_page-----8ae0cde89696--------------------------------) described the seven layers of the ecosystem. 
 
-In the article on the [value-chain of the metaverse](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7), [Jon Radoff](https://medium.com/@jradoff?source=post_page-----8ae0cde89696--------------------------------) described the seven layers of the ecosystem. 
+Jon Radoff is an entrepreneur, author and game designer. For the past few years, he has been writing extensively about the topics surrounding Web 3.0 in his Medium page “Building the Metaverse”. 
 
-Metaverse 101: Understanding the Seven Layers of the Metaverse - Holonext
-https://holonext.com/metaverse-101-understanding-the-seven-layers/
+His conceptual framework consists of seven tiers that describe the value-chain of the metaverse market. These include opportunities, technological innovations and solutions to our current problems. 
 
-
-
-The value chain of this market, from the experiences that people seek out to the enabling technologies that make it possible. 
-
-
+Infrastructure is the base layer, meaning that without adequate framework none of the other developments are possible. This is why [technological processes](https://holonext.com/2022-technology-trends-to-watch/) are at the heart of the metaverse. The other tiers include experience, discovery, creator economy, spatial computing, decentralization and human interface. 
 
 ![Seven Layers of the Metaverse: Experience, Discovery, Creator Economy, Spatial Computing, Decentralization, Human Interface, Infrastructure](https://miro.medium.com/max/1400/0*W7d2kJ2UjzeDkc9Q)
 
@@ -162,3 +160,7 @@ Enabling the untethered functionality, high performance, and miniaturization req
 ## Further Reading
 
 [Not Boring | The Value Chain of the Open Metaverse](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse)
+
+[Metaverse 101: Understanding the Seven Layers of the Metaverse - Holonext](https://holonext.com/metaverse-101-understanding-the-seven-layers/)
+
+[The Metaverse Value-Chain. Trillions of dollars are pouring into… | by Jon Radoff | Building the Metaverse | Medium](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7)

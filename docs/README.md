@@ -21,3 +21,10 @@ This immersive virtual world that Metaverse aims to bring to us will not just be
 In this course of Metaverse School, we make the following contributions. We first introduce the prequel and basic concepts such as the brief history,megatrends, development process, definition, and characteristics of the Metaverse. After that, we analyze the overall framework and supporting primitives, building blocks of the Metaverse and summarize the status of common fields. Finally, we focus on the value creation, opportunities,solutions, directions builders and toolbox of building he Metaverse, and give corresponding resources. We also discuss the challenges and possible research directions of the Metaverse. 
 
 We believe this comprehensive review can provide an overview of the Metaverse and research/build directions for some multidisciplinary studies.
+
+## Contribute to Metaverse School
+
+Metaverse School is an [open-source project (opens new window)](https://github.com/protocol/nft-website/) that welcomes contributors of all specialties from all over the world!
+
+Are you a great communicator who'd like to make the global Metaverse developer community better? **Share your knowledge with your peers** and contribute a tutorial, how-to, or concept guide to this open-source site. See what existing [content request issues (opens new window)](Issues · kenlabs/msschool.dev
+https://github.com/kenlabs/msschool.dev/issues)are looking for writers, or if you'd like to add something completely new, [open an issue (opens new window)](https://github.com/kenlabs/msschool.dev/issues/new?assignees=&labels=need%2Ftriage&template=content-or-feature-suggestion.md&title=%5BCONTENT+REQUEST%5D+(add+your+title+here!))to suggest new content. (And thank you in advance!)

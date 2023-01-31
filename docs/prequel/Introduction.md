@@ -88,8 +88,6 @@ At Deloitte we see the development of the metaverse through four stages: infancy
 * The early development stage is from 2021 to 2030. This stage involves further online, digital and virtual applications and technological advancements in different industries, eventually forming a single-scenario based on independent metaverses and small decentralized, single-industry, multi-centered ecosystems of the metaverse. Technological patterns, platform infrastructure and key connecting devices, such as XR devices, will be primarily developed in this stage. Looking at application developments, the focus will be on the applications in hot industries.
 * The mature stage starts from 2031, during which the independent metaverses of different industries gradually share data and form unified standards, and achieve integration. Deloitte believes that in this stage, there will be cross-platform and crossindustry ecological connection and integration—the small decentralized, multi-center ecosystems will integrate to gradually form two metaverse ecosystems respectively centering on industries and individuals. Deloitte believes that unified data standards, payment systems and identity authentication are the key to achieving cross-platform development and integration at this stage.
 
-
-
 ## Further Reading
 
 [The Case for the Metaverse](https://events.bizzabo.com/filaustin/agenda/session/903534)

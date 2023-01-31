@@ -4,16 +4,6 @@ description:  Metaverse vs. Multiverse vs. Omniverse
 ---
 # Metaverse vs. Multiverse vs. Omniverse
 
-TODO: 
-
-
-
-###  Metaverse vs. Multiverse vs. Omniverse
-
-Refer: https://mention.com/en/blog/metaverse-multiverse-omniverse/
-
-https://optymize.io/blog/metaverse-vs-multiverse-key-differences-and-comparison/
-
 Metaverse, Multiverse, and Omniverse; all three concepts are connected to each other but have very different features altogether. These concepts enable the idea of connectivity, massive data handling, data transfer, etc but also separate entities of operations from each other. However, there are factors that are increasing the popularity of these concepts and these factors are increasing digital connectivity of users from all over the world, the demand for more comfortable technologies, the demand for increasing virtual techs, and more. These increasing demands are resulting in an increasing amount of data and thus, the requirement for better connectivity is increasing as well.
 
 #### What is Metaverse?
@@ -56,8 +46,6 @@ The below table shows vital differences between both universes:
 | Current Status      | The metaverse is the lowest level of the digital world, for example, Google Metaverse, Facebook Metaverse, and so on. | The Omniverse, on the other hand, is at the highest level of the digital world and contains all metaverses. |
 | Interoperability    | According to user demand, metaverse groups may or may not unite. | The simplicity of sharing, operationality, technology transfer, and much more are made possible by combining all of the Metaverses. |
 
-
-
 ##### Data size
 
 On the basis of data size, it is quite easy to understand that **Metaverse** remains at the lowest level if we compare the sizes of the data that each concept has to store and trade. After all, Metaverse is a collection of data from different sources but still only defines a single universe. It talks about a space where different entities sign up to provide common users with [top Metaverse projects](https://appinventiv.com/blog/what-is-metaverse/) based on experiences like entertainment, shopping, education, and more. However, all that is done in a single space that might nor might not expand as requirements rise.
@@ -65,8 +53,6 @@ On the basis of data size, it is quite easy to understand that **Metaverse** rem
 **Multiverse**, on the other hand, is much greater than Metaverse in terms of the size and capacity of storing the data and allowing data trades. The reason, as mentioned earlier, is quite simple. It consists of multiple Metaverses, and each Metaverse has its own set of rules, regulations, and behaviors. However, the concept is not only limited to Metaverses. In fact, Multiverse is also applied in many fictional sagas, theories, etc.
 
 **Omniverse**, as we understood earlier, is much more complex and massive in size compared to the Metaverse and Multiverse. Omniverse includes all possible Multiverses existing in the reality, and as Metaverses are part of those Multiverses, Omniverse easily takes the cup of having much more amount of data to store and trade. An Omniverse also supports the concept of enhanced connectivity and data transfer as it creates an environment where everything exists inside of the concept. So, if someone is controlling the Omniverse, then they get access to the information that is existing in all possible parallel storages of data inside the Omniverse.
-
-
 
 ##### Technological requirements
 
@@ -76,28 +62,6 @@ A **Multiverse**, as it is massive in size, requires larger computational resour
 
 An **Omniverse** is what tops the hierarchy in terms of technical requirements due to its size. The concept covers all Multiverses, and that feature enables easiness of connectivity, one governance over the entire data infrastructure, faster connectivity of different platforms, and more. With all these capabilities, Omniverse also raises the requirement for technologies to support all these operations.
 
-
-
-
-
-
-
-TODO: https://mention.com/en/blog/metaverse-multiverse-omniverse/ TODO: https://www.techtarget.com/searchcio/tip/Metaverse-vs-multiverse-vs-omniverse-Key-differences
-
-“The Metaverse is a massively scaled and interoperable network of real-time rendered 3D virtual worlds which can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications, and payments.”
-
-
-
-
-
-https://initiatives.weforum.org/defining-and-building-the-metaverse/home
-
-### Eight Criteria for the open Metaverse
-
-TODO: https://medium.com/allthingsweb-blog/how-we-think-about-the-metaverse-374085b9e90
-
-
-
 ### Understanding the Metaverse
 
 To us, the Metaverse is an evolution of the internet. We believe people will say “I am in the Metaverse” when they spend a significant amount of time and money in a digital space, and may even have a job that pays them to do things in the digital space.
@@ -109,53 +73,6 @@ What is intellectually exciting is recognising that the Metaverse combines techn
 We believe the Metaverse will consist of **interconnected spaces in which humans interact with a sense of presence**, and will enjoy experiences and applications.
 
 It must be an **open, composable stack and run on a massively-scaled, resilient infrastructure that enables real-time interactions**.
-
-
-
-### The Metaverse Must Be a Pluriverse — Eric Wycoff Rogers
-http://ericwycoffrogers.com/writings/2021/12/24/the-metaverse-must-be-a-pluriverse
-
-Towards a Digital Pluriverse
-https://pluriverse.world/about
-
-What is Openverse? - The Big Tech Question
-https://bigtechquestion.com/2022/01/03/online/what-is-openverse/
-
-
-
-
-
-
-
-
-
-TODO: https://mention.com/en/blog/metaverse-multiverse-omniverse/
-TODO: https://www.techtarget.com/searchcio/tip/Metaverse-vs-multiverse-vs-omniverse-Key-differences
-
-
-“The Metaverse is a massively scaled and interoperable network of real-time rendered 3D virtual worlds which can be experienced synchronously and persistently by an effectively unlimited number of users with an individual sense of presence, and with continuity of data, such as identity, history, entitlements, objects, communications, and payments.”
-
-
-
-
-
-https://initiatives.weforum.org/defining-and-building-the-metaverse/home
-
-
-
-### Understanding the Metaverse
-
-To us, the Metaverse is an evolution of the internet. We believe people will say “I am in the Metaverse” when they spend a significant amount of time and money in a digital space, and may even have a job that pays them to do things in the digital space.
-
-Core elements of the Metaverse are the ability to meet and interact with others, participate in an open digital economy, and move fluently between interconnected experiences and applications. The Metaverse will be immersive which allows people to experience a sense of presence.
-
-What is intellectually exciting is recognising that the Metaverse combines technologies like web technologies, 3D engines, digital identity, social networking, cloud computing, online games, VR/AR, and crypto-assets. All of which have been moving along relatively siloed development paths — until now. The Metaverse will be built on technologies of web1, web2, and web3.
-
-We believe the Metaverse will consist of **interconnected spaces in which humans interact with a sense of presence**, and will enjoy experiences and applications.
-
-It must be an **open, composable stack and run on a massively-scaled, resilient infrastructure that enables real-time interactions**.
-
-
 
 # Metaverse vs Multiverse vs Omniverse: Which Is Here To Stay?
 
