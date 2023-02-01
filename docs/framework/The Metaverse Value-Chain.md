@@ -5,8 +5,6 @@ description: The Metaverse Value-Chain
 
 # The Metaverse Value-Chain
 
-## What is Metaverse?
-
 In the recent past, the phrase “**Metaverse**” has gained significant global attention. Although the term was first introduced by author Neal Stephenson in his 1992 sci-fi novel ‘Snow Crash’, it has recently turned into a popular buzzword in the world of technology, business, and finance.
 
 *“The metaverse is a 3D version of the Internet and computing at large. When these two technologies (internet and computing) first emerged, all interactions were primarily text-based (emails, messages, usernames, email addresses). Then they slowly became more media-based (photos, videos, livestreams). The next elevation of user interface and user experience is into 3D. Secondly, if we think of [a] mobile [phone] as placing a computer in our pocket and the internet being available at all times, think of the metaverse as always being within a computer and inside the internet.”* – **Mathew Ball, Venture Capitalist, and Angel Investor**.
@@ -17,13 +15,17 @@ Metaverse is intended to provide permanent, decentralized, collaborative, and in
 
 *“Metaverse will allow people to replicate or enhance their physical activities. This could happen by transporting or extending physical activities to a virtual world or by transforming the physical one. Although the goal of a Metaverse is to combine many of these activities, there are currently many individual Metaverses with limited functionality.”* – **Marty Resnick, VP Analyst at Gartner**.
 
-![Seven Layers of the Metaverse: Experience, Discovery, Creator Economy, Spatial Computing, Decentralization, Human Interface, Infrastructure](https://miro.medium.com/max/1400/0*W7d2kJ2UjzeDkc9Q)
-
 **Jon Radoff** is a business owner, novelist, and game creator, who has written extensively on the subject of “Building the Metaverse.” His conceptual framework is made up of seven layers that explain the metaverse market’s value chain.
 
 **Infrastructure** is the **foundation layer**, which means that without a proper framework, no subsequent advances are feasible. As a result, **technological** processes are situated at the center of the layers of the metaverse.
 
 **Experience, discovery, creator economy, spatial computing, decentralization**, and **human interface** comprises the other stages.
+
+The infrastructure and human interface layers are mainly for deployment of hardware, software and other infrastructure and equipment. The decentralization and spatial computing layers are for the deployment of development tools. The creator economy, discovery, and experience layers are for the deployment of application products and operational ecosystems. 
+
+![seven-layers](./images/seven-layers.jpg)
+
+
 
 ## Layer 1: Experience
 
@@ -82,3 +84,7 @@ The seventh layer ‘infrastructure’ contains the technology that makes everyt
 [The Metaverse Value-Chain. Trillions of dollars are pouring into… | by Jon Radoff | Building the Metaverse | Medium](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7)
 
 [All About Metaverse – 7 Layers - Innovius Research](https://www.innoviusresearch.com/blog/market-report/7-layers-of-metaverse/)
+
+
+
+According to Jon Radoff, who proposed seven layers of the metaverse, the realization of the metaverse consists of seven layers of development and implementation. The infrastructure and human interface layers are mainly for deployment of hardware, software and other infrastructure and equipment. The decentralization and spatial computing layers are for the deployment of development tools. The creator economy, discovery, and experience layers are for the deployment of application products and operational ecosystems. Based on the four development stages of the metaverse, the focus in the early development stage will be put on infrastructure and equipment as well as development tools. The infrastructure and equipment, in particular, constitute the basic technical framework and key equipment for the construction of metaverse ecosystems. 

@@ -94,7 +94,6 @@ module.exports = {
             collapsable: true,
             children:
               [
-                '/framework/Introduction',
                 '/framework/The Metaverse Value-Chain',
                 '/framework/Matthew Ball’s Metaverse Primer',
                 '/framework/Coinbase Metaverse Stack',
