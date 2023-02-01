@@ -5,157 +5,73 @@ description: The Metaverse Value-Chain
 
 # The Metaverse Value-Chain
 
-The metaverse is probably one of the most controversial and intriguing topics these days. The hype around this one single word is astounding. When Mark Zuckerberg announced the name-change of Facebook into Meta, it sent the social media into a frenzy. In October alone, an estimated 2.62 million searches were made about the term.
+## What is Metaverse?
 
-Even though it first appeared in Neal Stephenson’s novel, Snow Crash, twenty years ago; it wasn’t until 2021 that we seriously started thinking about the metaverse. Up until 2021, almost no one had thought that such a fiction-esque idea had the possibility of becoming real. 
+In the recent past, the phrase “**Metaverse**” has gained significant global attention. Although the term was first introduced by author Neal Stephenson in his 1992 sci-fi novel ‘Snow Crash’, it has recently turned into a popular buzzword in the world of technology, business, and finance.
 
-Now, everyone in the tech industry is trying to come up with their own explanation of the metaverse. The gamers are claiming that it already exists in their platforms. According to them; Roblox, Second Life, Fortnite and Minecraft are the best examples of the metaverse.
+*“The metaverse is a 3D version of the Internet and computing at large. When these two technologies (internet and computing) first emerged, all interactions were primarily text-based (emails, messages, usernames, email addresses). Then they slowly became more media-based (photos, videos, livestreams). The next elevation of user interface and user experience is into 3D. Secondly, if we think of [a] mobile [phone] as placing a computer in our pocket and the internet being available at all times, think of the metaverse as always being within a computer and inside the internet.”* – **Mathew Ball, Venture Capitalist, and Angel Investor**.
 
-Meanwhile, others believe we still have years to enter this [new era of the internet](https://holonext.com/how-to-exist-in-meatverse/). They think that the developing technologies of 5G,[ augmented reality](https://holonext.com/top-ar-trends-to-follow-in-2022/), artificial intelligence, the cloud and big data will eventually combine into the metaverse. 
+A **metaverse** is a network of **3D virtual worlds** centered on social connection. It is characterized as a simulated digital environment that incorporates augmented reality (AR), virtual reality (VR), Internet of Things (IoT), 5G, artificial intelligence (AI), and blockchain, as well as social media principles, to build places for rich user interaction that resemble the real world. It is a self-contained virtual economy powered by digital currencies and non-fungible tokens (NFTs).
 
-At the moment, we still haven’t reached a conclusion about this alternative digital world. Because of this, when Jon Radoff came up with a rather simplistic and a systematic explanation of the metaverse, it became an instant hit among Web 3.0 enthusiasts. His seven layered model is simplistic and is already being used in many online publications. 
+Metaverse is intended to provide permanent, decentralized, collaborative, and interoperable opportunities and business models that will allow companies to extend their digital operations.
 
-> In the article on the [value-chain of the metaverse](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7), [Jon Radoff](https://medium.com/@jradoff?source=post_page-----8ae0cde89696--------------------------------) described the seven layers of the ecosystem. 
-
-Jon Radoff is an entrepreneur, author and game designer. For the past few years, he has been writing extensively about the topics surrounding Web 3.0 in his Medium page “Building the Metaverse”. 
-
-His conceptual framework consists of seven tiers that describe the value-chain of the metaverse market. These include opportunities, technological innovations and solutions to our current problems. 
-
-Infrastructure is the base layer, meaning that without adequate framework none of the other developments are possible. This is why [technological processes](https://holonext.com/2022-technology-trends-to-watch/) are at the heart of the metaverse. The other tiers include experience, discovery, creator economy, spatial computing, decentralization and human interface. 
+*“Metaverse will allow people to replicate or enhance their physical activities. This could happen by transporting or extending physical activities to a virtual world or by transforming the physical one. Although the goal of a Metaverse is to combine many of these activities, there are currently many individual Metaverses with limited functionality.”* – **Marty Resnick, VP Analyst at Gartner**.
 
 ![Seven Layers of the Metaverse: Experience, Discovery, Creator Economy, Spatial Computing, Decentralization, Human Interface, Infrastructure](https://miro.medium.com/max/1400/0*W7d2kJ2UjzeDkc9Q)
 
+**Jon Radoff** is a business owner, novelist, and game creator, who has written extensively on the subject of “Building the Metaverse.” His conceptual framework is made up of seven layers that explain the metaverse market’s value chain.
+
+**Infrastructure** is the **foundation layer**, which means that without a proper framework, no subsequent advances are feasible. As a result, **technological** processes are situated at the center of the layers of the metaverse.
+
+**Experience, discovery, creator economy, spatial computing, decentralization**, and **human interface** comprises the other stages.
+
 ## Layer 1: Experience
 
-Many people think of the metaverse as 3D space that will surround us. But the metaverse is not 3D or 2D, or even necessarily graphical; it is about the inexorable **dematerialization** of physical space, distance, and objects. It includes 3D games like Fortnite on our game consoles, Beat Saber in our virtual reality headsets, and Roblox on our computers. It also includes Alexa in our kitchen, Zoom in our virtual offices, Clubhouse on our phones, and Peloton in our home gyms.
+This is the layer on which most businesses and individuals are now focused. Users interact in digitally-driven settings via content such as gaming, shopping, NFTs, e-sports, and theatre. The metaverse is more than just a 3D representation of reality. It will be the ultimate virtualization of physical space, products, and distance. The limits that are physically imposed will be lifted when physical space dematerializes.
 
-What happens when physical space is dematerialized? Formerly scarce experiences may become **abundant**. Games show us the path forward: in a game, you can dream of being a rock star, a Jedi, a race car driver, or anything else you might imagine. Imagine what happens when you apply this to more familiar experiences. For example, a concert in physical space can sell only a few seats in the front row — but a virtual concert can generate a personalized plane of existence around each individual in which you always enjoy the best seat in the house.
+As a result, the metaverse will give everyone a plethora of experiences that they are currently unable to enjoy. 
 
-Games will evolve to incorporate more events that are informed by live entertainment, such as the music concerts and immersive theater that have already emerged in Fortnite, Roblox, and Rec Room. Esports and online communities will be augmented by social entertainment. Meanwhile, traditional industries such as travel, education, and live performance will be reshaped around game-thinking and the virtual economy of abundance.
+Games will develop to include more live entertainment-inspired events, such as music concerts and immersive theatre, which have already appeared in some applications. Social entertainment will supplement e-sports and internet communities.
 
-The live events I’ve touched upon here lead to another facet of metaverse experiences: the **content-community complex.** Whereas once customers were only consumers of content, they are now content-creators and content-amplifiers as well. In the past, there was the notion of “user-generated content” when referring to mundane features like blog comments or uploading a video. Now, content isn’t simply generated by people: it *emerges* from their interactions and feeds into the substance of the conversations within their communities. Content begets content: a virtual flywheel of content, events, and social interaction. When we talk about “immersion” in the future, we’ll be referring not only to immersion within a graphical space or a story-world, but also to the social immersion and how it sparks interaction and propels content.
+According to **Jon Radoff**, *“More and more, consumers are also becoming content creators. Not just in the outdated sense of “user-generated content” but in the form of events and social interactions.”*
 
 ## Layer 2: Discovery
 
-![img](https://miro.medium.com/max/700/1*FbmhytDmYpIfbhSvPRKIOg.jpeg)
+The discovery layer is concerned with the push and pulls that introduces individuals to new experiences. “Pull” depicts an incoming system in which users actively seek information and experiences, while “push” is more outbound and incorporates procedures that notify users about what experiences await them in the metaverse. The discovery layer is, in reality, the most profitable for enterprises. Some ways in which inbound and outbound discoveries take place include:
 
-Photo by [Isaac Davis](https://unsplash.com/@isaacdavis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+* **Inbound:** Community-driven content, Search engines, Real-time presence, App stores, and Earned media
 
-The discovery layer is about the push and pull that introduces people to new experiences. This is a vast ecosystem, and one of the most lucrative for many businesses — including some of the largest in the world. Broadly speaking, most discovery systems can be classified as either *inbound* (the person is actively seeking information about an experience) or *outbound* (marketing that was not specifically requested by the person, even if they opted in).
+* **Outbound:** Display advertising, Emails and social media, and Notifications
 
-Inbound:
-
-- Real-time presence
-- Community-driven content
-- *N* of your friends like *App*
-- App stores (along with reviews, ratings systems, and categorization/tagging)
-- Curation — via featured application listings in stores, taste-makers, and “influencers”
-- Search engines
-- Earned media
-
-Outbound:
-
-- Display advertising
-- Spam (email, LinkedIn, Discord)
-- Notifications
-
-Most of the above are familiar to internet users at this point, so I’ll focus here on the aspects of discovery that will elevate in importance in the metaverse.
-
-First, **community-driven content** is a far more cost-effective means of discovery than most forms of marketing. When people really care about the content or the events they are participating in, they’ll spread the word. As content itself gets easier to exchange, trade, and share within more metaverse contexts, the content itself will also become a marketing asset. An example that’s already emerged is[ NFTs](https://medium.com/building-the-metaverse/game-economics-part-2-digital-collectibles-and-nfts-6dc629012cfe): love them or hate them, two of their key advantages are the relative ease with which they can be supplied to decentralized exchanges and the economics that favor more direct creator-community engagement. Content marketplaces will become an alternative to application marketplaces as a means of discovery.
-
-A specific form of community surfacing is **real-time presence** features. Instead of focusing on what people like, this is about what people are actually doing *right now*. This is highly relevant in a metaverse where so much of the value will come from interacting with friends through shared experiences.
-
-The various walled gardens for certain games make good use of real-time presence: if you login to Steam, Battle.net, Xbox or PlayStation, you’ll see what games your friends are playing right now. Outside of games, Clubhouse shows the power of this structure: deciding which room to join is largely oriented toward your curated list of people you follow.
-
-Just as we are dematerializing physical reality, the metaverse is also digitizing social structures. Whereas earlier stages of the Internet were defined by social media “stickiness” around a few monolithic providers, a decentralized identity ecosystem may shift the power toward the social groups themselves, allowing them to move frictionlessly across collective experiences. Clubs emerge on Clubhouse and[ plan a party in Rec Room](https://twitter.com/jradoff/status/1377728184389603330); guilds move between games; a circle of friends jumps between experiences on Roblox. This is the marketing implication of the content-community complex.
-
-Real-time presence detection that spans the multitude of activities in the metaverse is one of the greatest discovery opportunities for creators.[ Discord has a presence-detection SDK](https://discord.com/developers/docs/game-sdk/activities) that works across different game environments; once that (or something like it) is adopted more pervasively and surfaced more apparently, we’ll increasingly transition from asynchronous “social networking” to real-time “social activity.” Experiences that give community leaders the tools to launch activities that people actually want to join into will lead the way.
+**Community-driven** content is a considerably more cost-effective way of discovering new things than other types of marketing. As content becomes simpler to swap, trade, and share across more metaverse situations, it becomes a marketing asset. As a tool of discovery, content marketplaces will substitute application marketplaces.
 
 ## Layer 3: Creator Economy
 
-![img](https://miro.medium.com/max/700/1*oSoXEFDNJhefh2IaomTkYA.png)
+According to **Jon Radoff**, *“Creators gain tools, templates, and marketplaces of content that reorient development from a bottoms-up, code-centered process to a top-down, creatively centered process.”* The creator economy refers to the technology that creators utilize to produce metaverse experiences, such as design tools and applications, as well as workflow platforms.
 
-My friend [Victoria del Castillo](https://twitter.com/ExtendedVictory), a Metaverse creator in AR/VR/XR
+Content makers will be crucial in shaping this new environment. They have had remarkable success on social media platforms and will continue to be a significant driver of growth in the metaverse’s virtual reality. They will design their metaverse areas where their viewers may connect, hang out, and interact with them.
 
-Not only are the experiences of the metaverse becoming increasingly immersive, social, and real-time, but the number of creators who craft them is increasing exponentially. This layer contains all of the technology that creators use on a daily basis to craft the experiences that people enjoy.
-
-Previous creator economies developed in consistent patterns, whether in the metaverse, games, web development, or e-commerce:
-
-**Pioneer Era:** The first people to create experiences for a given technology have no tools available, so they build everything from scratch. The first websites were coded directly in HTML; people implemented their own shopping carts for e-commerce sites; programmers wrote directly to the graphics hardware for games.
-
-**Engineering Era:** After the early successes in a creative market, there’s an explosion of the number of people on teams. Build-from-scratch is usually too slow and expensive to support needs, and workflow grows more complex. The earliest tooling in a market tends to relieve overloaded engineers by supplying them with SDKs and middleware to save them time. For example, Ruby on Rails (along with a huge number of other application server stacks) made it easier for developers to create data-driven websites. In games, graphics libraries such as OpenGL and DirectX arrived to provide programmers with the ability to render 3D graphics without knowing much low-level coding.
-
-**Creator Era:** Ultimately, designers and creators don’t want coding bottlenecks to slow them down — and coders would rather add their abilities to the unique aspects of a project. This era is defined by a dramatic and exponential rise in the number of creators. Creators gain tools, templates, and marketplaces of content that reorient development from a bottoms-up, code-centered process to a top-down, creatively centered process.
-
-Today, you can launch an e-commerce website in Shopify in minutes without knowing a single line of code. Websites can be created and maintained in Wix or Squarespace. 3D graphics experiences can be crafted within game engines such as Unity and Unreal without ever touching the lower-level rendering APIs — using visual interfaces within their studio environments.
-
-Experiences in the metaverse will be increasingly live, social, and continuously updated. Thus far, creator-driven experiences in the metaverse are oriented around centrally managed platforms such as Roblox, Rec Room, and Manticore — where a full suite of integrated tooling, discovery, social networking, and monetization functions has empowered an unprecedented number of people to craft experiences for others.[ Our vision at Beamable](https://www.beamable.com/whitepapers) is to equip independent creators with the same capabilities, but in a decentralized and open manner.
+Creators will be able to transform the metaverse into a revenue-generating opportunity through selling commercial products, NFTs, and IRL products, displaying, and selling NFT collections.
 
 ## Layer 4: Spatial Computing
 
-![img](https://miro.medium.com/max/700/1*Pir-SR-yX1-AS1l987w_jA.jpeg)
+Spatial computing is a real/virtual combination that blurs the line between the actual and ideal worlds. Spatial computing has grown into a broad category of technology that allows to explore and alter 3D locations, as well as enrich the physical world with additional information and experience. This layer’s primary features include 3D engines such as Unity and Unreal.
 
-Flickr Image by [driver Photographer](https://flickr.com/photos/72334647@N03/)
-
-Spatial computing proposes hybrid real/virtual computation that erodes the barriers between the physical and the ideal worlds. … Wherever possible the machine in space and space in the machine should be allowed to bleed into each other. Sometimes this means bringing space into the computer, sometime[s] this means injecting computation into objects. Mostly it means designing systems that push through the traditional boundaries of screen and keyboard without getting hung up there and melting into interface or meek simulation.
-
-— Simon Greenwold, [*Spatial Computing*](https://acg.media.mit.edu/people/simong/thesis/SpatialComputing.pdf)
-
-Spatial computing has exploded into a large category of technology that enables us to enter into and manipulate 3D spaces, and to augment the real world with more information and experience. I divide the software of spatial computing from the enabling hardware layer, which I detail under the Human Interface section below. For the key aspects of software, this includes:
-
-- 3D engines to display geometry and animation (Unity and Unreal)
-- Mapping and interpreting the inside and outside world — geospatial mapping ([Niantic Planet-Scale AR](https://nianticlabs.com/blog/nrwp-update/) and[ Cesium](https://cesium.com/)) and[ object recognition](https://machinelearningmastery.com/object-recognition-with-deep-learning/)
-- Voice and gesture recognition
-- Data integration from devices ([Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)) and biometrics from people (for[ identification](https://www.biometricsinstitute.org/what-is-biometrics/types-of-biometrics/) purposes as well as[ quantified self](https://en.wikipedia.org/wiki/Quantified_self) applications in health/fitness)
-- Next-generation user interfaces to support concurrent information streams and analysis
+Geospatial mapping also aids in mapping and analyzing the inner and outside worlds. Integration of data from devices (Internet of Things) and biometrics from humans is already widely employed in the health and fitness industries. Finally, speech and gesture recognition are integrated in spatial computing software.
 
 ## Layer 5: Decentralization
 
-![img](https://miro.medium.com/max/700/1*YECeOxlko9KoOJNw8RNm3A.jpeg)
+The metaverse, in an ideal world, would be decentralized, open, and diffused – governed by a single entity and belonging to no one and everyone at the same time. Experimentation and growth increase when choices are maximized when systems are interoperable and built inside competitive marketplaces. Furthermore, creators get control over their own data and goods. 
 
-Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-The ideal structure of the metaverse is the opposite of the OASIS of[ *Ready Player One*](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448), where it was controlled by a single entity. Experimentation and growth increase dramatically when options are maximized and systems are interoperable and built within competitive markets where creators are sovereign over their own data and creations.
-
-The simplest example of decentralization is the Domain Name System (DNS), which maps individual IP addresses to names, saving you from having to enter a number each time you want to go somewhere online.
-
-Distributed computing and[ microservices](https://microservices.io/) provide a scalable ecosystem for developers to tap into online capabilities — everything from commerce systems to specialized AI to various game systems — without needing to focus on building or integrating back-end capabilities.
-
-Blockchain technology, which enables value-exchange between software, self-sovereign identity and new ways of unbundling and bundling content and currencies — is a large part of decentralization. [This area of innovation is called Web3](https://medium.com/building-the-metaverse/the-permissionless-metaverse-658872a35da4), which frees financial assets from centralized control and custody — and within[ decentralized finance (DeFi)](https://www.coindesk.com/what-is-defi), we already see examples of connecting financial legos to form novel applications. With the advent of NFTs and[ blockchains optimized for the sort of microtransactions required by games and metaverse experiences](https://medium.com/building-the-metaverse/game-economics-part-2-digital-collectibles-and-nfts-6dc629012cfe), we’ll see a wave of innovation around decentralized markets and applications for game assets as well.
-
-“Far edge” computing will push the cloud closer to our homes — even into our vehicles — to enable powerful applications at low latency, without burdening our devices with all of the work. Computing power will become more like a utility on a grid (not unlike electricity) and less like a datacenter.
+Decentralization includes the blockchain, smart contracts, open-source platforms, and, eventually, the prospect of self-sovereign digital identity. Distributed computing and microservices are increasingly enabling a scalable environment for developers to utilize online capabilities.
 
 ## Layer 6: Human Interface
 
-![img](https://miro.medium.com/max/700/1*Pui2fobETZLDc2ZwJLsN7A.jpeg)
-
-Flickr Image by [Vu Hoang](https://flickr.com/photos/187794252@N03/)
-
-Computer devices are getting closer to our bodies, transforming us into cyborgs.
-
-Smartphones are no longer phones. They are highly portable, always-connected, and powerful computers that happen to have a phone application preinstalled. They’re only getting more powerful; and with further miniaturization, the right sensors, embedded AI technology, and low-latency access to powerful edge computing systems, they’ll absorb more and more applications and experiences from the metaverse.
-
-The Oculus Quest is essentially a smartphone that’s been refactored into a VR device; this untethering gives us a sense of where the future is heading.
-
-In a few years the Quest 2 ought to be reminiscent of the mobile brick-phone from decades past; soon we’ll have[ smartglasses that can perform all the functions of a smartphone](https://www.wareable.com/ar/the-best-smartglasses-google-glass-and-the-rest) along with AR and VR applications.
-
-Beyond smartglasses, there is a growing industry experimenting with new ways to bring us closer to our machines:
-
-- [3D-printed wearables](https://3dprintingindustry.com/news/scientists-make-3d-printed-wearables-breakthrough-with-self-powered-sensors-184736/) integrated into fashion and clothing
-- Miniaturized biosensors, some even[ printed on the skin](https://www.forbes.com/sites/helenalbert/2020/10/24/biosensors-printed-directly-on-skin-bring-wearable-tech-to-next-level/?sh=53b2716837d3)
-- Maybe even consumer[ neural interfaces](https://neuralink.com/)?
+Human interface is a critical feature of the metaverse’s hardware layer. Additionally, biosensors and neural connections between brains and computers are already being tested. The majority of the technologies involve wearables such as VR headsets and smart glasses, but it also contains neural network and haptics technology. This layer also includes haptics, which allows information to be sent by touch even when no objects are present. Using haptics, one may operate electronic gadgets in mid-air without touching buttons or a screen.
 
 ## Layer 7: Infrastructure
 
-![img](https://miro.medium.com/max/700/1*ZsAkSRWRVyMeyAlBI_CQqQ.jpeg)
-
-Photo by [Laura Ockel](https://unsplash.com/@viazavier?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-The infrastructure layer includes the technology that enables our devices, connects them to the network, and delivers content.
-
-5G networks will dramatically improve bandwidth while reducing network contention and latency. 6G will increase speeds by yet another order of magnitude.
-
-Enabling the untethered functionality, high performance, and miniaturization required by the next generation of mobile devices, smartglasses, and wearables will require increasingly powerful and tinier hardware:[ semiconductors that are imminently dropping to 3nm processes and beyond](https://semiengineering.com/making-chips-at-3nm-and-beyond/); microelectromechanical systems[ (MEMS) that enable tiny sensors](https://www.semi.org/en/blogs/technology-trends/augmenting-reality-with-mems-sensors); and[ compact, long-lasting batteries](https://www.pocket-lint.com/gadgets/news/130380-future-batteries-coming-soon-charge-in-seconds-last-months-and-power-over-the-air).
+The seventh layer ‘infrastructure’ contains the technology that makes everything listed above a reality. 5G and 6G networks, Wi-Fi, cloud architecture, artificial intelligence, AR/VR/MR, blockchain, and graphics processing units are examples of the underlying technology and network components that enable the metaverse (GPUs). 5G networks will vastly boost capacity while simultaneously decreasing competition and latency.
 
 ## Further Reading
 
@@ -164,3 +80,5 @@ Enabling the untethered functionality, high performance, and miniaturization req
 [Metaverse 101: Understanding the Seven Layers of the Metaverse - Holonext](https://holonext.com/metaverse-101-understanding-the-seven-layers/)
 
 [The Metaverse Value-Chain. Trillions of dollars are pouring into… | by Jon Radoff | Building the Metaverse | Medium](https://medium.com/building-the-metaverse/the-metaverse-value-chain-afcf9e09e3a7)
+
+[All About Metaverse – 7 Layers - Innovius Research](https://www.innoviusresearch.com/blog/market-report/7-layers-of-metaverse/)

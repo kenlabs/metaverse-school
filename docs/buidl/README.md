@@ -5,6 +5,17 @@ description: Introduction to Buidl
 
 # Buidl
 
+The industry’s in a ‘metaverse race’ where every major enterprise is competing to create its own corner of the metaverse. Some of the most prominent players include Meta, Google, and Microsoft.
+
+**[NFTs](https://phemex.com/academy/what-are-non-fungible-tokens-nfts)** are considered as an experimental investment with massive potential, but these digital assets are the key differentiating feature among users in the metaverse era. The major use cases of NFTs include gaming, digital art, and collectibles. [**NFTs in the metaverse**](https://phemex.com/academy/what-is-metaverse-nft) play an important role in the rapidly growing crypto economy.
+
+The biggest challenge for metaverse builders to overcome is the lack of platform interoperability. Currently, each platform exists in its own silo with no connection to the others. This fragmentation is a major hindrance to the metaverse’s growth.
+
+Metaverse vs Multiverse vs Omniverse: Which Is Here To Stay? - Phemex Blog
+https://phemex.com/blogs/metaverse-vs-multiverse-vs-omniverse
+
+
+
 
 
 Applying the Metaverse | November 2022 | Communications of the ACM

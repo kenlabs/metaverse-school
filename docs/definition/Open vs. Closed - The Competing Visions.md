@@ -6,7 +6,7 @@ description: Open vs. Closed - The Competing Visions
 
 # Open vs. Closed - The Competing Visions
 
-### Are there competing visions for the Metaverse?
+## Are there competing visions for the Metaverse?
 
 It is true there are competing visions for the Metaverse and it is not yet clear if they can and will co-exist or must be in competition. To put it simply there are at least two versions of the Metaverse we observe emerging: one dominated by closed platforms and Big Tech like Facebook / Oculus and the other built on open protocols leveraging blockchains like Decentraland.
 
@@ -22,9 +22,7 @@ It could be said there is a third classification about whether the platform allo
 
 It is our belief, and the thesis of this paper, that with time (the one thing we don’t answer is how long) an open metaverse built on shared open source protocols, open infrastructure and a single unifying yet open financial system will erode, or ‘eat’, and potentially replace closed platforms due to powerful network effects. Leaving the only remaining distinction between virtual worlds; if they are low-fi or hi-fi. This final point is important and something that we believe we as an industry should always maintain in order to be as inclusive as possible and onboard as many people out of the old economy and into The Open Metaverse.
 
-
-
-### 7 Essential Ingredients of an Open Metaverse
+## 7 Essential Ingredients of an Open Metaverse
 
 There has been a lot of buzz about “the metaverse” since its coinage in the ‘90s, but especially during the pandemic (given the surge in online activity), and even more so after Facebook changed its name to Meta. 
 
@@ -98,61 +96,7 @@ The pandemic underscored the need for more immersive experiences — beyond trad
 
 The metaverse has nothing to do with “view” modalities — the tools you use to see the metaverse. That’s a convenient meme for those who have control over manufacturing hardware. 
 
-
-
-### Openverse · ETHGlobal Showcase
-
-The open, permissionless and user-owned AR/VR metaverse of the future
-https://showcase.ethglobal.com/ethonline/openverse
-
-
-
-We are building the open, permissionless and user-owned metaverse of the future. Here's why we need it today: 
-
-1. Facebook controls a large market share of the VR hardware market with Oculus. Recently, it has decided to force its users to sign in with a Facebook account rather than a separate Oculus account, causing some users to even be locked out of using their headsets if their Facebook account was deemed "suspicious". The plan for Facebook here is obvious - to monetize the attention of users in VR headsets with advertisements. 
-2. We believe that for an open Web ecosystem to thrive, we need alternative methods of monetizing experiences and content in a way that is not extractive from the user, but provides ways for the users of said experiences to benefit in a way that is non zero-sum. 
-3. One of the best ways in which experiences and content creators can create such forward-looking communities, is through a decentralized form of ownership, in which all participants of the network benefit from the overall network's growth.
-4. Openverse is the technological manifestation of these values. We are focused on AR/VR because we believe that XR not only enhances the feeling of presence in a social setting between two people, but it also strengthens the notion of ownership of a particular virtual good through the ability to virtually "hold" an item.
-
-![开放式展示柜](https://ethglobal.s3.amazonaws.com/recbH2vfBFktqXdvN/openverse-banner.png)
-
-
-
-### Open Metaverse : The next big thing for NFT’s and Web 3.0
-
-https://www.bowtiedmetaverse.com/p/open-metaverse-the-next-big-thing
-
-OM Idea Form (Responses) - Google Sheets
-https://docs.google.com/spreadsheets/d/1V8QL2xid0AR59v_S-U6Q38z8gLrj5uzlNxbP8HVh8YI/edit#gid=835842786
-
-
-
-TODO: https://showcase.ethglobal.com/ethonline/openverse
-TODO: https://bigtechquestion.com/2022/01/03/online/what-is-openverse/
-https://pluriverse.world/about
-http://ericwycoffrogers.com/writings/2021/12/24/the-metaverse-must-be-a-pluriverse
-
-
-> We are now watching the emergence of the Open Metaverse, a common open economic layer built from shared open-source protocols, open infrastructure, and a single unifying yet open financial system. New business models, principles, and technologies are emerging through DeFi, NFTs, Decentralized Governance & Storage, Self-Sovereign Identity, and more.
->
->
-> Web 3; a Web centered on user-centricity and the enablement of sovereign identity, data and wealth.
->
-> just as we predicted the convergence of blockchain tech with IoT, AI, VR & AR bringing the web cycle forward, we are seeing the convergence of Web 3 technologies becoming the building blocks of the Open Metaverse – composed of peer-to-peer network structures, distributed ledger technology, programmability, core innovations, and self-custody of assets and wealth. The evolving technologies in these building blocks will serve to fill in the gaps of existing Web 3 tech – user experience, performance, and cost and enable the true actualization of the Open Metaverse.
->
-> - https://outlierventures.io/announcing-diffusion-2022-the-biggest-open-metaverse-conference-coming-march-28th-30th/
->
->   the objectives of Protocol Labs aligning perfectly with the framework laid down in the Open Metaverse OS
->
-> - https://outlierventures.io/why-we-are-collaborating-with-filecoin/
-
-# So why build in the Open Metaverse?
-
-https://outlierventures.io/research/so-why-build-in-the-open-metaverse/
-
-https://www.youtube.com/watch?v=p5G7wzW8I4c
-
-
+## So why build in the Open Metaverse?
 
 Well firstly there is a general direction of travel towards open standards in the Metaverse even by what you might at first glance regard as it’s closed participants including:
 
@@ -176,45 +120,37 @@ This later point around incentives is critical because one of the powerful thing
 
 Therefore it is more likely virtual worlds in The Open Metaverse are increasingly interoperable and interconnected to the point it will be hard to distinguish them as separate but rather different instances of a whole.
 
+## Openverse · ETHGlobal Showcase
 
+We are building the open, permissionless and user-owned metaverse of the future. Here's why we need it today: 
 
+1. Facebook controls a large market share of the VR hardware market with Oculus. Recently, it has decided to force its users to sign in with a Facebook account rather than a separate Oculus account, causing some users to even be locked out of using their headsets if their Facebook account was deemed "suspicious". The plan for Facebook here is obvious - to monetize the attention of users in VR headsets with advertisements. 
+2. We believe that for an open Web ecosystem to thrive, we need alternative methods of monetizing experiences and content in a way that is not extractive from the user, but provides ways for the users of said experiences to benefit in a way that is non zero-sum. 
+3. One of the best ways in which experiences and content creators can create such forward-looking communities, is through a decentralized form of ownership, in which all participants of the network benefit from the overall network's growth.
+4. Openverse is the technological manifestation of these values. We are focused on AR/VR because we believe that XR not only enhances the feeling of presence in a social setting between two people, but it also strengthens the notion of ownership of a particular virtual good through the ability to virtually "hold" an item.
 
+![开放式展示柜](https://ethglobal.s3.amazonaws.com/recbH2vfBFktqXdvN/openverse-banner.png)
 
+## Further Reading
 
+[Open Metaverse : The next big thing for NFT’s and Web 3.0](https://www.bowtiedmetaverse.com/p/open-metaverse-the-next-big-thing)
 
-### Are there competing visions for the Metaverse?
+[OM Idea Form (Responses) - Google Sheets](https://docs.google.com/spreadsheets/d/1V8QL2xid0AR59v_S-U6Q38z8gLrj5uzlNxbP8HVh8YI/edit#gid=835842786)
 
-https://outlierventures.io/research/are-there-competing-visions-for-the-metaverse/
+[The open, permissionless and user-owned AR/VR metaverse of the future](https://showcase.ethglobal.com/ethonline/openverse)
 
-It is true there are competing visions for the Metaverse and it is not yet clear if they can and will co-exist or must be in competition. To put it simply there are at least two versions of the Metaverse we observe emerging: one dominated by closed platforms and Big Tech like Facebook / Oculus and the other built on open protocols leveraging blockchains like Decentraland.
+[Openverse · ETHGlobal Showcase](https://showcase.ethglobal.com/ethonline/openverse)
 
-But the distinction of open and closed isn’t just limited to technology choices and the extent to which platforms embrace open source principles with their code and data but importantly whether they have a closed economy, within or across their own proprietary games, or whether they allow transferability of value outside their ecosystem, how that interacts with fiat based systems and to what extent they do or don’t control the monetary and fiscal policy of the underlying economy itself.
+[What is Openverse? - The Big Tech Question](https://bigtechquestion.com/2022/01/03/online/what-is-openverse/)
 
-Furthermore, there is also another technical and philosophical distinction between visions and emergent actualities of metaverses which could be described as: low-fi to hi-fi. There are platforms that deliberately push the technical boundaries of the experience through both software and the hardware requirements like Oculus and those that design for the lowest possible device and bandwidth requirements for universal accessibility like Cryptovoxels. Although it must be said to our knowledge all of these virtual worlds still require at least a smart phone which still currently excludes 6/10 of the global population.
+[Towards a Digital Pluriverse](https://pluriverse.world/about)
 
-![img](https://outlierventures.io/wp-content/uploads/2021/02/Screenshot-2021-02-16-at-10.05.20.png)
+http://ericwycoffrogers.com/writings/2021/12/24/the-metaverse-must-be-a-pluriverse
 
-You can take these as a form of axes which allow for a crude classification of metaverse platforms and virtual worlds to emerge. We believe these two axes are the most important to consider because when combined they represent the cost to enter the economic system and the ability to off-set that cost by earning value for different demographics.
+[Eight Criteria for the open Metaverse](https://medium.com/allthingsweb-blog/how-we-think-about-the-metaverse-374085b9e90)
 
-It could be said there is a third classification about whether the platform allows for user generated content or not, but we think this difference will fade away with time. Most platforms to varying degrees will allow for UGC like Roblox or Minecraft, and will fall under the degree to which the virtual world is generally ‘open’, so UGC is not important as a separate dimension when looking to project into the future of the metaverse.
+[So why build in the Open Metaverse? - Outlier Ventures](https://outlierventures.io/research/so-why-build-in-the-open-metaverse/)
 
-It is our belief, and the thesis of this paper, that with time (the one thing we don’t answer is how long) an open metaverse built on shared open source protocols, open infrastructure and a single unifying yet open financial system will erode, or ‘eat’, and potentially replace closed platforms due to powerful network effects. Leaving the only remaining distinction between virtual worlds; if they are low-fi or hi-fi. This final point is important and something that we believe we as an industry should always maintain in order to be as inclusive as possible and onboard as many people out of the old economy and into The Open Metaverse.
+https://outlierventures.io/research/so-why-build-in-the-open-metaverse/
 
-Outlier Ventures has been investing and accelerating the Web 3 ecosystem since 2013. In 2019 we launched Base Camp – an accelerator program for pre-seed startups operating in DeFi, NFTs and open data. We provide capital, help with your token design, access to our network of the best investors and founders of Web 3, back office support and mentorship.
-
-What is more, in 2020 we started a decicated token launch program called Ascent where we help you launch, accelerate and scale your network.
-
-
-
-> ### Competing Multiverses
->
-> However, in the paper we first explore two versions of The Metaverse we observe emerging: one dominated by closed platforms and Big Tech like Facebook / Oculus and the other built on open protocols leveraging blockchains like Decentraland. Where its possible to assess the degree of comparative openness across;
->
-> how much a platform embraces open source principles with their code and data, how closed a virtual economy is (within / across their proprietary games), the extent they control the monetary & fiscal policy of underlying economy, how it interacts with fiat based systems, and if they allow transferability of value outside their ecosystem. We also believe there is a Low-fi vs Hi-Fi spectrum based on the hardware required to experience a virtual world which we propose should continue to be maintained in order to be as inclusive and onboard as many people out of the old economy and into The Open Metaverse.
->
-> https://outlierventures.io/research/the-open-metaverse-os/
-
-### Eight Criteria for the open Metaverse
-
-TODO: https://medium.com/allthingsweb-blog/how-we-think-about-the-metaverse-374085b9e90
-
+[So, What is The Open Metaverse? - YouTube](https://www.youtube.com/watch?v=p5G7wzW8I4c)

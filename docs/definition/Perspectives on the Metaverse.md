@@ -6,10 +6,6 @@ description: Perspectives on the Metaverse
 
 Virtual realities are coming to a computer interface near you. Will you be joining a metaverse, multiverse or an enterprise-oriented version of the omniverse?
 
-https://www.techtarget.com/searchcio/tip/Metaverse-vs-multiverse-vs-omniverse-Key-differences
-
-
-
 As interest in the metaverse continues to surge, discussion about the terminology used to describe the concept of immersive [3D](https://www.techtarget.com/whatis/definition/3-D-three-dimensions-or-three-dimensional), digital environments has also picked up steam. Three terms -- [metaverse](https://www.techtarget.com/whatis/feature/The-metaverse-explained-Everything-you-need-to-know), multiverse and omniverse -- are sometimes used interchangeably, but they take different approaches to [virtual reality](https://www.techtarget.com/whatis/definition/virtual-reality).
 
 "Each describes a different user context and paradigm, but all technically include virtual realities created by people through their interactions in a digital space. However, they accomplish it through different methods," explained Frank Palermo, executive vice president and head of technology at Virtusa, a digital engineering consultancy. The following outlines the basics:
@@ -86,3 +82,6 @@ What's the takeaway for business in this hairsplitting exercise? Enterprises mus
 
 Collins said greater interoperability provides better UX, with universal interoperability being the optimal scenario. However, there are financial incentives to keeping users in a walled garden or at least to creating some interoperability friction. He suggested businesses entering the metaverse figure out the right balance between the two.
 
+## Further Reading
+
+[Metaverse vs. Multiverse vs. Omniverse: Key Differences | TechTarget](https://www.techtarget.com/searchcio/tip/Metaverse-vs-multiverse-vs-omniverse-Key-differences)
