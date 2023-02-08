@@ -5,9 +5,7 @@ description: The Metaverse Builders
 
 # The Metaverse Builders
 
-https://outlierventures.io/research/the-web-3-toolbox/
 
-Metaverse 的市场地图。 在我关于……价值链的文章中 通过乔恩·拉多夫 | 构建元宇宙 | 中等的
 https://medium.com/building-the-metaverse/market-map-of-the-metaverse-8ae0cde89696
 
 
@@ -157,55 +155,4 @@ Meta has partnered with Microsoft to bring different workplace solutions using M
 Yes! Microsoft is one of the largest tech companies investing heavily in the Metaverse. With its mixed reality concept, Microsoft is incorporating the best of AR and VR to provide more immersion than ever before. 
 
 ## **Reference**
-
-[Microsoft Metaverse vs. Facebook Metaverse: What’s the difference? – (blockchain-council.org)](https://www.blockchain-council.org/metaverse/microsoft-metaverse-vs-facebook-metaverse/)
-
-[Microsoft Partners With Meta to Bring Teams, Microsoft 365, and Other Apps to Meta Quest Devices | Spiceworks 1](https://www.spiceworks.com/tech/it-strategy/news/microsoft-meta-partnership/)
-
-[Microsoft vs. Meta: Who’s got the upper hand in the Metaverse? (fastcompany.com)](https://www.fastcompany.com/90777904/microsoft-vs-meta-whos-got-the-upper-hand-in-the-metaverse)
-
-[Top Seven Companies Developing the Metaverse in 2022 – Inside Telecom – Inside Telecom](https://insidetelecom.com/top-seven-companies-developing-the-metaverse-in-2022/)
-
-[What is Microsoft? (techtarget.com)](https://www.techtarget.com/searchwindowsserver/definition/Microsoft)
-
-[Microsoft metaverse vs. Facebook metaverse: What’s the difference? (cointelegraph.com)](https://cointelegraph.com/metaverse-for-beginners/microsoft-metaverse-vs-facebook-metaverse-what-is-the-difference)
-
-[Microsoft or Meta: Who’s best positioned to win the Metaverse? | Windows Central](https://www.windowscentral.com/microsoft-or-meta-whos-best-positioned-win-metaverse)
-
-[Microsoft and Meta partnership brings Office 365 apps to the Metaverse (cointelegraph.com)](https://cointelegraph.com/news/microsoft-and-meta-partnership-brings-office-365-apps-to-the-metaverse#:~:text=Meta Platforms has partnered with,Connect 2022 keynote on Oct.)
-
-[Microsoft and Meta partner to deliver immersive experiences for the future of work and play – The Official Microsoft Blog](https://blogs.microsoft.com/blog/2022/10/11/microsoft-and-meta-partner-to-deliver-immersive-experiences-for-the-future-of-work-and-play/)
-
-[Metaverse Devices; The Best Gear To Enter the Metaverse (metamandrill.com)](https://metamandrill.com/metaverse-devices/)
-
-[Microsoft joins ‘Metaverse’ club, gears for early 2022 launch; check out details – BusinessToday](https://www.businesstoday.in/technology/news/story/microsoft-joins-metaverse-club-gears-for-early-2022-launch-check-out-details-311207-2021-11-03)
-
-[Microsoft, Meta brings Windows, Teams, Office, and Xbox to Quest VR headsets – Times of India (indiatimes.com)](https://timesofindia.indiatimes.com/gadgets-news/microsoft-meta-brings-windows-teams-office-and-xbox-to-quest-vr-headsets/articleshow/94810564.cms)
-
-[The Metaverse is coming. Here are the cornerstones for securing it. – The Official Microsoft Blog](https://blogs.microsoft.com/blog/2022/03/28/the-metaverse-is-coming-here-are-the-cornerstones-for-securing-it/)
-
-[Microsoft Stock: Defining Its Future With Gaming, Metaverse & Cloud | Seeking Alpha](https://seekingalpha.com/article/4481716-microsoft-q2-earnings-gaming-metaverse-cloud-future)
-
-[Microsoft Is Hitting Home Runs, With The Metaverse On Deck | The Motley Fool](https://www.fool.com/investing/2022/01/10/microsoft-is-hitting-home-runs-with-the-metaverse/)
-
-[Converging the physical and digital with digital twins, mixed reality, and metaverse apps | Blog e aggiornamenti di Azure | Microsoft Azure](https://azure.microsoft.com/it-it/blog/converging-the-physical-and-digital-with-digital-twins-mixed-reality-and-metaverse-apps/)
-
-[Microsoft Metaverse; Learn About Microsoft’s Metaverse Strategy (metamandrill.com)](https://metamandrill.com/microsoft-metaverse/)
-
-[The Microsoft Metaverse Is Officially Coming In 2022 | IS News (influentialsoftware.com)](https://www.influentialsoftware.com/microsoft-metaverse-is-coming/#:~:text=The Microsoft metaverse is coming to Microsoft Teams in early,to communicate in mixed reality.)
-
-
-
-
-
-## Further Reading
-
-[How Web3 Founders Can Get the Most Out of an Accelerator Program](https://www.entrepreneur.com/science-technology/how-web3-founders-can-get-the-most-out-of-an-accelerator/442307)
-
-Trust and risk considerations for the metaverse: PwC
-https://www.pwc.com/us/en/tech-effect/emerging-tech/metaverse-trust-and-risk-considerations.html
-
-TODO: https://a16zcrypto.com/metaverse-real-estate-digital-land-value-to-users/
-
-https://grayscale.com/wp-content/uploads/2021/12/Grayscale-Decentraland.pdf
 

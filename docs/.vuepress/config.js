@@ -121,10 +121,10 @@ module.exports = {
             collapsable: true,
             children:
               [
-                '/buidl/Value Creation in the Metaverse',
                 '/buidl/Opportunities in the Metaverse',
-                '/buidl/The Metaverse Toolbox',
-                '/buidl/The Metaverse Builders',
+                '/buidl/Value Creation in the Metaverse',
+                '/buidl/Community-Driven Technical Capability Framework',
+                '/buidl/The Metaverse Industry Landscape'
               ]
           },
           {

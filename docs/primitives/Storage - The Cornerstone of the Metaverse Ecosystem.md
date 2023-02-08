@@ -357,3 +357,4 @@ For this episode of The Metaverse Live, we're joined by Juan Benet, founder of o
 
 [Metaverse explained | Nokia](https://www.nokia.com/about-us/newsroom/articles/metaverse-explained/)
 
+[Filecoin Consensus Performance analysis](https://crypto.unibe.ch/archive/theses/2022.msc.marcel.wuersten.pdf)
