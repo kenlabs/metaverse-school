@@ -86,6 +86,7 @@ module.exports = {
                 '/definition/Metaverse vs. Multiverse vs. Omniverse',
                 '/definition/Open vs. Closed - The Competing Visions',
                 '/definition/Web3 vs. Metaverse',
+                '/definition/XR 2.0 vs. Metaverse',
                 '/definition/Perspectives on the Metaverse'
               ]
           },
@@ -131,10 +132,15 @@ module.exports = {
             title: 'Resource',
             collapsable: true,
             children: [
-              '/resource/',
+
               '/resource/All Things Web',
               '/resource/Building the Metaverse',
-              '/resource/Reed Smith Guide to the Metaverse'
+              '/resource/Reed Smith Guide to the Metaverse',
+              '/resource/28 slides explaining 11 frontiers of tech-driven innovation',
+              '/resource/The Metaverse Builders',
+              '/resource/Recommended tools',
+              '/resource/Featured Metaverse dev sites',
+              '/resource/Miscellaneous'
             ]
           },
           {

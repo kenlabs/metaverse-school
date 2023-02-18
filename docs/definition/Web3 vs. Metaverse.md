@@ -61,3 +61,18 @@ https://www.techtarget.com/whatis/feature/Web3-vs-metaverse-Whats-the-difference
 
 [Web3 vs. metaverse: What's the difference?](https://www.techtarget.com/whatis/feature/Web3-vs-metaverse-Whats-the-difference)
 
+[Blockchain for the Metaverse: A Review](https://www.researchgate.net/publication/359368537_Blockchain_for_the_Metaverse_A_Review/fulltext/6237ecbfd1e27a083bc0a0dd/Blockchain-for-the-Metaverse-A-Review.pdf)
+
+[Metaverse | Digital Technology and Innovation Management | SAP Community](https://community.sap.com/topics/digital-innovation/metaverse)
+
+[A Dynamic Hierarchical Framework for IoT-assisted Metaverse Synchronization](https://www.researchgate.net/publication/359105116_A_Dynamic_Hierarchical_Framework_for_IoT-assisted_Metaverse_Synchronization/fulltext/622819bb3c53d31ba4b2e8d8/A-Dynamic-Hierarchical-Framework-for-IoT-assisted-Metaverse-Synchronization.pdf)
+
+[Metaverse for Social Good: A University Campus Prototype](https://www.researchgate.net/profile/Haihan-Duan/publication/354065789_Metaverse_for_Social_Good_A_University_Campus_Prototype/links/612d8c4638818c2eaf703a24/Metaverse-for-Social-Good-A-University-Campus-Prototype.pdf)
+
+[policy and the metaverse – prototype frameworks](https://technarrativelab.org/policy-and-the-metaverse-prototype-frameworks/)
+
+[Metaverse Framework: A Case Study on E-Learning Environment (ELEM)](https://www.researchgate.net/profile/Mahfoudh-Alasaly/publication/360718800_Metaverse_Framework_A_Case_Study_on_E-Learning_Environment_ELEM/links/629aceaa416ec50bdb095eca/Metaverse-Framework-A-Case-Study-on-E-Learning-Environment-ELEM.pdf)
+
+[Is Metaverse in education a blessing or a curse: a combined content and bibliometric analysis](https://www.researchgate.net/journal/Smart-Learning-Environments-2196-7091/publication/361793716_Is_Metaverse_in_education_a_blessing_or_a_curse_a_combined_content_and_bibliometric_analysis/links/62c645db2bdd98698ad9e327/Is-Metaverse-in-education-a-blessing-or-a-curse-a-combined-content-and-bibliometric-analysis.pdf)
+
+[The Metaverse: A Different Perspective | OpenMind](https://www.bbvaopenmind.com/en/technology/digital-world/the-metaverse-a-different-perspective/)

@@ -1,7 +1,6 @@
 ---
 title: 28 slides explaining 11 frontiers of tech-driven innovation
 description: 28 slides explaining 11 frontiers of tech-driven innovation
-
 ---
 
 ## 28 slides explaining 11 frontiers of tech-driven innovation

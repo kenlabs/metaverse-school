@@ -1,11 +1,11 @@
 ---
-title: Featured NFT dev sites
-description: Helpful sites and other resources for NFT developers.
+title: Featured Metaverse dev sites
+description: Helpful sites and other resources for Metaverse developers.
 ---
- # Featured NFT dev sites
+ # Featured Metaverse dev sites
 
-Below you'll find a growing list of sites with useful information and resources for NFT developers. This isn't an exhaustive inventory, so **if you've got a favorite resource that's been valuable along your NFT development journey, please share it! [Add it to this page](https://github.com/protocol/nft-website/blob/main/docs/reference/featured-sites.md) to contribute to the global community of NFT developers.**
- 
+Below you'll find a growing list of sites with useful information and resources for Metaverse developers. This isn't an exhaustive inventory, so **if you've got a favorite resource that's been valuable along your Metaverse development journey, please share it! [Add it to this page](https://github.com/protocol/nft-website/blob/main/docs/reference/featured-sites.md) to contribute to the global community of Metaverse developers.**
+
  ## Conceptual overviews
 
 - [The OpenSea NFT Bible](https://opensea.io/blog/guides/non-fungible-tokens/): Aims to "provide an in-depth overview of non-fungible tokens: the technical anatomy of an ERC721, the history of the NFT, common misconceptions about NFTs, and the current state of the NFT market." 

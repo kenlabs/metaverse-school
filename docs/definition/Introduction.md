@@ -208,3 +208,6 @@ A metaverse does not have to exist in VR/AR. All that’s necessary for a metave
 [Blockchain-Research-No.204-The-Economics-of-Metaverse-1.pdf](https://www.hashkey.com/viewerjs-0.5.8/documents/en/blockchain_research/Blockchain-Research-No.204-The-Economics-of-Metaverse-1.pdf)
 
 [METAVERSE AND MONEY: Decrypting the Future](https://www.citifirst.com.hk/home/upload/citi_research/AZRC7.pdf)
+
+[What is the Metaverse?. With the latest Mark Zuckerberg… | by Ravi Kurani | Medium](https://ravi-kurani.medium.com/what-is-the-metaverse-85ff523dcd13)
+
