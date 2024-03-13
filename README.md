@@ -1,8 +1,8 @@
 # Metaverse School
 
-[![CircleCI](https://circleci.com/gh/kenlabs/metaverse-school/tree/main.svg?style=svg)](https://circleci.com/gh/kenlabs/metaverse-school/tree/main)
+[![CircleCI](https://circleci.com/gh/mvschool-dev/mvschool.dev/tree/main.svg?style=svg)](https://circleci.com/gh/kenlabs/metaverse-school/tree/main)
 
-This repository contains code and content for the [Metaverse School](https://metaverseschool.kencloud.com) website, an open-source community education platform devoted to core concepts, best practices, tutorials, showcases and so on.
+This repository contains code and content for the [Metaverse School](https://mvschool.dev) website, an open-source community education platform devoted to core concepts, best practices, tutorials, showcases and so on.
 
 ## For site developers
 
@@ -15,13 +15,13 @@ To build a local copy, run the following:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/kenlabs/metaverse-school.git
+   git clone git@github.com:mvschool-dev/mvschool.dev.git
    ```
 
-1. Move into the `metaverseschool` folder and install the NPM dependencies:
+1. Move into the `mvschool.dev` folder and install the NPM dependencies:
 
    ```bash
-   cd metaverse-school
+   cd mvschool.dev
    npm install
    ```
 
@@ -43,8 +43,8 @@ A reviewer will be by shortly to have a look!
 
 ## Maintainers
 
-This site's codebase is under active maintenance by members of the core team at [KEN Labs](https://kenlabs.org/).
+This site's codebase is under active maintenance by members of the core team at [KEN Labs](https://kenlabs.io/).
 
 ## License
 
-All software code is copyright (c) Protocol Labs, Inc. under the **[MIT](LICENSE) license**. Other written documentation and content is copyright (c) Protocol Labs, Inc. under the [**Creative Commons Attribution-Share-Alike License**](https://creativecommons.org/licenses/by/4.0/).
+All software code is copyright (c) KEN Labs, Inc. under the **[MIT](LICENSE) license**. Other written documentation and content is copyright (c) Protocol Labs, Inc. under the [**Creative Commons Attribution-Share-Alike License**](https://creativecommons.org/licenses/by/4.0/).
