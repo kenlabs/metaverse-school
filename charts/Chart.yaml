@@ -1,0 +1,12 @@
+apiVersion: v2
+name: mvschool-dev
+description: Install kenlabs.io to provide kenlabs official web page.
+version: 1.0.0
+kubeVersion: < 1.28.0-0
+home: https://kenlabs.io/
+keywords:
+  - mvschool-dev
+sources:
+  - https://github.com/kenlabs/mvschool.dev
+maintainers:
+  - name: kenlabs team

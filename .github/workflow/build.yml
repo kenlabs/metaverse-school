@@ -1,0 +1,44 @@
+name: test
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    if: ${{ startsWith(github.ref, 'refs/heads/deployment/') || github.ref == 'refs/heads/main'  }}
+    runs-on: [self-hosted]
+    steps:
+      - name: chceck code
+        uses: actions/checkout@v2
+      
+      - name: Get version
+        id: version
+        run: |
+          if [[ -n "$GITHUB_REF" && "$GITHUB_REF" == "refs/tags/"* ]]; then
+            echo "tag version"
+            echo "::set-output name=version::${GITHUB_REF/refs\/tags\//}"
+          else
+            echo "commit version"    
+            echo "::set-output name=version::${{ github.sha }}"
+          fi
+
+      - name: Install dependencies
+        uses: bahmutov/npm-install@v1
+
+      - name: Build project
+        run: npm run docs:build
+
+      - name: Build and push
+        run: |
+          docker login -u  ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKERHUB_TOKEN }}
+          docker build -t gitdatateam/mvschool-dev:${{ steps.version.outputs.version }} . 
+          docker push gitdatateam/mvschool-dev:${{ steps.version.outputs.version }}
+
+          docker tag gitdatateam/mvschool-dev:${{ steps.version.outputs.version }} gitdatateam/mvschool-dev:latest
+          docker push gitdatateam/mvschool-dev:latest
+      
+      - name: Deploy
+        uses: WyriHaximus/github-action-helm3@v3
+        with:
+          exec: helm upgrade mvschool-dev --install ./chart --namespace website --set-string tag=latest
+          kubeconfig: ${{ secrets.KUBECONTENT }}
+          overrule_existing_kubeconfig: "true"

@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mvschool-dev-deployment
+  labels:
+    apptype: mvschool-dev
+spec:
+  replicas: {{ .Values.replicas}}
+  selector:
+    matchLabels:
+      app: mvschool-dev
+  template:
+    metadata:
+      labels:
+        app: mvschool-dev
+        apptype: mvschool-dev
+        date: "{{ now | unixEpoch }}"
+    spec:
+      containers:
+        - name: mvschool-dev
+          image: gitdatateam/mvschool-dev:{{ .Values.tag }}
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80
