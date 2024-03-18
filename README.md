@@ -1,6 +1,6 @@
 # Metaverse School
 
-[![CircleCI](https://circleci.com/gh/mvschool-dev/mvschool.dev/tree/main.svg?style=svg)](https://circleci.com/gh/kenlabs/metaverse-school/tree/main)
+[![CircleCI](https://circleci.com/gh/kenlabs/mvschool.dev/tree/main.svg?style=svg)](https://circleci.com/gh/kenlabs/metaverse-school/tree/main)
 
 This repository contains code and content for the [Metaverse School](https://mvschool.dev) website, an open-source community education platform devoted to core concepts, best practices, tutorials, showcases and so on.
 
