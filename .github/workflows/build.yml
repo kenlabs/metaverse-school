@@ -21,8 +21,8 @@ jobs:
             echo "::set-output name=version::${{ github.sha }}"
           fi
 
-      - name: Install dependencies
-        uses: bahmutov/npm-install@v1
+      - uses: bahmutov/npm-install@v1
+      - run: npm t
 
       - name: Build project
         run: npm run docs:build
