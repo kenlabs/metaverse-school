@@ -16,7 +16,7 @@ metadata:
 spec:
   ingressClassName: {{.Values.ingress_name}}
   rules:
-    - host: kenlabs.io
+    - host: mvschool.dev
       http:
         paths:
           - path: /
