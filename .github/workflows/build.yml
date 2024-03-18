@@ -21,11 +21,16 @@ jobs:
             echo "::set-output name=version::${{ github.sha }}"
           fi
 
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          
       - uses: bahmutov/npm-install@v1
-      - run: npm t
 
       - name: Build project
-        run: npm run docs:build
+        run: |
+          export NODE_OPTIONS=--openssl-legacy-provider
+          npm run docs:build
 
       - name: Build and push
         run: |
